@@ -13,7 +13,7 @@ A public GitHub repository containing personally-collected information about pub
 >
 > *GH/`@iceman1001` may use this repository to guide any potential [Proxmark3](https://github.com/RfidResearchGroup/proxmark3) updates.*
 > 
-> *(R), TMs, and SMs are used for descriptive purposes only, and belong to their respective comapanies.*
+> *(R), TMs, and SMs are used for descriptive purposes only, and belong to their respective companies.*
 > 
 > *PTDex is not affiliated with — nor employed/sponsored by — any transit agency/manufacturer/vendor.* 
 
