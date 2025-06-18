@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+authors:
+- given-names: "randy"
+title: "Public Transport Index (PTDex)"
+version: 1.0.0
+date-released: 2025-06-18
+url: "https://github.com/ry4000/ptdex"
