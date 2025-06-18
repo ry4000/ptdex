@@ -5,4 +5,14 @@ authors:
 title: "Public Transport Index (PTDex)"
 version: 1.0.0
 date-released: 2025-06-18
-url: "https://github.com/ry4000/ptdex"
+repository-code: 'https://github.com/ry4000/ptdex'
+url: 'https://github.com/ry4000/ptdex/tree/main'
+abstract: >-
+  A publicly-accessible public transport repository that
+  provides basic/publicly available information about cards
+  personally collected/obtained from around the world.
+keywords:
+  - Public Transport
+  - Radio Frequency Identification Document
+  - NearField Communication
+license: CC-BY-NC-SA-4.0
