@@ -1,4 +1,4 @@
-# randy's Public Transport Index (*ptdex*)
+# randy's Public Transport Index (*PTDex*)
 A public GitHub repository containing personally-collected information about public transport cards.
 
 # Licence
