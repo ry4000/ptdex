@@ -19,6 +19,15 @@ A public GitHub repository containing personally-collected information about pub
 >
 > *PTDex information is correct at the time of collection, and may have since been upgraded by the transit agency.*
 
+> [!TIP]
+>
+> Please join [Iceman's Discord Server](https://discord.gg/iceman) if you wish to mail randy a public transport card for PTDex.
+---
+## Calypso Cards
+| IATA<br>ISO 3166-2<br>City | Name |
+| --- | --- |
+| **YUL**<br>CA-QC<br>Montreal | **OPUS** |
+
 ---
 ## Felicity Cards (*FeliCa*)
 | IATA<br>ISO 3166-2<br>City | Name<br>Variant | Prefix<br>Colour<br>Notches | Expiry<br>Date | Open<br>Service<br>Code |
@@ -77,7 +86,7 @@ A public GitHub repository containing personally-collected information about pub
 | **SEA**<br>US-WA<br>Seattle | **ORCA**<br>DESFire EV3 2k | Code 128 | `###` | - | - | - | - | - |
 | **SYD**<br>AU-NSW<br>Sydney | **Opal**<br>DESFire EV1 4k | - | `####` | - | - | - | - | - |
 | **SYD**<br>AU-NSW<br>Sydney | **Ticket**<br>Ultralight C | - | - | - | `4am`<br>the day after<br>`DD.MM.YYYY` | - | - | - |
-| **TPE**<br>TW-TPE<br>Taipei | **iPASS (一卡通)**<br>Classic EV1 1k | - | - | - | - | - | - | - |
+| **TPE**<br>TW-TPE<br>Taipei | **iPASS**<br>Classic EV1 1k | - | - | - | - | - | - | - |
 | **YVR**<br>CA-BC<br>Vancouver | **Compass**<br>DESFire EV1 4k | UPC A | `###` | - | - | - | - | - | 
 | **YVR**<br>CA-BC<br>Vancouver | **Ticket**<br>Ultralight EV1 | - | - | - | - | - | - | - | 
 | **YYZ**<br>CA-ON<br>Toronto | **Presto**<br>DESFire EV1 4k | - | `###` | - | `DD/MM/YYYY` | - | - | - |
@@ -85,4 +94,5 @@ A public GitHub repository containing personally-collected information about pub
 
 > [!NOTE]
 >
-> 1. **ZAG Value Card** in Hrvatski is `Vrijednosna Karta`.
+> 1. **TPE iPASS** in Chinese (Simplified) is `一卡通`.
+> 2. **ZAG Value Card** in Hrvatski is `Vrijednosna Karta`.
