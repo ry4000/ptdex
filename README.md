@@ -13,7 +13,7 @@ A public GitHub repository containing personally-collected information about pub
 >
 > *GH/`@iceman1001` may use this repository to guide any potential [Proxmark3](https://github.com/RfidResearchGroup/proxmark3) updates.*
 > 
-> *(R), TMs, and SMs are used for descriptive purposes only, and belong to their respective companies.*
+> *<sup>®</sup>s, <sup>TM</sup>s, and <sup>SM</sup>s are used for descriptive purposes only, and belong to their respective companies.*
 > 
 > *PTDex is not affiliated with — nor employed/sponsored by — any transit agency/manufacturer/vendor.*
 >
@@ -74,4 +74,4 @@ A public GitHub repository containing personally-collected information about pub
 
 > [!NOTE]
 >
-> 1. **ZAG Value Card** is actually known in Hrvatski as `Vrijednosna Karta`.
+> 1. **ZAG Value Card** in Hrvatski is `Vrijednosna Karta`.
