@@ -45,7 +45,7 @@ A public GitHub repository containing personally-collected information about pub
 | **ECN**<br>CY-01<br>Nicosia | **motion**<br>DESFire EV2 4k | - | - | - | - | - | - | - |
 | **EMA**<br>GB-LCE<br>Leicester | **EMR Smartcard**<br>DESFire EV1 4k | - | - | - | - | - | Yes | - |
 | **IAD**<br>US-DC<br>Washington, D.C. | **SmarTrip**<br>Plus X 2k | - | - | - | - | - | - | - |
-| **JFK**<br>US-NY<br>New York City | **OMNY**<br>DESFire EV2 16k<br>*White Label EMV* | Code 128 | 3 | - | `MM/YY` | - | - | - |
+| **JFK**<br>US-NY<br>New York City | **OMNY**<br>DESFire EV2 16k<br>*White Label EMV* | Code 128 | `###` | - | `MM/YY` | - | - | - |
 | **LBA**<br>GB-LDS<br>West Yorkshire | **MCard**<br>DESFire EV1 4k | EAN 13 | - | - | - | - | - | - |
 | **LHR**<br>GB-LND<br>London | **oyster**<br>DESFire EV1 2k | - | - | - | - | - | - | - |
 | **LJU**<br>SI-061<br>Ljubljana | **Urbana**<br>DESFire EV2 8k | Code 128 | - | - | - | - | - | - |
