@@ -20,8 +20,19 @@ A public GitHub repository containing personally-collected information about pub
 > *PTDex information is correct at the time of collection, and may have since been upgraded by the transit agency.*
 
 ---
+## Felicity Cards (*FeliCa*)
+| IATA<br>ISO 3166-2<br>City | Name<br>Variant | Prefix<br>Colour<br>Notches | Expiry<br>Date | Open<br>Service<br>Code |
+| --- | --- | --- | --- | --- |
+| **HND**<br>JP-13<br>Tokyo | **Suica** | JE<br>Silver<br>1 | - | - |
+| **HND**<br>JP-13<br>Tokyo | **Suica**<br>*Welcome* | JE<br>White<br>0 | `MM/YY` | `### ### ABC DEF` |
+| **KIX**<br>JP-27<br>Osaka | **ICOCA** | JW<br>Silver<br>1 | - | - |
+| **NGO**<br>JP-23<br>Nagoya | **manaca**<br>*μstar* | TP<br>Silver<br>1 | - | - |
+| **NGO**<br>JP-23<br>Nagoya | **TOICA**<br> | JC<br>Silver<br>1 | - | - |
+| **OKA**<br>JP-47<br>Okinawa | **OKICA** | OK<br>White<br>2 | - | - |
+
+---
 ## MIFARE-Based Cards
-| IATA<br>Code | Name<br>Technology | Barcode | CCV<br>CVN | Emboss | Expiry<br>Date | Magnetic<br>Stripe | Printed<br>Name | QR<br>Code |
+| IATA<br>ISO 3166-2<br>City | Name<br>Technology | Barcode | CCV<br>CVN | Emboss | Expiry<br>Date | Magnetic<br>Stripe | Printed<br>Name | QR<br>Code |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **ADL**<br>AU-SA<br>Adelaide | **metroCARD**<br>DESFire EV1 2k | - | - | - | - | - | - | [Register](https://dit.sa.gov.au/metrocard-register) |
 | **AKL**<br>NZ-AUK<br>Auckland | **AT HOP**<br>DESFire EV1 4k | - | `###` | - | - | - | - | - |
@@ -75,4 +86,3 @@ A public GitHub repository containing personally-collected information about pub
 > [!NOTE]
 >
 > 1. **ZAG Value Card** in Hrvatski is `Vrijednosna Karta`.
----
