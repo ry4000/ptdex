@@ -19,12 +19,6 @@ A public GitHub repository containing personally-collected information about pub
 >
 > *PTDex information is correct at the time of collection, and may have since been upgraded by the transit agency.*
 
-> [!TIP]
->
-> *Collaborators are advised to `Unwatch` the PTDex repository.*
->
-> *This will negate the excess notifications.*
-
 ---
 ## MIFARE-Based Cards
 | IATA<br>Code | Name<br>Technology | Barcode | CCV<br>CVN | Emboss | Expiry<br>Date | Magnetic<br>Stripe | Printed<br>Name | QR<br>Code |
