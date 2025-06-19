@@ -71,3 +71,7 @@ A public GitHub repository containing personally-collected information about pub
 | **YVR**<br>CA-BC<br>Vancouver | **Compass**<br>DESFire EV1 4k | UPC A | `###` | - | - | - | - | - | 
 | **YYZ**<br>CA-ON<br>Toronto | **Presto**<br>DESFire EV1 4k | - | `###` | - | `DD/MM/YYYY` | - | - | - |
 | **ZAG**<br>HR-21<br>Zagreb | **Value Card**<br>Classic EV1 1k | - | - | - | - | - | - | - |
+
+> [!NOTE]
+>
+> 1. **ZAG Value Card** is actually known in Hrvatski as `Vrijednosna Karta`.
