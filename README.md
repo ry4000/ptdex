@@ -52,18 +52,19 @@ A public GitHub repository containing personally-collected information about pub
 | **BKK**<br>TH-10<br>Bangkok | **Rabbit**<br>DESFire EV1 4k | - | - | - | - | - | - | - |
 | **BNE**<br>AU-QLD<br>Brisbane | **go**<br>Classic EV1 1k | - | - | - | - | - | - | - |
 | **BOS**<br>US-MA<br>Boston | **CharlieCard**<br>Classic 1k | - | - | - | `MM/YY` | - | - | - |
-| **BRS**<br>GB-BST<br>Bristol | **GWR touch**<br>DESFire EV1 4k | - | - | - | - | - | Yes | - |
+| **BRS**<br>GB-BST<br>Bristol | **touch**<br>DESFire EV1 4k | - | - | - | - | - | Yes | - |
 | **CBR**<br>AU-ACT<br>Canberra | **MyWay+**<br>DESFire Light | - | `###` | `T` | - | - | - | Prefix<br>Card №<br>CCV |
 | **CHC**<br>NZ-CAN<br>Christchurch | **Metrocard**<br>DESFire EV1 4k | - | - | `>` | - | - | - | - |
-| **CMH**<br>US-OH<br>Columbus | **COTA Smartcard**<br>DESFire EV2 4k | Code 128 | - | - | - | - | - | - | 
+| **CMH**<br>US-OH<br>Columbus | **Smartcard**<br>DESFire EV2 4k | Code 128 | - | - | - | - | - | - | 
 | **DOH**<br>QA-DA<br>Doha | **Day Pass**<br>Ultralight EV1 | - | - | - | `02:58`<br>`DD MMM YYYY` | - | - | - |
 | **DOH**<br>QA-DA<br>Doha | **Travel Pass**<br>DESFire EV3 4k | - | - | - | - | - | - | - |
 | **DUB**<br>IE-D<br>Dublin | **Leap**<br>DESFire EV1 4k | - | - | - | - | - | - | - |
 | **DUD**<br>NZ-OTA<br>Otago | **Bee**<br>DESFire EV1 4k | - | `###` | - | - | - | - | - |
 | **ECN**<br>CY-01<br>Nicosia | **motion**<br>DESFire EV2 4k | - | - | - | - | - | - | - |
-| **EMA**<br>GB-LCE<br>Leicester | **EMR Smartcard**<br>DESFire EV1 4k | - | - | - | - | - | Yes | - |
+| **EMA**<br>GB-LCE<br>Leicester | **Smartcard**<br>DESFire EV1 4k | - | - | - | - | - | Yes | - |
+| **GEG**<br>US-WA<br>Spokane | **Connect**<br>DESFire EV3 2k | UPC A<br>Code 128 | - | `###` | - | Yes | - | - |  
 | **HBA**<br>AU-TAS<br>Hobart | **GreenCard**<br>Classic 4k | - | - | - | - | - | - | - |
-| **HBA**<br>AU-TAS<br> | **Tm smartcard**<br>Classic 1k | - | - | - | - | - | - | - |
+| **HBA**<br>AU-TAS<br>Hobart | **Smartcard**<br>Classic 1k | - | - | - | - | - | - | - |
 | **IAD**<br>US-DC<br>Washington, D.C. | **SmarTrip**<br>Plus X 2k | - | - | - | - | - | - | - |
 | **JFK**<br>US-NY<br>New York City | **OMNY**<br>DESFire EV2 16k<br>*White Label EMV* | Code 128 | `###` | - | `MM/YY` | - | - | - |
 | **KUL**<br>MY-14<br>Kuala Lumpur | **Touch 'n Go**<br>Plus 4k | - | - | - | `MM/YY` | - | - | - |
