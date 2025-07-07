@@ -48,7 +48,6 @@ A public GitHub repository containing personally-collected information about pub
 | **ATH**<br>GR-I<br>Athens | **ATH.ENA**<br>DESFire EV1 4k | - | - | - | - | - | - | - |
 | **BFS**<br>GB-NIR<br>Belfast | **Visitor Pass**<br>Classic EV1 1k | - | - | - | - | - | - | - |
 | **BKK**<br>TH-10<br>Bangkok | **BEM SVC**<br>DESFire EV1 4k | - | - | - | - | - | - | - |
-| **BKK**<br>TH-10<br>Bangkok | **BTS Ticket**<br> Ultralight C | - | - | - | - | - | - | [Routes](http://www.bts.co.th/btsroutes) |
 | **BKK**<br>TH-10<br>Bangkok | **Rabbit**<br>DESFire EV1 4k | - | - | - | - | - | - | - |
 | **BNE**<br>AU-QLD<br>Brisbane | **go**<br>Classic EV1 1k | - | - | - | - | - | - | - |
 | **BOS**<br>US-MA<br>Boston | **CharlieCard**<br>Classic 1k | - | - | - | `MM/YY` | - | - | - |
@@ -56,7 +55,6 @@ A public GitHub repository containing personally-collected information about pub
 | **CBR**<br>AU-ACT<br>Canberra | **MyWay+**<br>DESFire Light | - | `###` | `T` | - | - | - | Prefix<br>Card №<br>CCV |
 | **CHC**<br>NZ-CAN<br>Christchurch | **Metrocard**<br>DESFire EV1 4k | - | - | `>` | - | - | - | - |
 | **CMH**<br>US-OH<br>Columbus | **Smartcard**<br>DESFire EV2 4k | Code 128 | - | - | - | - | - | - | 
-| **DOH**<br>QA-DA<br>Doha | **Day Pass**<br>Ultralight EV1 | - | - | - | `02:58`<br>`DD MMM YYYY` | - | - | - |
 | **DOH**<br>QA-DA<br>Doha | **Travel Pass**<br>DESFire EV3 4k | - | - | - | - | - | - | - |
 | **DUB**<br>IE-D<br>Dublin | **Leap**<br>DESFire EV1 4k | - | - | - | - | - | - | - |
 | **DUD**<br>NZ-OTA<br>Otago | **Bee**<br>DESFire EV1 4k | - | `###` | - | - | - | - | - |
@@ -75,25 +73,35 @@ A public GitHub repository containing personally-collected information about pub
 | **LJU**<br>SI-061<br>Ljubljana | **Urbana**<br>DESFire EV2 8k | Code 128 | - | - | - | - | - | - |
 | **MEL**<br>AU-VIC<br>Melbourne | **myki**<br>DESFire EV3 4k | - | - | - | - | - | Optional | - |
 | **MNL**<br>PH-00<br>Manila | **beep**<br>DESFire EV1 8k | - | - | - | `MMM/YYYY` | - | - | - |
-| **MNL**<br>PH-00<br>Manila | **LRT Ticket**<br>Ultralight C | - | - | - | - | - | - | - |
-| **MNL**<br>PH-00<br>Manila | **MRT Ticket**<br>Ultralight C | - | - | - | - | - | - | - |
 | **MNL**<br>PH-00<br>Manila | **TRIPKO**<br>DESFire EV3 2k | - | - | - | - | - | - | - |
 | **ORD**<br>US-IL<br>Chicago | **Ventra**<br>DESFire EV1 256b | - | `###` | - | `MM/YY` | - | - | - |
-| **ORD**<br>US-IL<br>Chicago | **Ticket**<br>Ultralight EV1 | - | - | - | - | - | - | - |
 | **PDX**<br>US-OR<br>Portland | **hop fastpass**<br>DESFire EV1 256b | Code 128 | `###` | - | - | Yes | - | - |
 | **PER**<br>AU-WA<br>Perth | **SmartRider**<br>Classic EV1 1k | - | - | - | - | - | - | - |
 | **PHL**<br>US-PA<br>Philadelphia | **FREEDOM**<br>DESFire EV1 4k | - | - | - | - | - | - | - |
 | **SCL**<br>CL-RM<br>Santiago | **bip**!<br>Classic EV1 1k | Code 128 | - | - | - | - | - | - |
 | **SEA**<br>US-WA<br>Seattle | **ORCA**<br>DESFire EV3 2k | Code 128 | `###` | - | - | - | - | - |
 | **SYD**<br>AU-NSW<br>Sydney | **Opal**<br>DESFire EV1 4k | - | `####` | - | - | - | - | - |
-| **SYD**<br>AU-NSW<br>Sydney | **Ticket**<br>Ultralight C | - | - | - | `4am`<br>the day after<br>`DD.MM.YYYY` | - | - | - |
 | **TPE**<br>TW-TPE<br>Taipei | **iPASS**<br>Classic EV1 1k | - | - | - | - | - | - | - |
 | **YVR**<br>CA-BC<br>Vancouver | **Compass**<br>DESFire EV1 4k | UPC A | `###` | - | - | - | - | - | 
-| **YVR**<br>CA-BC<br>Vancouver | **Ticket**<br>Ultralight EV1 | - | - | - | - | - | - | - | 
 | **YYZ**<br>CA-ON<br>Toronto | **Presto**<br>DESFire EV1 4k | - | `###` | - | `DD/MM/YYYY` | - | - | - |
-| **ZAG**<br>HR-21<br>Zagreb | **Value Card**<br>Classic EV1 1k | - | - | - | - | - | - | - |
+| **ZAG**<br>HR-21<br>Zagreb | **Value Card**<br>Classic EV1 1k | - | - | `P` | - | - | - | - |
 
 > [!NOTE]
 >
-> 1. **TPE iPASS** in Chinese (Simplified) is `一卡通`.
-> 2. **ZAG Value Card** in Hrvatski is `Vrijednosna Karta`.
+> 1. **CBR MyWay+**'s emboss is dots in the shape of `T`.
+> 2. **CHC Metrocard**'s emboss is dots in the shape of `>`.
+> 3. **TPE iPASS** in Chinese (Simplified) is `一卡通`.
+> 4. **YYZ Presto**'s emboss is `P` in Braille.
+> 5. **ZAG Value Card** in Hrvatski is `Vrijednosna Karta`.
+
+---
+## MIFARE-Based Tickets
+| IATA<br>ISO 3166-2<br>City | Name<br>Technology | Barcode | CCV<br>CVN | Emboss | Expiry<br>Date | Magnetic<br>Stripe | Printed<br>Name | QR<br>Code |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **BKK**<br>TH-10<br>Bangkok | **BTS Ticket**<br> Ultralight C | - | - | - | - | - | - | [Routes](http://www.bts.co.th/btsroutes) |
+| **DOH**<br>QA-DA<br>Doha | **Day Pass**<br>Ultralight EV1 | - | - | - | `02:58`<br>`DD MMM YYYY` | - | - | - |
+| **MNL**<br>PH-00<br>Manila | **LRT Ticket**<br>Ultralight C | - | - | - | - | - | - | - |
+| **MNL**<br>PH-00<br>Manila | **MRT Ticket**<br>Ultralight C | - | - | - | - | - | - | - |
+| **ORD**<br>US-IL<br>Chicago | **Ticket**<br>Ultralight EV1 | - | - | - | - | - | - | - |
+| **SYD**<br>AU-NSW<br>Sydney | **Ticket**<br>Ultralight C | - | - | - | `4am`<br>the day after<br>`DD.MM.YYYY` | - | - | - |
+| **YVR**<br>CA-BC<br>Vancouver | **Ticket**<br>Ultralight EV1 | - | - | - | - | - | - | - |
