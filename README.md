@@ -35,9 +35,11 @@ A public GitHub repository containing personally-collected information about pub
 | **HND**<br>JP-13<br>Tokyo | **Suica** | JE<br>Silver<br>1 | - | - |
 | **HND**<br>JP-13<br>Tokyo | **Suica**<br>*Welcome* | JE<br>White<br>0 | `MM/YY` | `### ### ABC DEF` |
 | **KIX**<br>JP-27<br>Osaka | **ICOCA** | JW<br>Silver<br>1 | - | - |
+| **NGO**<br>JP-23<br>Nagoya | **manaca**<br>*DO!* | TP<br>Silver<br>1 | - | - | 
 | **NGO**<br>JP-23<br>Nagoya | **manaca**<br>*μstar* | TP<br>Silver<br>1 | - | - |
 | **NGO**<br>JP-23<br>Nagoya | **TOICA**<br> | JC<br>Silver<br>1 | - | - |
 | **OKA**<br>JP-47<br>Okinawa | **OKICA** | OK<br>White<br>2 | - | - |
+| **QGU**<br>JP-21<br>Gifu | **ayuca** | GB<br>White<br>0 | - | - |
 
 ---
 ## MIFARE-Based Cards
