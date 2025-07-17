@@ -35,6 +35,7 @@ A public GitHub repository containing personally-collected information about pub
 | **HND**<br>JP-13<br>Tokyo | **Suica** | JE<br>Silver<br>1 | - | - |
 | **HND**<br>JP-13<br>Tokyo | **Suica**<br>*Welcome* | JE<br>White<br>0 | `MM/YY` | `### ### ABC DEF` |
 | **KIX**<br>JP-27<br>Osaka | **ICOCA** | JW<br>Silver<br>1 | - | - |
+| **MYJ**<br>JP-38<br>Matsuyama | **ICOCA**<br>*Shikoku* | JW<br>Silver<br>2 | - | - |
 | **NGO**<br>JP-23<br>Nagoya | **manaca**<br>*DO!* | TP<br>Silver<br>1 | - | - | 
 | **NGO**<br>JP-23<br>Nagoya | **manaca**<br>*μstar* | TP<br>Silver<br>1 | - | - |
 | **NGO**<br>JP-23<br>Nagoya | **TOICA**<br> | JC<br>Silver<br>1 | - | - |
@@ -80,6 +81,7 @@ A public GitHub repository containing personally-collected information about pub
 | **PDX**<br>US-OR<br>Portland | **hop fastpass**<br>DESFire EV1 256b | Code 128 | `###` | - | - | Yes | - | - |
 | **PER**<br>AU-WA<br>Perth | **SmartRider**<br>Classic EV1 1k | - | - | - | - | - | - | - |
 | **PHL**<br>US-PA<br>Philadelphia | **FREEDOM**<br>DESFire EV1 4k | - | - | - | - | - | - | - |
+| **PWM**<br>US-ME<br>Portland | **Umo**<br>*DiriGo*<br>DESFire EV2 2k | UPC A<br>Code 128 | - | - | - | Yes | - | - |
 | **SCL**<br>CL-RM<br>Santiago | **bip**!<br>Classic EV1 1k | Code 128 | - | - | - | - | - | - |
 | **SEA**<br>US-WA<br>Seattle | **ORCA**<br>DESFire EV3 2k | Code 128 | `###` | - | - | - | - | - |
 | **SYD**<br>AU-NSW<br>Sydney | **Opal**<br>DESFire EV1 4k | - | `####` | - | - | - | - | - |
