@@ -54,7 +54,7 @@ A public GitHub repository containing personally-collected information about pub
 | **BKK**<br>TH-10<br>Bangkok | **Rabbit**<br>DESFire EV1 4k | - | - | - | - | - | - | - |
 | **BNE**<br>AU-QLD<br>Brisbane | **go**<br>Classic EV1 1k | - | - | - | - | - | - | - |
 | **BOS**<br>US-MA<br>Boston | **CharlieCard**<br>Classic 1k | - | - | - | `MM/YY` | - | - | - |
-| **BRS**<br>GB-BST<br>Bristol | **touch**<br>DESFire EV1 4k | - | - | - | - | - | Yes | - |
+| **BRS**<br>GB-BST<br>Bristol | **ITSO**<br>*touch*<br>DESFire EV1 4k | - | - | - | - | - | Yes | - |
 | **CBR**<br>AU-ACT<br>Canberra | **MyWay+**<br>DESFire Light | - | `###` | `T` | - | - | - | Prefix<br>Card №<br>CCV |
 | **CHC**<br>NZ-CAN<br>Christchurch | **Metrocard**<br>DESFire EV1 4k | - | - | `>` | - | - | - | - |
 | **CMH**<br>US-OH<br>Columbus | **Smartcard**<br>DESFire EV2 4k | Code 128 | - | - | - | - | - | - | 
@@ -62,7 +62,7 @@ A public GitHub repository containing personally-collected information about pub
 | **DUB**<br>IE-D<br>Dublin | **Leap**<br>DESFire EV1 4k | - | - | - | - | - | - | - |
 | **DUD**<br>NZ-OTA<br>Otago | **Bee**<br>DESFire EV1 4k | - | `###` | - | - | - | - | - |
 | **ECN**<br>CY-01<br>Nicosia | **motion**<br>DESFire EV2 4k | - | - | - | - | - | - | - |
-| **EMA**<br>GB-LCE<br>Leicester | **Smartcard**<br>DESFire EV1 4k | - | - | - | - | - | Yes | - |
+| **EMA**<br>GB-LCE<br>Leicester | **ITSO**<br>*Smartcard*<br>DESFire EV1 4k | - | - | - | - | - | Yes | - |
 | **GEG**<br>US-WA<br>Spokane | **Connect**<br>DESFire EV3 2k | UPC A<br>Code 128 | - | `###` | - | Yes | - | - |  
 | **HBA**<br>AU-TAS<br>Hobart | **GreenCard**<br>Classic 4k | - | - | - | - | - | - | - |
 | **HBA**<br>AU-TAS<br>Hobart | **Smartcard**<br>Classic 1k | - | - | - | - | - | - | - |
@@ -71,7 +71,7 @@ A public GitHub repository containing personally-collected information about pub
 | **KUL**<br>MY-14<br>Kuala Lumpur | **Touch 'n Go**<br>Plus 4k | - | - | - | `MM/YY` | - | - | - |
 | **KUL**<br>MY-14<br>Kuala Lumpur | **TNG Enhanced**<br> Plus EV2 4k | - | - | - | `MM/YY` | - | - | [eWallet App](https://cdn.tngdigital.com.my/s/landing/index.html) |
 | **LAX**<br>US-CA<br>Los Angeles | **TAP**<br>Classic EV1 1k | - | - | - | - | - | - | - |
-| **LBA**<br>GB-LDS<br>West Yorkshire | **MCard**<br>DESFire EV1 4k | EAN 13 | - | - | - | - | - | - |
+| **LBA**<br>GB-LDS<br>West Yorkshire | **ITSO**<br>*MCard*<br>DESFire EV1 4k | EAN 13 | - | - | - | - | - | - |
 | **LHR**<br>GB-LND<br>London | **oyster**<br>DESFire EV1 2k | - | - | - | - | - | - | - |
 | **LJU**<br>SI-061<br>Ljubljana | **Urbana**<br>DESFire EV2 8k | Code 128 | - | - | - | - | - | - |
 | **MEL**<br>AU-VIC<br>Melbourne | **myki**<br>DESFire EV3 4k | - | - | - | - | - | Optional | - |
