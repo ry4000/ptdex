@@ -117,4 +117,4 @@ A public GitHub repository containing personally-collected information about pub
 
 > [!NOTE]
 >
-> 1. **KUL BTS Ticket**'s QR Code directs commuters to the [BTS SkyTrain Route Map (PDF)](http://www.bts.co.th/btsroutes).
+> 1. **BKK BTS Ticket**'s QR Code directs commuters to the [BTS SkyTrain Route Map (PDF)](http://www.bts.co.th/btsroutes).
