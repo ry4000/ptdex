@@ -107,6 +107,7 @@ A public GitHub repository containing personally-collected information about pub
 | IATA<br>ISO 3166-2<br>City | Name<br>Technology | Code | CCV<br>CVN | Emboss | Expiry<br>Date | Magnetic<br>Stripe | Printed<br>Name |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **BKK**<br>TH-10<br>Bangkok | **BTS Ticket**<br> Ultralight C | QR | - | - | - | - | - |
+| **BKK**<br>TH-10<br>Bangkok | **EBM Ticket**<br> Ultralight C | QR | - | - | - | - | - |
 | **DOH**<br>QA-DA<br>Doha | **Day Pass**<br>Ultralight EV1 | - | - | - | `02:58`<br>`DD MMM YYYY` | - | - |
 | **MNL**<br>PH-00<br>Manila | **LRT Ticket**<br>Ultralight C | - | - | - | - | - | - |
 | **MNL**<br>PH-00<br>Manila | **MRT Ticket**<br>Ultralight C | - | - | - | - | - | - |
@@ -118,3 +119,4 @@ A public GitHub repository containing personally-collected information about pub
 > [!NOTE]
 >
 > 1. **BKK BTS Ticket**'s QR Code directs commuters to the [BTS SkyTrain Route Map (PDF)](http://www.bts.co.th/btsroutes).
+> 2. **BKK EBM Ticket**'s QR Code directs commuters to the [EBM System Map (PDF)](https://www.ebm.co.th/qr/routes).
