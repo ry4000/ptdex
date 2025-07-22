@@ -44,68 +44,77 @@ A public GitHub repository containing personally-collected information about pub
 
 ---
 ## MIFARE-Based Cards
-| IATA<br>ISO 3166-2<br>City | Name<br>Technology | Barcode | CCV<br>CVN | Emboss | Expiry<br>Date | Magnetic<br>Stripe | Printed<br>Name | QR<br>Code |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **ADL**<br>AU-SA<br>Adelaide | **metroCARD**<br>DESFire EV1 2k | - | - | - | - | - | - | [Register](https://dit.sa.gov.au/metrocard-register) |
-| **AKL**<br>NZ-AUK<br>Auckland | **AT HOP**<br>DESFire EV1 4k | - | `###` | - | - | - | - | - |
-| **ATH**<br>GR-I<br>Athens | **ATH.ENA**<br>DESFire EV1 4k | - | - | - | - | - | - | - |
-| **BFS**<br>GB-NIR<br>Belfast | **Visitor Pass**<br>Classic EV1 1k | - | - | - | - | - | - | - |
-| **BKK**<br>TH-10<br>Bangkok | **BEM SVC**<br>DESFire EV1 4k | - | - | - | - | - | - | - |
-| **BKK**<br>TH-10<br>Bangkok | **Rabbit**<br>DESFire EV1 4k | - | - | - | - | - | - | - |
-| **BNE**<br>AU-QLD<br>Brisbane | **go**<br>Classic EV1 1k | - | - | - | - | - | - | - |
-| **BOS**<br>US-MA<br>Boston | **CharlieCard**<br>Classic 1k | - | - | - | `MM/YY` | - | - | - |
-| **BRS**<br>GB-BST<br>Bristol | **ITSO**<br>*touch*<br>DESFire EV1 4k | - | - | - | - | - | Yes | - |
-| **CBR**<br>AU-ACT<br>Canberra | **MyWay+**<br>DESFire Light | - | `###` | `T` | - | - | - | Prefix<br>Card №<br>CCV |
-| **CHC**<br>NZ-CAN<br>Christchurch | **Metrocard**<br>DESFire EV1 4k | - | - | `>` | - | - | - | - |
-| **CMH**<br>US-OH<br>Columbus | **Smartcard**<br>DESFire EV2 4k | Code 128 | - | - | - | - | - | - | 
-| **DOH**<br>QA-DA<br>Doha | **Travel Pass**<br>DESFire EV3 4k | - | - | - | - | - | - | - |
-| **DUB**<br>IE-D<br>Dublin | **Leap**<br>DESFire EV1 4k | - | - | - | - | - | - | - |
-| **DUD**<br>NZ-OTA<br>Otago | **Bee**<br>DESFire EV1 4k | - | `###` | - | - | - | - | - |
-| **ECN**<br>CY-01<br>Nicosia | **motion**<br>DESFire EV2 4k | - | - | - | - | - | - | - |
-| **EMA**<br>GB-LCE<br>Leicester | **ITSO**<br>*Smartcard*<br>DESFire EV1 4k | - | - | - | - | - | Yes | - |
-| **GEG**<br>US-WA<br>Spokane | **Connect**<br>DESFire EV3 2k | UPC A<br>Code 128 | - | `###` | - | Yes | - | - |  
-| **HBA**<br>AU-TAS<br>Hobart | **GreenCard**<br>Classic 4k | - | - | - | - | - | - | - |
-| **HBA**<br>AU-TAS<br>Hobart | **Smartcard**<br>Classic 1k | - | - | - | - | - | - | - |
-| **IAD**<br>US-DC<br>Washington, D.C. | **SmarTrip**<br>Plus X 2k | - | - | - | - | - | - | - |
-| **JFK**<br>US-NY<br>New York City | **OMNY**<br>DESFire EV2 16k<br>*White Label EMV* | Code 128 | `###` | - | `MM/YY` | - | - | - |
-| **KUL**<br>MY-14<br>Kuala Lumpur | **Touch 'n Go**<br>Plus 4k | - | - | - | `MM/YY` | - | - | - |
-| **KUL**<br>MY-14<br>Kuala Lumpur | **TNG Enhanced**<br> Plus EV2 4k | - | - | - | `MM/YY` | - | - | [eWallet App](https://cdn.tngdigital.com.my/s/landing/index.html) |
-| **LAX**<br>US-CA<br>Los Angeles | **TAP**<br>Classic EV1 1k | - | - | - | - | - | - | - |
-| **LBA**<br>GB-LDS<br>West Yorkshire | **ITSO**<br>*MCard*<br>DESFire EV1 4k | EAN 13 | - | - | - | - | - | - |
-| **LHR**<br>GB-LND<br>London | **oyster**<br>DESFire EV1 2k | - | - | - | - | - | - | - |
-| **LJU**<br>SI-061<br>Ljubljana | **Urbana**<br>DESFire EV2 8k | Code 128 | - | - | - | - | - | - |
-| **MEL**<br>AU-VIC<br>Melbourne | **myki**<br>DESFire EV3 4k | - | - | - | - | - | Optional | - |
-| **MNL**<br>PH-00<br>Manila | **beep**<br>DESFire EV1 8k | - | - | - | `MMM/YYYY` | - | - | - |
-| **MNL**<br>PH-00<br>Manila | **TRIPKO**<br>DESFire EV3 2k | - | - | - | - | - | - | - |
-| **ORD**<br>US-IL<br>Chicago | **Ventra**<br>DESFire EV1 256b | - | `###` | - | `MM/YY` | - | - | - |
-| **PDX**<br>US-OR<br>Portland | **hop fastpass**<br>DESFire EV1 256b | Code 128 | `###` | - | - | Yes | - | - |
-| **PER**<br>AU-WA<br>Perth | **SmartRider**<br>Classic EV1 1k | - | - | - | - | - | - | - |
-| **PHL**<br>US-PA<br>Philadelphia | **FREEDOM**<br>DESFire EV1 4k | - | - | - | - | - | - | - |
-| **PWM**<br>US-ME<br>Portland | **Umo**<br>*DiriGo*<br>DESFire EV2 2k | UPC A<br>Code 128 | - | - | - | Yes | - | - |
-| **SCL**<br>CL-RM<br>Santiago | **bip**!<br>Classic EV1 1k | Code 128 | - | - | - | - | - | - |
-| **SEA**<br>US-WA<br>Seattle | **ORCA**<br>DESFire EV3 2k | Code 128 | `###` | - | - | - | - | - |
-| **SYD**<br>AU-NSW<br>Sydney | **Opal**<br>DESFire EV1 4k | - | `####` | - | - | - | - | - |
-| **TPE**<br>TW-TPE<br>Taipei | **iPASS**<br>Classic EV1 1k | - | - | - | - | - | - | - |
-| **YVR**<br>CA-BC<br>Vancouver | **Compass**<br>DESFire EV1 4k | UPC A | `###` | - | - | - | - | - | 
-| **YYZ**<br>CA-ON<br>Toronto | **Presto**<br>DESFire EV1 4k | - | `###` | `P` | `DD/MM/YYYY` | - | - | - |
-| **ZAG**<br>HR-21<br>Zagreb | **Value Card**<br>Classic EV1 1k | - | - | - | - | - | - | - |
+| IATA<br>ISO 3166-2<br>City | Name<br>Technology | Code | CCV<br>CVN | Emboss | Expiry<br>Date | Magnetic<br>Stripe | Printed<br>Name |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **ADL**<br>AU-SA<br>Adelaide | **metroCARD**<br>DESFire EV1 2k | QR | - | - | - | - | - | 
+| **AKL**<br>NZ-AUK<br>Auckland | **AT HOP**<br>DESFire EV1 4k | - | `###` | - | - | - | - |
+| **ATH**<br>GR-I<br>Athens | **ATH.ENA**<br>DESFire EV1 4k | - | - | - | - | - | - |
+| **BFS**<br>GB-NIR<br>Belfast | **Visitor Pass**<br>Classic EV1 1k | - | - | - | - | - | - |
+| **BKK**<br>TH-10<br>Bangkok | **BEM SVC**<br>DESFire EV1 4k | - | - | - | - | - | - |
+| **BKK**<br>TH-10<br>Bangkok | **Rabbit**<br>DESFire EV1 4k | - | - | - | - | - | - |
+| **BNE**<br>AU-QLD<br>Brisbane | **go**<br>Classic EV1 1k | - | - | - | - | - | - |
+| **BOS**<br>US-MA<br>Boston | **CharlieCard**<br>Classic 1k | - | - | - | `MM/YY` | - | - |
+| **BRS**<br>GB-BST<br>Bristol | **ITSO**<br>*touch*<br>DESFire EV1 4k | - | - | - | - | - | Yes |
+| **CBR**<br>AU-ACT<br>Canberra | **MyWay+**<br>DESFire Light | QR | `###` | `T` | - | - | - |
+| **CHC**<br>NZ-CAN<br>Christchurch | **Metrocard**<br>DESFire EV1 4k | - | - | `>` | - | - | - |
+| **CMH**<br>US-OH<br>Columbus | **Smartcard**<br>DESFire EV2 4k | Code 128 | - | - | - | - | - | 
+| **DOH**<br>QA-DA<br>Doha | **Travel Pass**<br>DESFire EV3 4k | - | - | - | - | - | - |
+| **DUB**<br>IE-D<br>Dublin | **Leap**<br>DESFire EV1 4k | - | - | - | - | - | - |
+| **DUD**<br>NZ-OTA<br>Otago | **Bee**<br>DESFire EV1 4k | - | `###` | - | - | - | - |
+| **ECN**<br>CY-01<br>Nicosia | **motion**<br>DESFire EV2 4k | - | - | - | - | - | - |
+| **EMA**<br>GB-LCE<br>Leicester | **ITSO**<br>*Smartcard*<br>DESFire EV1 4k | - | - | - | - | - | Yes |
+| **GEG**<br>US-WA<br>Spokane | **Connect**<br>DESFire EV3 2k | UPC A<br>Code 128 | - | `###` | - | Yes | - |  
+| **HBA**<br>AU-TAS<br>Hobart | **GreenCard**<br>Classic 4k | - | - | - | - | - | - |
+| **HBA**<br>AU-TAS<br>Hobart | **Smartcard**<br>Classic 1k | - | - | - | - | - | - |
+| **IAD**<br>US-DC<br>Washington, D.C. | **SmarTrip**<br>Plus X 2k | - | - | - | - | - | - |
+| **JFK**<br>US-NY<br>New York City | **OMNY**<br>DESFire EV2 16k<br>*White Label EMV* | Code 128 | `###` | - | `MM/YY` | - | - |
+| **KUL**<br>MY-14<br>Kuala Lumpur | **Touch 'n Go**<br>Plus 4k | - | - | - | `MM/YY` | - | - |
+| **KUL**<br>MY-14<br>Kuala Lumpur | **TNG Enhanced**<br> Plus EV2 4k | QR | - | - | `MM/YY` | - | - | 
+| **LAX**<br>US-CA<br>Los Angeles | **TAP**<br>Classic EV1 1k | - | - | - | - | - | - |
+| **LBA**<br>GB-LDS<br>West Yorkshire | **ITSO**<br>*MCard*<br>DESFire EV1 4k | EAN 13 | - | - | - | - | - |
+| **LHR**<br>GB-LND<br>London | **oyster**<br>DESFire EV1 2k | - | - | - | - | - | - |
+| **LJU**<br>SI-061<br>Ljubljana | **Urbana**<br>DESFire EV2 8k | Code 128 | - | - | - | - | - |
+| **MEL**<br>AU-VIC<br>Melbourne | **myki**<br>DESFire EV3 4k | - | - | - | - | - | Optional |
+| **MNL**<br>PH-00<br>Manila | **beep**<br>DESFire EV1 8k | - | - | - | `MMM/YYYY` | - | - |
+| **MNL**<br>PH-00<br>Manila | **TRIPKO**<br>DESFire EV3 2k | - | - | - | - | - | - |
+| **ORD**<br>US-IL<br>Chicago | **Ventra**<br>DESFire EV1 256b | - | `###` | - | `MM/YY` | - | - |
+| **PDX**<br>US-OR<br>Portland | **hop fastpass**<br>DESFire EV1 256b | Code 128 | `###` | - | - | Yes | - |
+| **PER**<br>AU-WA<br>Perth | **SmartRider**<br>Classic EV1 1k | - | - | - | - | - | - |
+| **PHL**<br>US-PA<br>Philadelphia | **FREEDOM**<br>DESFire EV1 4k | - | - | - | - | - | - |
+| **PWM**<br>US-ME<br>Portland | **Umo**<br>*DiriGo*<br>DESFire EV2 2k | UPC A<br>Code 128 | - | - | - | Yes | - |
+| **SCL**<br>CL-RM<br>Santiago | **bip**!<br>Classic EV1 1k | Code 128 | - | - | - | - | - |
+| **SEA**<br>US-WA<br>Seattle | **ORCA**<br>DESFire EV3 2k | Code 128 | `###` | - | - | - | - |
+| **SYD**<br>AU-NSW<br>Sydney | **Opal**<br>DESFire EV1 4k | - | `####` | - | - | - | - |
+| **TPE**<br>TW-TPE<br>Taipei | **iPASS**<br>Classic EV1 1k | - | - | - | - | - | - |
+| **YVR**<br>CA-BC<br>Vancouver | **Compass**<br>DESFire EV1 4k | UPC A | `###` | - | - | - | - | 
+| **YYZ**<br>CA-ON<br>Toronto | **Presto**<br>DESFire EV1 4k | - | `###` | `P` | `DD/MM/YYYY` | - | - |
+| **ZAG**<br>HR-21<br>Zagreb | **Value Card**<br>Classic EV1 1k | - | - | - | - | - | - |
 
 > [!NOTE]
 >
-> 1. **CBR MyWay+**'s emboss is dots in the shape of `T`.
-> 2. **CHC Metrocard**'s emboss is dots in the shape of `>`.
-> 3. **TPE iPASS** in Chinese (Simplified) is `一卡通`.
-> 4. **YYZ Presto**'s emboss is `P` in Braille.
-> 5. **ZAG Value Card** in Hrvatski is `Vrijednosna Karta`.
+> 1. **ADL metroCARD**'s QR Code directs commuters to [register](https://dit.sa.gov.au/metrocard-register) their metroCARD.
+> 2. **CBR MyWay+**'s emboss is dots in the shape of `T`.
+> 3. **CBR MyWay+**'s QR Code is text that shows a card prefix (`00001`), card number, and CCV.
+> 4. **CHC Metrocard**'s emboss is dots in the shape of `>`.
+> 5. **KUL Touch n' Go Enhanced**'s QR Code directs commuters to download their [eWallet App](https://cdn.tngdigital.com.my/s/landing/index.html).
+> 6. **MEL myki** prints the commuter's name if it's registered and requested at the time of online purchase/replacement. 
+> 7. **TPE iPASS** in Chinese (Simplified) is `一卡通`.
+> 8. **YYZ Presto**'s emboss is `P` in Braille.
+> 9. **ZAG Value Card** in Hrvatski is `Vrijednosna Karta`.
 
 ---
 ## MIFARE-Based Tickets
-| IATA<br>ISO 3166-2<br>City | Name<br>Technology | Barcode | CCV<br>CVN | Emboss | Expiry<br>Date | Magnetic<br>Stripe | Printed<br>Name | QR<br>Code |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **BKK**<br>TH-10<br>Bangkok | **BTS Ticket**<br> Ultralight C | - | - | - | - | - | - | [Routes](http://www.bts.co.th/btsroutes) |
-| **DOH**<br>QA-DA<br>Doha | **Day Pass**<br>Ultralight EV1 | - | - | - | `02:58`<br>`DD MMM YYYY` | - | - | - |
-| **MNL**<br>PH-00<br>Manila | **LRT Ticket**<br>Ultralight C | - | - | - | - | - | - | - |
-| **MNL**<br>PH-00<br>Manila | **MRT Ticket**<br>Ultralight C | - | - | - | - | - | - | - |
-| **ORD**<br>US-IL<br>Chicago | **Ticket**<br>Ultralight EV1 | - | - | - | - | - | - | - |
-| **SYD**<br>AU-NSW<br>Sydney | **Ticket**<br>Ultralight C | - | - | - | `4am`<br>the day after<br>`DD.MM.YYYY` | - | - | - |
-| **YVR**<br>CA-BC<br>Vancouver | **Ticket**<br>Ultralight EV1 | - | - | - | - | - | - | - |
+| IATA<br>ISO 3166-2<br>City | Name<br>Technology | Code | CCV<br>CVN | Emboss | Expiry<br>Date | Magnetic<br>Stripe | Printed<br>Name |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **BKK**<br>TH-10<br>Bangkok | **BTS Ticket**<br> Ultralight C | QR | - | - | - | - | - |
+| **DOH**<br>QA-DA<br>Doha | **Day Pass**<br>Ultralight EV1 | - | - | - | `02:58`<br>`DD MMM YYYY` | - | - |
+| **MNL**<br>PH-00<br>Manila | **LRT Ticket**<br>Ultralight C | - | - | - | - | - | - |
+| **MNL**<br>PH-00<br>Manila | **MRT Ticket**<br>Ultralight C | - | - | - | - | - | - |
+| **ORD**<br>US-IL<br>Chicago | **Ticket**<br>Ultralight EV1 | - | - | - | - | - | - |
+| **SYD**<br>AU-NSW<br>Sydney | **Ticket**<br>Ultralight C | - | - | - | `4am`<br>the day after<br>`DD.MM.YYYY` | - | - |
+| **YVR**<br>CA-BC<br>Vancouver | **Ticket**<br>Ultralight EV1 | - | - | - | - | - | - |
+
+
+> [!NOTE]
+>
+> 1. **KUL BTS Ticket**'s QR Code directs commuters to the [BTS SkyTrain Route Map (PDF)](http://www.bts.co.th/btsroutes).
