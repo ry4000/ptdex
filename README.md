@@ -50,6 +50,7 @@ A public GitHub repository containing personally-collected information about pub
 | **AKL**<br>NZ-AUK<br>Auckland | **AT HOP**<br>DESFire EV1 4k | - | `###` | - | - | - | - |
 | **ATH**<br>GR-I<br>Athens | **ATH.ENA**<br>DESFire EV1 4k | - | - | - | - | - | - |
 | **BFS**<br>GB-NIR<br>Belfast | **Visitor Pass**<br>Classic EV1 1k | - | - | - | - | - | - |
+| **BGO**<br>NO-46<br>Bergen | **Skyss Card**<br>DESFire EV1 4k | - | - | - | - | - | - |
 | **BKK**<br>TH-10<br>Bangkok | **BEM SVC**<br>DESFire EV1 4k | - | - | - | - | - | - |
 | **BKK**<br>TH-10<br>Bangkok | **Rabbit**<br>DESFire EV1 4k | - | - | - | - | - | - |
 | **BNE**<br>AU-QLD<br>Brisbane | **go**<br>Classic EV1 1k | - | - | - | - | - | - |
@@ -97,14 +98,15 @@ A public GitHub repository containing personally-collected information about pub
 > [!NOTE]
 >
 > 1. **ADL metroCARD**'s QR Code directs commuters to [register](https://dit.sa.gov.au/metrocard-register) their metroCARD.
-> 2. **CBR MyWay+**'s emboss is dots in the shape of `T`.
-> 3. **CBR MyWay+**'s QR Code is text that shows a card prefix (`00001`), card number, and CCV.
-> 4. **CHC Metrocard**'s emboss is dots in the shape of `>`.
-> 5. **KUL Touch n' Go Enhanced**'s QR Code directs commuters to download their [eWallet App](https://cdn.tngdigital.com.my/s/landing/index.html).
-> 6. **MEL myki** prints the commuter's name if it's registered and requested at the time of online purchase/replacement. 
-> 7. **TPE iPASS** in Chinese (Simplified) is `一卡通`.
-> 8. **YYZ Presto**'s emboss is `P` in Braille.
-> 9. **ZAG Value Card** in Hrvatski is `Vrijednosna Karta`.
+> 2. **BGO Skyss Card** in Norsk is `Skyss Kort`.
+> 3. **CBR MyWay+**'s emboss is dots in the shape of `T`.
+> 4. **CBR MyWay+**'s QR Code is text that shows a card prefix (`00001`), card number, and CCV.
+> 5. **CHC Metrocard**'s emboss is dots in the shape of `>`.
+> 6. **KUL Touch n' Go Enhanced**'s QR Code directs commuters to download their [eWallet App](https://cdn.tngdigital.com.my/s/landing/index.html).
+> 7. **MEL myki** prints the commuter's name if it's registered and requested at the time of online purchase/replacement. 
+> 8. **TPE iPASS** in Chinese (Simplified) is `一卡通`.
+> 9. **YYZ Presto**'s emboss is `P` in Braille.
+> 10. **ZAG Value Card** in Hrvatski is `Vrijednosna Karta`.
 
 ---
 ## MIFARE-Based Tickets
