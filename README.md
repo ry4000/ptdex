@@ -44,7 +44,7 @@ A public GitHub repository containing personally-collected information about pub
 
 ---
 ## MIFARE-Based Cards
-| IATA<br>ISO 3166-2<br>City | Name<br>Technology | Code | CCV<br>CVN | Emboss | Expiry<br>Date | Magnetic<br>Stripe | Printed<br>Name |
+| IATA<br>ISO 3166-2<br>City | Name<br>Variant<br>Technology | Code | CCV<br>CVN | Emboss | Expiry<br>Date | Magnetic<br>Stripe | Printed<br>Name |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **ADL**<br>AU-SA<br>Adelaide | **metroCARD**<br>DESFire EV1 2k | QR | - | - | - | - | - | 
 | **AKL**<br>NZ-AUK<br>Auckland | **AT HOP**<br>DESFire EV1 4k | - | `###` | - | - | - | - |
@@ -89,6 +89,7 @@ A public GitHub repository containing personally-collected information about pub
 | **PWM**<br>US-ME<br>Portland | **Umo**<br>*DiriGo*<br>DESFire EV2 2k | UPC A<br>128 | - | - | - | Yes | - |
 | **SCL**<br>CL-RM<br>Santiago | **bip**!<br>Classic EV1 1k | 128 | - | - | - | - | - |
 | **SEA**<br>US-WA<br>Seattle | **ORCA**<br>DESFire EV3 2k | 128 | `###` | - | - | - | - |
+| **SOU**<br>GB-STH<br>Southampton | **ITSO**<br>*touch*<br>DESFire EV1 4k | - | - | - | - | - | Yes |
 | **SYD**<br>AU-NSW<br>Sydney | **Opal**<br>DESFire EV1 4k | - | `####` | - | - | - | - |
 | **TPE**<br>TW-TPE<br>Taipei | **iPASS**<br>Classic EV1 1k | - | - | - | - | - | - |
 | **YVR**<br>CA-BC<br>Vancouver | **Compass**<br>DESFire EV1 4k | UPC A | `###` | - | - | - | - | 
