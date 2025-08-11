@@ -32,6 +32,7 @@ A public GitHub repository containing personally-collected information about pub
 ## Felicity Cards (*FeliCa*)
 | IATA<br>ISO 3166-2<br>City | Name<br>Variant | Prefix<br>Colour<br>Notches | Expiry<br>Date | Open<br>Service<br>Code |
 | --- | --- | --- | --- | --- |
+| **HND**<br>JP-13<br>Tokyo | **PASMO** | PB<br>Silver<br>1 | - | - |
 | **HND**<br>JP-13<br>Tokyo | **Suica** | JE<br>Silver<br>1 | - | - |
 | **HND**<br>JP-13<br>Tokyo | **Suica**<br>*Welcome* | JE<br>White<br>0 | `MM/YY` | `### ### ABC DEF` |
 | **KIX**<br>JP-27<br>Osaka | **ICOCA** | JW<br>Silver<br>1 | - | - |
