@@ -90,6 +90,7 @@ A public GitHub repository containing personally-collected information about pub
 | **PWM**<br>US-ME<br>Portland | **Umo**<br>*DiriGo*<br>DESFire EV2 2k | UPC A<br>128 | - | - | - | Yes | - |
 | **SCL**<br>CL-RM<br>Santiago | **bip**!<br>Classic EV1 1k | 128 | - | - | - | - | - |
 | **SEA**<br>US-WA<br>Seattle | **ORCA**<br>DESFire EV3 2k | 128 | `###` | - | - | - | - |
+| **SFO**<br>US-CA<br>San Francisco | **Clipper**<br>DESFire EV1 4k | - | - | - | - | - | - |
 | **SOU**<br>GB-STH<br>Southampton | **ITSO**<br>*touch*<br>DESFire EV1 4k | - | - | - | - | - | Yes |
 | **SYD**<br>AU-NSW<br>Sydney | **Opal**<br>DESFire EV1 4k | - | `####` | - | - | - | - |
 | **TPE**<br>TW-TPE<br>Taipei | **iPASS**<br>Classic EV1 1k | - | - | - | - | - | - |
