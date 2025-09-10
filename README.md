@@ -119,6 +119,7 @@ A public GitHub repository containing personally-collected information about pub
 | **BKK**<br>TH-10<br>Bangkok | **BTS Ticket**<br> Ultralight C | QR | - | - | - | - | - |
 | **BKK**<br>TH-10<br>Bangkok | **EBM Ticket**<br> Ultralight C | QR | - | - | - | - | - |
 | **DOH**<br>QA-DA<br>Doha | **Day Pass**<br>Ultralight EV1 | - | - | - | `02:58`<br>`DD MMM YYYY` | - | - |
+| **LHR**<br>GB-LND<br>London | **oyster**<br>Classic EV1 | - | - | - | - | - | - |
 | **MNL**<br>PH-00<br>Manila | **LRT Ticket**<br>Ultralight C | - | - | - | - | - | - |
 | **MNL**<br>PH-00<br>Manila | **MRT Ticket**<br>Ultralight C | - | - | - | - | - | - |
 | **ORD**<br>US-IL<br>Chicago | **Ticket**<br>Ultralight EV1 | - | - | - | - | - | - |
@@ -130,3 +131,4 @@ A public GitHub repository containing personally-collected information about pub
 >
 > 1. **BKK BTS Ticket**'s QR Code directs commuters to the [BTS SkyTrain Route Map (PDF)](http://www.bts.co.th/btsroutes).
 > 2. **BKK EBM Ticket**'s QR Code directs commuters to the [EBM System Map (PDF)](https://www.ebm.co.th/qr/routes).
+> 3. **LHR oyster** is a green [One Day Bus and Tram Pass](https://tfl.gov.uk/fares/ways-to-pay/bus-and-tram-pass).
