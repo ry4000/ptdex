@@ -77,7 +77,7 @@ A public GitHub repository containing personally-collected information about pub
 | **DUD**<br>NZ-OTA<br>Otago | **Bee**<br>DESFire EV1 4k | - | `###` | - | - | - | - |
 | **ECN**<br>CY-01<br>Nicosia | **motion**<br>DESFire EV2 4k | - | - | - | - | - | - |
 | **EMA**<br>GB-LCE<br>Leicester | **ITSO**<br>*Smartcard*<br>DESFire EV1 4k | - | - | - | - | - | Yes |
-| **GEG**<br>US-WA<br>Spokane | **Connect**<br>DESFire EV3 2k | UPC A<br>128 | - | `###` | - | Yes | - |  
+| **GEG**<br>US-WA<br>Spokane | **Connect**<br>DESFire EV3 2k | UPC A<br>128 | `###` | - | - | Yes | - |  
 | **HBA**<br>AU-TAS<br>Hobart | **GreenCard**<br>Classic 4k | - | - | - | - | - | - |
 | **HBA**<br>AU-TAS<br>Hobart | **Smartcard**<br>Classic 1k | - | - | - | - | - | - |
 | **IAD**<br>US-DC<br>Washington, D.C. | **SmarTrip**<br>Plus X 2k | - | - | - | - | - | - |
