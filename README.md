@@ -49,7 +49,7 @@ A public GitHub repository containing personally-collected information about pub
 
 > [!NOTE]
 >
-> 1. **SIN EZ-Link** now uses the `Specification for Contactless e-Purse Application` chip technology.
+> 1. **SIN EZ-Link** now uses the `Specification for Contactless e-Purse Application (CEPAS)` chip technology.
 
 ---
 ## MIFARE-Based Cards
