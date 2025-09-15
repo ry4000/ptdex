@@ -30,19 +30,20 @@ A public GitHub repository containing personally-collected information about pub
 
 ---
 ## Felicity Cards (*FeliCa*)
-| IATA<br>ISO 3166-2<br>City | Name<br>Variant | Prefix<br>Colour<br>Notches | Expiry<br>Date | Open<br>Service<br>Code |
-| --- | --- | --- | --- | --- |
-| **HKG**<br>CN-HK<br>Hong Kong | **Octopus**<br>*Mini* | -<br>Black<br>0 | - | - |
-| **HND**<br>JP-13<br>Tokyo | **PASMO** | PB<br>Silver<br>1 | - | - |
-| **HND**<br>JP-13<br>Tokyo | **Suica** | JE<br>Silver<br>1 | - | - |
-| **HND**<br>JP-13<br>Tokyo | **Suica**<br>*Welcome* | JE<br>White<br>0 | `MM/YY` | `### ### ABC DEF` |
-| **KIX**<br>JP-27<br>Osaka | **ICOCA** | JW<br>Silver<br>1 | - | - |
-| **MYJ**<br>JP-38<br>Matsuyama | **ICOCA**<br>*Shikoku* | JW<br>Silver<br>2 | - | - |
-| **NGO**<br>JP-23<br>Nagoya | **manaca**<br>*DO!* | TP<br>Silver<br>1 | - | - | 
-| **NGO**<br>JP-23<br>Nagoya | **manaca**<br>*μstar* | TP<br>Silver<br>1 | - | - |
-| **NGO**<br>JP-23<br>Nagoya | **TOICA** | JC<br>Silver<br>1 | - | - |
-| **OKA**<br>JP-47<br>Okinawa | **OKICA** | OK<br>White<br>2 | - | - |
-| **QGU**<br>JP-21<br>Gifu | **ayuca** | GB<br>White<br>0 | - | - |
+| IATA<br>ISO 3166-2<br>City | Name<br>Variant | Prefix<br>Colour<br>Notches | Manufacturer<br>IC | Service | Expiry<br>Date | Open<br>Service<br>Code |
+| --- | --- | --- | --- | --- | --- | --- |
+| **HKG**<br>CN-HK<br>Hong Kong | **Octopus**<br>*Mini* | -<br>Black<br>0 | - | - | - | - |
+| **HND**<br>JP-13<br>Tokyo | **PASMO** | PB<br>Silver<br>1 | - | - | - | - |
+| **HND**<br>JP-13<br>Tokyo | **Suica** | JE<br>Silver<br>1 | - | - | - | - |
+| **HND**<br>JP-13<br>Tokyo | **Suica**<br>*Welcome* | JE<br>White<br>0 | - | - | `MM/YY` | `### ### ABC DEF` |
+| **KIX**<br>JP-27<br>Osaka | **ICOCA** | JW<br>Silver<br>1 | - | - | - | - |
+| **MYJ**<br>JP-38<br>Matsuyama | **ICOCA**<br>*Shikoku* | JW<br>Silver<br>2 | - | - | - | - |
+| **NGO**<br>JP-23<br>Nagoya | **manaca**<br>*DO!* | TP<br>Silver<br>1 | - | - | - | - |
+| **NGO**<br>JP-23<br>Nagoya | **manaca**<br>*μstar* | TP<br>Silver<br>1 | - | - | - | - |
+| **NGO**<br>JP-23<br>Nagoya | **TOICA** | JC<br>Silver<br>1 | - | - | - | - |
+| **NGS**<br>JP-42<br>Nagasaki | **Nimoca**<br>*Nagasaki* | NR<br>White<br>1 | - | - | - | - |
+| **OKA**<br>JP-47<br>Okinawa | **OKICA** | OK<br>White<br>2 | - | - | - | - |
+| **QGU**<br>JP-21<br>Gifu | **ayuca** | GB<br>White<br>0 | - | - | - | - |
 
 ---
 ## MIFARE-Based Cards
