@@ -32,7 +32,8 @@ A public GitHub repository containing personally-collected information about pub
 ## Felicity Cards (*FeliCa*)
 | IATA<br>ISO 3166-2<br>City | Name<br>Variant | Prefix<br>Colour<br>Notches | Manufacturer<br>IC | System | Expiry<br>Date | Open<br>Service<br>Code |
 | --- | --- | --- | --- | --- | --- | --- |
-| **FUK**<br>JP-40<br>Fukuoka | **Hayakaken** | FC<br>Silver<br>1 | 0101<br>0531 | 0003<br>FE00<br>927A
+| **FUK**<br>JP-40<br>Fukuoka | **Hayakaken** | FC<br>Silver<br>1 | 0101<br>0531 | 0003<br>FE00<br>927A | - | - |
+| **FUK**<br>JP-40<br>Fukuoka | **nimoca** | NR<br>Silver<br>1 | 0101<br>0531 | 0003 | - | - |
 | **HKG**<br>CN-HK<br>Hong Kong | **Octopus**<br>*Mini* | -<br>Black<br>0 | - | - | - | - |
 | **HND**<br>JP-13<br>Tokyo | **PASMO** | PB<br>Silver<br>1 | 1201<br>0531 | 0003<br>FE00 | - | - |
 | **HND**<br>JP-13<br>Tokyo | **Suica** | JE<br>Silver<br>1 | 1201/1401<br>0531 | 0003<br>86A7<br>FE00 | - | - |
@@ -42,7 +43,8 @@ A public GitHub repository containing personally-collected information about pub
 | **NGO**<br>JP-23<br>Nagoya | **manaca**<br>*DO!* | TP<br>Silver<br>1 | 0101<br>0531 | 0003<br>FE00 | - | - |
 | **NGO**<br>JP-23<br>Nagoya | **manaca**<br>*μstar* | TP<br>Silver<br>1 | 0101<br>0531 | 0003<br>FE00 | - | - |
 | **NGO**<br>JP-23<br>Nagoya | **TOICA** | JC<br>Silver<br>1 | 1201<br>0136 | 0003 | - | - |
-| **NGS**<br>JP-42<br>Nagasaki | **Nimoca**<br>*Nagasaki* | NR<br>Silver<br>1 | 1201<br>0531 | 0003 | - | - |
+| **NGS**<br>JP-42<br>Nagasaki | **nimoca**<br>*nagasaki* | NR<br>Silver<br>1 | 1201<br>0531 | 0003 | - | - |
+| **NGS**<br>JP-42<br>Nagasaki | **N+ T-Card** | KA<br>Silver<br>1 | 1001<br>0136 | 93EC<br>FE00 | - | - |
 | **OKA**<br>JP-47<br>Okinawa | **OKICA** | OK<br>White<br>2 | 1601<br>0120 | 8FC1<br>FE00 | - | - |
 | **QGU**<br>JP-21<br>Gifu | **ayuca** | GB<br>White<br>0 | 1201<br>0136 | 83EE | - | - |
 | **SIN**<br>SG-01<br>Singapore | **EZ-Link** | -<br>Blue<br>0 | 0101<br>0300 | 0102 | - | - |
