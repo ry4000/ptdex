@@ -34,7 +34,7 @@ A public GitHub repository containing personally-collected information about pub
 | --- | --- | --- | --- | --- | --- | --- |
 | **FUK**<br>JP-40<br>Fukuoka | **Hayakaken** | FC<br>Silver<br>1 | 0101<br>0531 | 0003<br>FE00<br>927A | - | - |
 | **FUK**<br>JP-40<br>Fukuoka | **nimoca** | NR<br>Silver<br>1 | 0101<br>0531 | 0003 | - | - |
-| **HKG**<br>CN-HK<br>Hong Kong | **Octopus**<br>*Mini* | -<br>Black<br>0 | - | - | - | - |
+| **HKG**<br>CN-HK<br>Hong Kong | **Octopus**<br>*Mini* | -<br>Black<br>0 | 0101<br>0144 | 8008 | - | - |
 | **HND**<br>JP-13<br>Tokyo | **PASMO** | PB<br>Silver<br>1 | 1201<br>0531 | 0003<br>FE00 | - | - |
 | **HND**<br>JP-13<br>Tokyo | **Suica** | JE<br>Silver<br>1 | 1201/1401<br>0531 | 0003<br>86A7<br>FE00 | - | - |
 | **HND**<br>JP-13<br>Tokyo | **Suica**<br>*Welcome* | JE<br>White<br>0 | 1001<br>0531 | 0003<br>86A7<br>FE00 | `MM/YY` | `### ### ABC DEF` |
