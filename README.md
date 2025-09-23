@@ -30,28 +30,30 @@ A public GitHub repository containing personally-collected information about pub
 
 ---
 ## Felicity Cards (*FeliCa*)
-| IATA<br>ISO 3166-2<br>City | Name<br>Variant | Prefix<br>Colour<br>Notches | Manufacturer<br>IC | System | Expiry Date<br>Open Service Code |
+| IATA<br>ISO 3166-2<br>City | Name<br>Variant | Prefix<br>Colour<br>Notches | Manufacturer<br>ROM<br>IC | System | Expiry Date<br>Open Service Code |
 | --- | --- | --- | --- | --- | --- |
-| **FUK**<br>JP-40<br>Fukuoka | **Hayakaken** | FC<br>Silver<br>1 | 0101<br>0531 | 0003<br>FE00<br>927A | -<br>- |
-| **FUK**<br>JP-40<br>Fukuoka | **nimoca** | NR<br>Silver<br>1 | 0101<br>0531 | 0003 | -<br>- |
-| **HKG**<br>CN-HK<br>Hong Kong | **Octopus**<br>*Mini* | -<br>Black<br>0 | 0101<br>0144 | 8008 | -<br>- |
-| **HND**<br>JP-13<br>Tokyo | **PASMO** | PB<br>Silver<br>1 | 1201<br>0531 | 0003<br>FE00 | -<br>- |
-| **HND**<br>JP-13<br>Tokyo | **Suica** | JE<br>Silver<br>1 | 1201/1401<br>0531 | 0003<br>86A7<br>FE00 | -<br>- |
-| **HND**<br>JP-13<br>Tokyo | **Suica**<br>*Welcome* | JE<br>White<br>0 | 1001<br>0531 | 0003<br>86A7<br>FE00 | `MM/YY`<br>`### ### ABC DEF` |
-| **KIX**<br>JP-27<br>Osaka | **ICOCA** | JW<br>Silver<br>1 | 0101<br>0136 | 0003 | -<br>- |
-| **MYJ**<br>JP-38<br>Matsuyama | **ICOCA**<br>*Shikoku* | JW<br>Silver<br>2 | 1201<br>0136 | 0003 | -<br>- |
-| **NGO**<br>JP-23<br>Nagoya | **manaca**<br>*DO!* | TP<br>Silver<br>1 | 0101<br>0531 | 0003<br>FE00 | -<br>- |
-| **NGO**<br>JP-23<br>Nagoya | **manaca**<br>*μstar* | TP<br>Silver<br>1 | 0101<br>0531 | 0003<br>FE00 | -<br>- |
-| **NGO**<br>JP-23<br>Nagoya | **TOICA** | JC<br>Silver<br>1 | 1201<br>0136 | 0003 | -<br>- |
-| **NGS**<br>JP-42<br>Nagasaki | **nimoca**<br>*nagasaki* | NR<br>Silver<br>1 | 1201<br>0531 | 0003 | -<br>- |
-| **NGS**<br>JP-42<br>Nagasaki | **N+ T-Card** | KA<br>Silver<br>1 | 1001<br>0136 | 93EC<br>FE00 | -<br>- |
-| **OKA**<br>JP-47<br>Okinawa | **OKICA** | OK<br>White<br>2 | 1601<br>0120 | 8FC1<br>FE00  | -<br>- |
-| **QGU**<br>JP-21<br>Gifu | **ayuca** | GB<br>White<br>0 | 1201<br>0136 | 83EE | -<br>- |
-| **SIN**<br>SG-01<br>Singapore | **EZ-Link** | -<br>Blue<br>0 | 0101<br>0300 | 0102 | -<br>- |
+| **FUK**<br>JP-40<br>Fukuoka | **Hayakaken** | FC<br>Silver<br>1 | 0101<br>05<br>31 | 0003<br>FE00<br>927A | -<br>- |
+| **FUK**<br>JP-40<br>Fukuoka | **nimoca** | NR<br>Silver<br>1 | 0101<br>05<br>31 | 0003 | -<br>- |
+| **HKG**<br>CN-HK<br>Hong Kong | **Octopus**<br>*Mini* | -<br>Black<br>0 | 0101<br>01<br>44 | 8008 | -<br>- |
+| **HKG**<br>CN-HK<br>Hong Kong | **Octopus**<br>*Tourist T-Union* | -<br>White<br>0 | 0101<br>04<br>3B | 8008 | -<br>- |
+| **HND**<br>JP-13<br>Tokyo | **PASMO** | PB<br>Silver<br>1 | 1201<br>05<br>31 | 0003<br>FE00 | -<br>- |
+| **HND**<br>JP-13<br>Tokyo | **Suica** | JE<br>Silver<br>1 | 1201/1401<br>05<br>31 | 0003<br>86A7<br>FE00 | -<br>- |
+| **HND**<br>JP-13<br>Tokyo | **Suica**<br>*Welcome* | JE<br>White<br>0 | 1001<br>05<br>31 | 0003<br>86A7<br>FE00 | `MM/YY`<br>`### ### ABC DEF` |
+| **KIX**<br>JP-27<br>Osaka | **ICOCA** | JW<br>Silver<br>1 | 0101<br>01<br>36 | 0003 | -<br>- |
+| **MYJ**<br>JP-38<br>Matsuyama | **ICOCA**<br>*Shikoku* | JW<br>Silver<br>2 | 1201<br>01<br>36 | 0003 | -<br>- |
+| **NGO**<br>JP-23<br>Nagoya | **manaca**<br>*DO!* | TP<br>Silver<br>1 | 0101<br>05<br>31 | 0003<br>FE00 | -<br>- |
+| **NGO**<br>JP-23<br>Nagoya | **manaca**<br>*μstar* | TP<br>Silver<br>1 | 0101<br>05<br>31 | 0003<br>FE00 | -<br>- |
+| **NGO**<br>JP-23<br>Nagoya | **TOICA** | JC<br>Silver<br>1 | 1201<br>01<br>36 | 0003 | -<br>- |
+| **NGS**<br>JP-42<br>Nagasaki | **nimoca**<br>*nagasaki* | NR<br>Silver<br>1 | 1201<br>05<br>31 | 0003 | -<br>- |
+| **NGS**<br>JP-42<br>Nagasaki | **N+ T-Card** | KA<br>Silver<br>1 | 1001<br>01<br>36 | 93EC<br>FE00 | -<br>- |
+| **OKA**<br>JP-47<br>Okinawa | **OKICA** | OK<br>White<br>2 | 1601<br>01<br>20 | 8FC1<br>FE00  | -<br>- |
+| **QGU**<br>JP-21<br>Gifu | **ayuca** | GB<br>White<br>0 | 1201<br>01<br>36 | 83EE | -<br>- |
+| **SIN**<br>SG-01<br>Singapore | **EZ-Link** | -<br>Blue<br>0 | 0101<br>03<br>00 | 0102 | -<br>- |
 
 > [!NOTE]
->
-> 1. **SIN EZ-Link** now uses the `Specification for Contactless e-Purse Application (CEPAS)` chip technology.
+> 1. **HKG Octopus Tourist T-Union** is a dual-tech card.
+> 2. **HKG Octopus Tourist T-Union**'s QR Code is a [shortened URL](https://www.octopus.com.hk/mot).
+> 3. **SIN EZ-Link** now uses the `Specification for Contactless e-Purse Application (CEPAS)` chip technology.
 
 ---
 ## MIFARE-Based Cards
@@ -89,6 +91,7 @@ A public GitHub repository containing personally-collected information about pub
 | **LCY**<br>GB-LND<br>London | **ITSO**<br>*The Key*<br>DESFire EV1 4k | - | -<br>- | `DD/MM/YYYY`<br>-<br>Yes |
 | **LHR**<br>GB-LND<br>London | **oyster**<br>DESFire EV1 2k | - | -<br>- | -<br>-<br>- |
 | **LJU**<br>SI-061<br>Ljubljana | **Urbana**<br>DESFire EV2 8k | 128 | -<br>- | -<br>-<br>- |
+| **LPL**<br>GB-LIV<br>Liverpool | **ITSO**<br>*MetroCard*<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **MAN**<br>GB-MAN<br>Stockport | **ITSO**<br>*Stagecoach*<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **MEL**<br>AU-VIC<br>Melbourne | **myki**<br>DESFire EV3 4k | - | -<br>- | -<br>-<br>Optional |
 | **MNL**<br>PH-00<br>Manila | **beep**<br>DESFire EV1 8k | - | -<br>- | `MMM/YYYY`<br>-<br>- |
@@ -101,6 +104,7 @@ A public GitHub repository containing personally-collected information about pub
 | **SCL**<br>CL-RM<br>Santiago | **bip**!<br>Classic EV1 1k | 128 | -<br>- | -<br>-<br>- |
 | **SEA**<br>US-WA<br>Seattle | **ORCA**<br>DESFire EV3 2k | 128 | `###`<br>- | -<br>-<br>- |
 | **SFO**<br>US-CA<br>San Francisco | **Clipper**<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
+| **SMF**<br>US-CA<br>Sacramento | **Connect**<br>DESFire EV1 4k | - | `###`<br>- | -<br>-<br>- |
 | **SOU**<br>GB-STH<br>Southampton | **ITSO**<br>*touch*<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>Yes |
 | **SYD**<br>AU-NSW<br>Sydney | **Opal**<br>DESFire EV1 4k | - | `####`<br>- | -<br>-<br>- |
 | **TPE**<br>TW-TPE<br>Taipei | **iPASS**<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
