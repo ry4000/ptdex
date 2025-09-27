@@ -122,28 +122,32 @@ A public GitHub repository containing information about public transport cards.
 > 4. **CBR MyWay+**'s QR Code is text that shows a card prefix (`00001`), card number, and CCV.
 > 5. **CHC Metrocard**'s emboss is dots in the shape of `>`.
 > 6. **KUL Touch n' Go Enhanced**'s QR Code directs commuters to download their [eWallet App](https://cdn.tngdigital.com.my/s/landing/index.html).
-> 7. **MEL myki** prints the commuter's name if it's registered and requested at the time of online purchase/replacement. 
-> 8. **TPE iPASS** in Chinese (Simplified) is `一卡通`.
-> 9. **YYZ Presto**'s emboss is `P` in Braille.
-> 10. **ZAG Value Card** in Hrvatski is `Vrijednosna Karta`.
+> 7. **MEL myki** prints the commuter's name if it's registered and requested at the time of online purchase/replacement.
+> 8. **MNL TRIPKO** in English is `MYTRIP`.
+> 9. **TPE iPASS** in Chinese (Simplified) is `一卡通`.
+> 10. **YYZ Presto**'s emboss is `P` in Braille.
+> 11. **ZAG Value Card** in Hrvatski is `Vrijednosna Karta`.
 
 ---
 ## MIFARE-Based Tickets
-| IATA<br>ISO 3166-2<br>City | Name<br>Technology | Code | CCV/CVN<br>Emboss | Expiry<br>Date | Magnetic Stripe<br>Printed Name |
+| IATA<br>ISO 3166-2<br>City | Name<br>Technology | Code | CCV/CVN<br>Emboss | Expiry Time<br>Expiry Date | Magnetic Stripe<br>Printed Name |
 | --- | --- | --- | --- | --- | --- |
-| **BKK**<br>TH-10<br>Bangkok | **BTS Ticket**<br> Ultralight C | QR | -<br>- | - | -<br>- |
-| **BKK**<br>TH-10<br>Bangkok | **EBM Ticket**<br> Ultralight C | QR | -<br>- | - | -<br>- |
+| **BKK**<br>TH-10<br>Bangkok | **BTS Ticket**<br> Ultralight C | QR | -<br>- | -<br>- | -<br>- |
+| **BKK**<br>TH-10<br>Bangkok | **EBM Ticket**<br> Ultralight C | QR | -<br>- | -<br>- | -<br>- |
 | **DOH**<br>QA-DA<br>Doha | **Day Pass**<br>Ultralight EV1 | - | -<br>- | `02:58`<br>`DD MMM YYYY` | -<br>- |
-| **LHR**<br>GB-LND<br>London | **oyster**<br>Classic EV1 | - | -<br>- | - | -<br>- |
-| **MNL**<br>PH-00<br>Manila | **LRT Ticket**<br>Ultralight C | - | -<br>- | - | -<br>- |
-| **MNL**<br>PH-00<br>Manila | **MRT Ticket**<br>Ultralight C | - | -<br>- | - | -<br>- |
-| **ORD**<br>US-IL<br>Chicago | **Ticket**<br>Ultralight EV1 | - | -<br>- | - | -<br>- |
-| **SYD**<br>AU-NSW<br>Sydney | **Ticket**<br>Ultralight C | - | -<br>- | `4am`<br>the day after<br>`DD.MM.YYYY` | -<br>- |
-| **YVR**<br>CA-BC<br>Vancouver | **Ticket**<br>Ultralight EV1 | - | -<br>- | - | -<br>- |
+| **GLA**<br>GB-GLG<br>Glasgow | **SPT Ticket**<br>Ultralight | - | -<br>- | -<br>- | -<br>- |
+| **LHR**<br>GB-LND<br>London | **oyster**<br>Classic EV1 | - | -<br>- | -<br>- | -<br>- |
+| **MNL**<br>PH-00<br>Manila | **LRT Ticket**<br>Ultralight C | - | -<br>- | -<br>- | -<br>- |
+| **MNL**<br>PH-00<br>Manila | **MRT Ticket**<br>Ultralight C | - | -<br>- | -<br>- | -<br>- |
+| **ORD**<br>US-IL<br>Chicago | **Ticket**<br>Ultralight EV1 | - | -<br>- | -<br>- | -<br>- |
+| **SYD**<br>AU-NSW<br>Sydney | **Ticket**<br>Ultralight C | - | -<br>- | `4am`<br>`DD.MM.YYYY` | -<br>- |
+| **YVR**<br>CA-BC<br>Vancouver | **Ticket**<br>Ultralight EV1 | - | -<br>- | -<br>- | -<br>- |
 
 
 > [!NOTE]
 >
 > 1. **BKK BTS Ticket**'s QR Code directs commuters to the [BTS SkyTrain Route Map (PDF)](http://www.bts.co.th/btsroutes).
 > 2. **BKK EBM Ticket**'s QR Code directs commuters to the [EBM System Map (PDF)](https://www.ebm.co.th/qr/routes).
-> 3. **LHR oyster** is a green [One Day Bus and Tram Pass](https://tfl.gov.uk/fares/ways-to-pay/bus-and-tram-pass).
+> 3. **GLG SPT TIcket** is using an Infineon Technologies my-d move lean chip, which is equivalent to MIFARE Ultralight.
+> 4. **LHR oyster** is a green [One Day Bus and Tram Pass](https://tfl.gov.uk/fares/ways-to-pay/bus-and-tram-pass).
+> 5. **SYD Ticket** expires at 4am the day after the purchase date.
