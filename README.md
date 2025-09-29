@@ -5,13 +5,13 @@ A public GitHub repository containing information about public transport cards.
 >
 > <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 0.1em;max-height:0.1em;margin-left: .1em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 0.1em;max-height:0.1em;margin-left: .1em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" style="max-width: 0.1em;max-height:0.1em;margin-left: .1em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 0.1em;max-height:0.1em;margin-left: .1em;">
 > 
-> <a href="https://github.com/ry4000/ptdex">PTDex</a> is © 2025 by <a href="https://github.com/ry4000">randy</a>, and is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.
+> [**PTDex**](https://github.com/ry4000/ptdex) is © 2025 by [**randy**](https://github.com/ry4000), and is licensed under [**CC BY-NC-SA 4.0**](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 > [!NOTE]
 > 
-> *GH/`@micolous` may use this repository to guide any potential [MetroDroid](https://github.com/metrodroid/metrodroid) updates.*
+> *GH/`@micolous` may use this repository to guide any potential [**MetroDroid**](https://github.com/metrodroid/metrodroid) updates.*
 >
-> *GH/`@iceman1001` may use this repository to guide any potential [Proxmark3](https://github.com/RfidResearchGroup/proxmark3) updates.*
+> *GH/`@iceman1001` may use this repository to guide any potential [**Proxmark3**](https://github.com/RfidResearchGroup/proxmark3) updates.*
 > 
 > *<sup>®</sup>s, <sup>TM</sup>s, and <sup>SM</sup>s are used for descriptive purposes only, and belong to their respective companies.*
 > 
@@ -21,7 +21,7 @@ A public GitHub repository containing information about public transport cards.
 
 > [!TIP]
 >
-> Please join [Iceman's Discord Server](https://discord.gg/iceman) if you wish to mail randy a public transport card for PTDex.
+> Please join either/both [**Flipper Devices'**](https://discord.gg/flipper) and/or [**Iceman's**](https://discord.gg/iceman) Discord Server if you wish to mail randy a public transport card for PTDex.
 ---
 ## Calypso Cards
 | IATA<br>ISO 3166-2<br>City | Name |
@@ -54,7 +54,7 @@ A public GitHub repository containing information about public transport cards.
 
 > [!NOTE]
 > 1. **HKG Octopus Tourist T-Union** is a dual-tech card.
-> 2. **HKG Octopus Tourist T-Union**'s QR Code is a [shortened URL](https://www.octopus.com.hk/mot).
+> 2. **HKG Octopus Tourist T-Union**'s QR Code is a [**shortened URL**](https://www.octopus.com.hk/mot).
 > 4. **SIN EZ-Link** now uses the `Specification for Contactless e-Purse Application (CEPAS)` chip technology.
 
 ---
@@ -116,12 +116,12 @@ A public GitHub repository containing information about public transport cards.
 
 > [!NOTE]
 >
-> 1. **ADL metroCARD**'s QR Code directs commuters to [register](https://dit.sa.gov.au/metrocard-register) their metroCARD.
+> 1. **ADL metroCARD**'s QR Code directs commuters to [**register**](https://dit.sa.gov.au/metrocard-register) their metroCARD.
 > 2. **BGO Skyss Card** in Norsk is `Skyss Kort`.
 > 3. **CBR MyWay+**'s emboss is dots in the shape of `T`.
 > 4. **CBR MyWay+**'s QR Code is text that shows a card prefix (`00001`), card number, and CCV.
 > 5. **CHC Metrocard**'s emboss is dots in the shape of `>`.
-> 6. **KUL Touch n' Go Enhanced**'s QR Code directs commuters to download their [eWallet App](https://cdn.tngdigital.com.my/s/landing/index.html).
+> 6. **KUL Touch n' Go Enhanced**'s QR Code directs commuters to download their [**eWallet App**](https://cdn.tngdigital.com.my/s/landing/index.html).
 > 7. **MEL myki** prints the commuter's name if it's registered and requested at the time of online purchase/replacement.
 > 8. **MNL TRIPKO** in English is `MYTRIP`.
 > 9. **TPE iPASS** in Chinese (Simplified) is `一卡通`.
@@ -146,8 +146,8 @@ A public GitHub repository containing information about public transport cards.
 
 > [!NOTE]
 >
-> 1. **BKK BTS Ticket**'s QR Code directs commuters to the [BTS SkyTrain Route Map (PDF)](http://www.bts.co.th/btsroutes).
-> 2. **BKK EBM Ticket**'s QR Code directs commuters to the [EBM System Map (PDF)](https://www.ebm.co.th/qr/routes).
+> 1. **BKK BTS Ticket**'s QR Code directs commuters to the [**BTS SkyTrain Route Map (PDF)**](http://www.bts.co.th/btsroutes).
+> 2. **BKK EBM Ticket**'s QR Code directs commuters to the [**EBM System Map (PDF)**](https://www.ebm.co.th/qr/routes).
 > 3. **GLG SPT TIcket** is using an Infineon Technologies my-d move lean chip, which is equivalent to MIFARE Ultralight.
-> 4. **LHR oyster** is a green [One Day Bus and Tram Pass](https://tfl.gov.uk/fares/ways-to-pay/bus-and-tram-pass).
+> 4. **LHR oyster** is a green [**One Day Bus and Tram Pass**](https://tfl.gov.uk/fares/ways-to-pay/bus-and-tram-pass).
 > 5. **SYD Ticket** expires at 4am the day after the purchase date.
