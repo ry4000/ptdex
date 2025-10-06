@@ -36,21 +36,22 @@ A public GitHub repository containing information about public transport cards.
 | **FUK**<br>JP-40<br>Fukuoka | **nimoca**<br>-<br>- | NR<br>Silver<br>1 | 0101<br>05<br>31 | 0003 | 008B<br>090F<br>108F<br>10CB | 
 | **FUK**<br>JP-40<br>Fukuoka | **SUGOCA**<br>-<br>- | JK<br>Silver<br>1 | 0101<br>05<br>31 | 0003 | 008B<br>090F<br>108F<br>10CB |
 | **FUK**<br>JP-40<br>Fukuoka | **SUGOCA**<br>-<br>*mono* | JK<br>Silver<br>1 | 0101<br>05<br>31 | 0003<br><br><br><br><br><br><br>FE00 | 008B<br>090F<br>108F<br>10CB<br><br>394B<br>398B<br>39C9 |
-| **HKG**<br>CN-HK<br>Hong Kong | **Octopus**<br>八達通<br>*Mini* | -<br>Black<br>0 | 0101<br>01<br>44 | 8008 | 0117<br>100B |
+| **HKG**<br>CN-HK<br>Hong Kong | **Octopus**<br>迷你八達通<br>*Mini* | -<br>Black<br>0 | 0101<br>01<br>44 | 8008 | 0117<br>100B |
+| **HKG**<br>CN-HK<br>Hong Kong | **Octopus**<br>普通版八達通<br>*On-Loan* | -<br>Black<br>0 | 0101<br>03<br>32 | 8008 | 0117<br>100B |
 | **HKG**<br>CN-HK<br>Hong Kong | **Octopus**<br>八達通–全國通<br>*Tourist T-Union* | -<br>White<br>0 | 0101<br>04<br>3B | 8008 | 0117<br>100B |
 | **HND**<br>JP-13<br>Tokyo | **PASMO**<br>-<br>- | PB<br>Silver<br>1 | 1201<br>05<br>31 | 0003<br><br><br><br><br><br><br>FE00 | 008B<br>090F<br>108F<br>10CB<br><br>394B<br>398B<br>39C9 |
 | **HND**<br>JP-13<br>Tokyo | **Suica**<br>-<br>- | JE<br>Silver<br>1 | 1201/1401<br>05<br>31 | 0003<br><br><br><br><br><br><br><br><br><br><br><br>FE00<br><br><br><br>86A7 | 008B<br>090F<br>108F<br>10CB<br>184B<br>194B<br>198B<br>234B<br>238B<br>23CB<br><br>394B<br>398B<br>39C9<br><br>004B<br>028B |
 | **HND**<br>JP-13<br>Tokyo | **Suica**<br>-<br>*Welcome* | JE<br>White<br>0 | 1001<br>05<br>31 | 0003<br><br><br><br><br><br><br><br><br>FE00<br><br><br><br>86A7 | 008B<br>090F<br>108F<br>10CB<br>184B<br>194B<br>198B<br><br>394B<br>398B<br>39C9<br><br>004B<br>028B |
-| **KIX**<br>JP-27<br>Osaka | **ICOCA**<br>-<br>- | JW<br>Silver<br>1 | 0101<br>01<br>36 | 0003 |
-| **MYJ**<br>JP-38<br>Matsuyama | **ICOCA**<br>-<br>*Shikoku* | JW<br>Silver<br>2 | 1201<br>01<br>36 | 0003 |
-| **NGO**<br>JP-23<br>Nagoya | **manaca**<br>マナカ<br>*DO!* | TP<br>Silver<br>1 | 0101<br>05<br>31 | 0003<br>FE00 |
-| **NGO**<br>JP-23<br>Nagoya | **manaca**<br>マナカ<br>*μstar* | TP<br>Silver<br>1 | 0101<br>05<br>31 | 0003<br>FE00 |
-| **NGO**<br>JP-23<br>Nagoya | **TOICA**<br>-<br>- | JC<br>Silver<br>1 | 1201<br>01<br>36 | 0003 |
-| **NGS**<br>JP-42<br>Nagasaki | **nimoca**<br>-<br>*nagasaki* | NR<br>Silver<br>1 | 1201<br>05<br>31 | 0003 |
-| **NGS**<br>JP-42<br>Nagasaki | **N+ T-Card**<br>エヌタスカード<br>- | KA<br>Silver<br>1 | 1001<br>01<br>36 | 93EC<br>FE00 |
-| **OKA**<br>JP-47<br>Okinawa | **OKICA**<br>-<br>- | OK<br>White<br>2 | 1601<br>01<br>20 | 8FC1<br>FE00  |
-| **QGU**<br>JP-21<br>Gifu | **ayuca**<br>アユカ<br>- | GB<br>White<br>0 | 1201<br>01<br>36 | 83EE |
-| **SIN**<br>SG-01<br>Singapore | **EZ-Link**<br>-<br>- | -<br>Blue<br>0 | 0101<br>03<br>00 | 0102 |
+| **KIX**<br>JP-27<br>Osaka | **ICOCA**<br>-<br>- | JW<br>Silver<br>1 | 0101<br>01<br>36 | 0003 | 008B<br>090F<br>108F<br>10CB |
+| **MYJ**<br>JP-38<br>Matsuyama | **ICOCA**<br>-<br>*Shikoku* | JW<br>Silver<br>2 | 1201<br>01<br>36 | 0003 | 008B<br>090F<br>108F<br>10CB |
+| **NGO**<br>JP-23<br>Nagoya | **manaca**<br>マナカ<br>*DO!* | TP<br>Silver<br>1 | 0101<br>05<br>31 | 0003<br><br><br><br><br><br><br><br><br><br>FE00 | 008B<br>090F<br>108F<br>10CB<br>988B<br>98CF<br>998B<br><br>394B<br>398B<br>39C9 |
+| **NGO**<br>JP-23<br>Nagoya | **manaca**<br>マナカ<br>*μstar* | TP<br>Silver<br>1 | 0101<br>05<br>31 | 0003<br><br><br><br><br><br><br><br><br><br>FE00 | 008B<br>090F<br>108F<br>10CB<br>988B<br>98CF<br>998B<br><br>394B<br>398B<br>39C9 |
+| **NGO**<br>JP-23<br>Nagoya | **TOICA**<br>-<br>- | JC<br>Silver<br>1 | 1201<br>01<br>36 | 0003 | 008B<br>090F<br>108F<br>10CB<br>184B<br>1E8B<br>1ECF |
+| **NGS**<br>JP-42<br>Nagasaki | **nimoca**<br>-<br>*nagasaki* | NR<br>Silver<br>1 | 1201<br>05<br>31 | 0003 | 008B<br>090F<br>108F<br>10CB | 
+| **NGS**<br>JP-42<br>Nagasaki | **N+ T-Card**<br>エヌタスカード<br>- | KA<br>Silver<br>1 | 1001<br>01<br>36 | 93EC<br><br><br><br><br><br><br><br><br><br>FE00 | 204B<br>304B<br>408B<br>500B<br>700B<br>80CF<br>A8CF<br><br>394B<br>398B<br>39C9 |
+| **OKA**<br>JP-47<br>Okinawa | **OKICA**<br>-<br>- | OK<br>White<br>2 | 1601<br>01<br>20 | 8FC1<br><br><br><br><br><br>FE00  | 028F<br>050F<br>060B<br><br>394B<br>398B<br>39C9 |
+| **QGU**<br>JP-21<br>Gifu | **ayuca**<br>アユカ<br>- | GB<br>White<br>0 | 1201<br>01<br>36 | 83EE | 804B<br>884B<br>898F<br>924B | 
+| **SIN**<br>SG-01<br>Singapore | **EZ-Link**<br>-<br>- | -<br>Blue<br>0 | 0101<br>03<br>00 | 0102 | - |
 
 > [!NOTE]
 > 1. **HKG Octopus Tourist T-Union** is a dual-tech card.
