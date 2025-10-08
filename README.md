@@ -9,19 +9,22 @@ A public GitHub repository containing information about public transport cards.
 
 > [!NOTE]
 > 
-> *GH/`@micolous` may use this repository to guide any potential [**MetroDroid**](https://github.com/metrodroid/metrodroid) updates.*
->
+> *GH/`@micolous` may use this repository to guide any potential [**Metrodroid**](https://github.com/metrodroid/metrodroid) updates.*<br>
+> *GH/`@luu176` may use this repository to guide any potential [**Metroflip**](https://github.com/luu176/Metroflip) updates.*<br>
 > *GH/`@iceman1001` may use this repository to guide any potential [**Proxmark3**](https://github.com/RfidResearchGroup/proxmark3) updates.*
 > 
-> *<sup>®</sup>s, <sup>TM</sup>s, and <sup>SM</sup>s are used for descriptive purposes only, and belong to their respective companies.*
-> 
+> *<sup>®</sup>s, <sup>TM</sup>s, and <sup>SM</sup>s are used for descriptive purposes only, and belong to their respective companies.*<br>
 > *PTDex is not affiliated with — nor employed/sponsored by — any transit agency/manufacturer/vendor.*
 >
 > *PTDex information is correct at the time of collection, and may have since been upgraded by the transit agency.*
 
 > [!TIP]
 >
-> Please join either/both [**Flipper Devices'**](https://discord.gg/flipper) and/or [**Iceman's**](https://discord.gg/iceman) Discord Server if you wish to mail randy a public transport card for PTDex.
+> Please join any of the below Discord Communities if you wish to mail randy a public transport card for PTDex:
+> - [**Flipper Devices**](https://discord.gg/flipper)
+> - [**Metroflip**](https://discord.gg/NR5hhbAXqS)
+> - [**RFID Hacking by Iceman**](https://discord.gg/iceman)
+
 ---
 ## Calypso Cards
 | IATA<br>ISO 3166-2<br>City | Name |
@@ -67,6 +70,7 @@ A public GitHub repository containing information about public transport cards.
 | **ADL**<br>AU-SA<br>Adelaide | **metroCARD**<br>DESFire EV1 2k | QR | -<br>- | -<br>-<br>- | 
 | **AKL**<br>NZ-AUK<br>Auckland | **AT HOP**<br>DESFire EV1 4k | - | `###`<br>- | -<br>-<br>- |
 | **ATH**<br>GR-I<br>Athens | **ATH.ENA**<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
+| **BDL**<br>US-CT<br> Hartford | **Go CT**<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **BFS**<br>GB-NIR<br>Belfast | **Visitor Pass**<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
 | **BGO**<br>NO-46<br>Bergen | **Skyss Card**<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **BKK**<br>TH-10<br>Bangkok | **BEM SVC**<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
