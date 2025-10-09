@@ -27,9 +27,14 @@ A public GitHub repository containing information about public transport cards.
 
 ---
 ## Calypso Cards
-| IATA<br>ISO 3166-2<br>City | Name |
+| IATA<br>ISO 3166-2<br>City | Name<br>Variant |
 | --- | --- |
+| **NCE**<br>FR-06<br>Nice | **The Card**<br>*Solo Rescue* |
 | **YUL**<br>CA-QC<br>Montreal | **OPUS** |
+
+> [!NOTE]
+> 1. **NCE The Card** *Solo Rescue* in French is `La Carte - Solo Secours`.
+> 2. **NCE The Card** *Solo Rescue*'s QR Code is a shortened URL to download their [Android App](
 
 ---
 ## Felicity Cards (*FeliCa*)
@@ -46,6 +51,7 @@ A public GitHub repository containing information about public transport cards.
 | **HND**<br>JP-13<br>Tokyo | **Suica**<br>-<br>- | JE<br>Silver<br>1 | 1201/1401<br>05<br>31 | 0003<br><br><br><br><br><br><br><br><br><br><br><br>FE00<br><br><br><br>86A7 | 008B<br>090F<br>108F<br>10CB<br>184B<br>194B<br>198B<br>234B<br>238B<br>23CB<br><br>394B<br>398B<br>39C9<br><br>004B<br>028B |
 | **HND**<br>JP-13<br>Tokyo | **Suica**<br>-<br>*Welcome* | JE<br>White<br>0 | 1001<br>05<br>31 | 0003<br><br><br><br><br><br><br><br><br>FE00<br><br><br><br>86A7 | 008B<br>090F<br>108F<br>10CB<br>184B<br>194B<br>198B<br><br>394B<br>398B<br>39C9<br><br>004B<br>028B |
 | **KIX**<br>JP-27<br>Osaka | **ICOCA**<br>-<br>- | JW<br>Silver<br>1 | 0101<br>01<br>36 | 0003 | 008B<br>090F<br>108F<br>10CB |
+| **KIX**<br>JP-27<br>Osaka | **PiTaPa**<br>ピタパ<br>- | SU<br>Silver<br>1 | 1001<br>04<br>01 | 0003 | 008B<br>090F<br>108F<br>10CB |
 | **MYJ**<br>JP-38<br>Matsuyama | **ICOCA**<br>-<br>*Shikoku* | JW<br>Silver<br>2 | 1201<br>01<br>36 | 0003 | 008B<br>090F<br>108F<br>10CB |
 | **NGO**<br>JP-23<br>Nagoya | **manaca**<br>マナカ<br>*DO!* | TP<br>Silver<br>1 | 0101<br>05<br>31 | 0003<br><br><br><br><br><br><br><br><br><br>FE00 | 008B<br>090F<br>108F<br>10CB<br>988B<br>98CF<br>998B<br><br>394B<br>398B<br>39C9 |
 | **NGO**<br>JP-23<br>Nagoya | **manaca**<br>マナカ<br>*μstar* | TP<br>Silver<br>1 | 0101<br>05<br>31 | 0003<br><br><br><br><br><br><br><br><br><br>FE00 | 008B<br>090F<br>108F<br>10CB<br>988B<br>98CF<br>998B<br><br>394B<br>398B<br>39C9 |
@@ -61,7 +67,9 @@ A public GitHub repository containing information about public transport cards.
 > 2. **HKG Octopus Tourist T-Union**'s QR Code is a [**shortened URL**](https://www.octopus.com.hk/mot).
 > 3. **HKG Octopus Tourist T-Union** in Chinese (Traditional) is `八達通 – 全國通 (銷售版)`.
 > 4. **HND Welcome Suica** has an Expiry Date in `MM/YY` and an Open Service Code of `### ### ABC DEF`.
-> 5. **SIN EZ-Link** now uses the `Specification for Contactless e-Purse Application (CEPAS)` chip technology.
+> 5. **KIX PiTaPa** is a post-pay service within the [**PiTaPa**](https://www.pitapa.com) network.
+> 6. **KIX PiTaPa** is a pre-pay service within the rest of the [**NMUS**](https://en.wikipedia.org/wiki/Nationwide_Mutual_Usage_Service) network.
+> 7. **SIN EZ-Link** now uses the `Specification for Contactless e-Purse Application (CEPAS)` chip technology.
 
 ---
 ## MIFARE-Based Cards
@@ -70,7 +78,7 @@ A public GitHub repository containing information about public transport cards.
 | **ADL**<br>AU-SA<br>Adelaide | **metroCARD**<br>DESFire EV1 2k | QR | -<br>- | -<br>-<br>- | 
 | **AKL**<br>NZ-AUK<br>Auckland | **AT HOP**<br>DESFire EV1 4k | - | `###`<br>- | -<br>-<br>- |
 | **ATH**<br>GR-I<br>Athens | **ATH.ENA**<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
-| **BDL**<br>US-CT<br> Hartford | **Go CT**<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
+| **BDL**<br>US-CT<br> Hartford | **Go CT**<br>DESFire EV1 4k | UPC A<br>128 | -<br>- | -<br>-<br>- |
 | **BFS**<br>GB-NIR<br>Belfast | **Visitor Pass**<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
 | **BGO**<br>NO-46<br>Bergen | **Skyss Card**<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **BKK**<br>TH-10<br>Bangkok | **BEM SVC**<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
