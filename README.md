@@ -16,7 +16,7 @@ A public GitHub repository containing information about public transport cards.
 > *<sup>®</sup>s, <sup>TM</sup>s, and <sup>SM</sup>s are used for descriptive purposes only, and belong to their respective companies.*<br>
 > *PTDex is not affiliated with — nor employed/sponsored by — any transit agency/manufacturer/vendor.*
 >
-> *PTDex information is correct at the time of collection, and may have since been upgraded by the transit agency.*
+> *PTDex information is correct at the time of publication, and may have since been upgraded by the transit agency.*
 
 > [!TIP]
 >
