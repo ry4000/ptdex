@@ -75,6 +75,7 @@ A public GitHub repository containing information about public transport cards.
 ## MIFARE-Based Cards
 | IATA<br>ISO 3166-2<br>City | Name<br>Variant<br>Technology | Code | CCV/CVN<br>Emboss | Expiry Date<br>Magnetic Stripe<br>Printed Name |
 | --- | --- | --- | --- | --- |
+| **ABE**<br>US-PA<br>Allentown | **ValleyRide**<br>DESFire EV3 2k | 128 | -<br>- | -<br>-<br>- |
 | **ADL**<br>AU-SA<br>Adelaide | **metroCARD**<br>DESFire EV1 2k | QR | -<br>- | -<br>-<br>- | 
 | **AKL**<br>NZ-AUK<br>Auckland | **AT HOP**<br>DESFire EV1 4k | - | `###`<br>- | -<br>-<br>- |
 | **ATH**<br>GR-I<br>Athens | **ATH.ENA**<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
@@ -96,6 +97,8 @@ A public GitHub repository containing information about public transport cards.
 | **DUD**<br>NZ-OTA<br>Otago | **Bee**<br>DESFire EV1 4k | - | `###`<br>- | -<br>-<br>- |
 | **ECN**<br>CY-01<br>Nicosia | **motion**<br>DESFire EV2 4k | - | -<br>- | -<br>-<br>- |
 | **EMA**<br>GB-LCE<br>Leicester | **ITSO**<br>*Smartcard*<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>Yes |
+| **EWR**<br>US-NJ<br>Jersey City | **SmartLink**<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
+| **EWR**<br>US-NJ<br>Newark | **FARE-PAY**<br>DESFire EV3 4k | UPC A<br>128 | `###`<br>- | -<br>Yes<br>- |
 | **GEG**<br>US-WA<br>Spokane | **Connect**<br>DESFire EV3 2k | UPC A<br>128 | `###`<br>- | -<br>Yes<br>- |  
 | **HBA**<br>AU-TAS<br>Hobart | **GreenCard**<br>Classic 4k | - | -<br>- | -<br>-<br>- |
 | **HBA**<br>AU-TAS<br>Hobart | **Smartcard**<br>Classic 1k | - | -<br>- | -<br>-<br>- |
