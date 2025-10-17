@@ -1,6 +1,10 @@
 # randy's Public Transport Index (*PTDex*)
 A public GitHub repository containing information about public transport cards.
-
+- [**Calypso Cards**](#calypso-cards)
+- [**Felicity Cards (FeliCa)**](#felicity-cards-felica)
+- [**MIFARE-Based Cards**](#mifare-based-cards)
+- [**MIFARE-Based Tickets**](#mifare-based-tickets)
+  
 > [!IMPORTANT]
 >
 > <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 0.1em;max-height:0.1em;margin-left: .1em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 0.1em;max-height:0.1em;margin-left: .1em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" style="max-width: 0.1em;max-height:0.1em;margin-left: .1em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 0.1em;max-height:0.1em;margin-left: .1em;">
