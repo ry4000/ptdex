@@ -38,7 +38,7 @@ A public GitHub repository containing information about public transport cards.
 
 > [!NOTE]
 > 1. **NCE The Card** *Solo Rescue* in French is `La Carte - Solo Secours`.
-> 2. **NCE The Card** *Solo Rescue*'s QR Code is a shortened URL to download their [Android App](https://play.google.com/store/apps/details?id=eu.mobeepass.walletapplication).
+> 2. **NCE The Card** *Solo Rescue*'s QR Code is a shortened URL to download their [**Android App**](https://play.google.com/store/apps/details?id=eu.mobeepass.walletapplication).
 
 - [**Back to PTDex**](#randys-public-transport-index-ptdex)
 
