@@ -34,7 +34,7 @@ A public GitHub repository containing information about public transport cards.
 | IATA<br>ISO 3166-2<br>City | Name<br>Variant |
 | --- | --- |
 | **NCE**<br>FR-06<br>Nice | **The Card**<br>*Solo Rescue* |
-| **YUL**<br>CA-QC<br>Montreal | **OPUS** |
+| **YUL**<br>CA-QC<br>Montréal | **OPUS** |
 
 > [!NOTE]
 > 1. **NCE The Card** *Solo Rescue* in French is `La Carte - Solo Secours`.
@@ -47,6 +47,7 @@ A public GitHub repository containing information about public transport cards.
 | IATA<br>ISO 3166-2<br>City | Name<br>Native Name<br>Variant | Prefix<br>Colour<br>Notches | Manufacturer<br>ROM<br>IC | System | Service |
 | --- | --- | --- | --- | --- | --- |
 | **FUK**<br>JP-40<br>Fukuoka | **Hayakaken**<br>はやかけん<br>- | FC<br>Silver<br>1 | 0101<br>05<br>31 | 0003<br><br><br><br><br><br>FE00<br><br><br><br>927A | 008B<br>090F<br>108F<br>10CB<br><br>394B<br>398B<br>39C9<br><br>028B<br>02CB |
+| **FUK**<br>JP-40<br>Fukuoka | **Hayakaken**<br>はやかけん「いちょう」<br>*Ginkgo* | FC<br>Silver<br>1 | 0101<br>05<br>31 | 0003<br><br><br><br><br><br>FE00<br><br><br><br>927A | 008B<br>090F<br>108F<br>10CB<br><br>394B<br>398B<br>39C9<br><br>028B<br>02CB |
 | **FUK**<br>JP-40<br>Fukuoka | **nimoca**<br>-<br>- | NR<br>Silver<br>1 | 0101<br>05<br>31 | 0003 | 008B<br>090F<br>108F<br>10CB | 
 | **FUK**<br>JP-40<br>Fukuoka | **SUGOCA**<br>-<br>- | JK<br>Silver<br>1 | 0101<br>05<br>31 | 0003 | 008B<br>090F<br>108F<br>10CB |
 | **FUK**<br>JP-40<br>Fukuoka | **SUGOCA**<br>-<br>*mono* | JK<br>Silver<br>1 | 0101<br>05<br>31 | 0003<br><br><br><br><br><br><br>FE00 | 008B<br>090F<br>108F<br>10CB<br><br>394B<br>398B<br>39C9 |
@@ -86,6 +87,7 @@ A public GitHub repository containing information about public transport cards.
 | **ABE**<br>US-PA<br>Allentown | **ValleyRide**<br>DESFire EV3 2k | 128 | -<br>- | -<br>-<br>- |
 | **ADL**<br>AU-SA<br>Adelaide | **metroCARD**<br>DESFire EV1 2k | QR | -<br>- | -<br>-<br>- | 
 | **AKL**<br>NZ-AUK<br>Auckland | **AT HOP**<br>DESFire EV1 4k | - | `###`<br>- | -<br>-<br>- |
+| **AMS**<br>NL-NH<br>Amsterdam | **OV-chipkaart**<br>*Anonymous*<br>Classic 4k | - | -<br>- | `DD-MM-YYYY`<br>-<br>- |
 | **ATH**<br>GR-I<br>Athens | **ATH.ENA**<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **BDL**<br>US-CT<br> Hartford | **Go CT**<br>DESFire EV1 4k | UPC A<br>128 | -<br>- | -<br>-<br>- |
 | **BFS**<br>GB-NIR<br>Belfast | **Visitor Pass**<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
@@ -137,22 +139,29 @@ A public GitHub repository containing information about public transport cards.
 | **SYD**<br>AU-NSW<br>Sydney | **Opal**<br>DESFire EV1 4k | - | `####`<br>- | -<br>-<br>- |
 | **TPE**<br>TW-TPE<br>Taipei | **iPASS**<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
 | **YVR**<br>CA-BC<br>Vancouver | **Compass**<br>DESFire EV1 4k | UPC A | `###`<br>- | -<br>-<br>- | 
+| **YVR**<br>CA-BC<br>Vancouver | **Compass**<br>*Mini*<br>DESFire EV1 4k | - | `###`<br>- | -<br>-<br>- |
+| **YVR**<br>CA-BC<br>Vancouver | **Compass**<br>*Wristband*<br>DESFire EV1 8k | - | -<br>- | -<br>-<br>- |
 | **YYZ**<br>CA-ON<br>Toronto | **Presto**<br>DESFire EV1 4k | - | `###`<br>`P` | `DD/MM/YYYY`<br>-<br>- |
 | **ZAG**<br>HR-21<br>Zagreb | **Value Card**<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
 
 > [!NOTE]
 >
 > 1. **ADL metroCARD**'s QR Code directs commuters to [**register**](https://dit.sa.gov.au/metrocard-register) their metroCARD.
-> 2. **BGO Skyss Card** in Norsk is `Skyss Kort`.
-> 3. **CBR MyWay+**'s emboss is dots in the shape of `T`.
-> 4. **CBR MyWay+**'s QR Code is text that shows a card prefix (`00001`), card number, and CCV.
-> 5. **CHC Metrocard**'s emboss is dots in the shape of `>`.
-> 6. **KUL Touch n' Go Enhanced**'s QR Code directs commuters to download their [**eWallet App**](https://cdn.tngdigital.com.my/s/landing/index.html).
-> 7. **MEL myki** prints the commuter's name if it's registered and requested at the time of online purchase/replacement.
-> 8. **MNL TRIPKO** in English is `MYTRIP`.
-> 9. **TPE iPASS** in Chinese (Simplified) is `一卡通`.
-> 10. **YYZ Presto**'s emboss is `P` in Braille.
-> 11. **ZAG Value Card** in Hrvatski is `Vrijednosna Karta`.
+> 2. **AMS OV-chipkaart** in English is `Public Transport Chip Card`.
+> 3. **AMS OV-chipkaart** is currently used across The Netherlands is listed under its Capital City for `PTDex` purposes.
+> 4. **AMS OV-chipkaart** also has a hologram, though this is the only known example within the PTDex collection.
+> 5. **BGO Skyss Card** in Norsk is `Skyss Kort`.
+> 6. **CBR MyWay+**'s emboss is dots in the shape of `T`.
+> 7. **CBR MyWay+**'s QR Code is text that shows a card prefix (`00001`), card number, and CCV.
+> 8. **CHC Metrocard**'s emboss is dots in the shape of `>`.
+> 9. **KUL Touch n' Go Enhanced**'s QR Code directs commuters to download their [**eWallet App**](https://cdn.tngdigital.com.my/s/landing/index.html).
+> 10. **MEL myki** prints the commuter's name if it's registered and requested at the time of online purchase/replacement.
+> 11. **MNL TRIPKO** in English is `MYTRIP`.
+> 12. **TPE iPASS** in Chinese (Simplified) is `一卡通`.
+> 13. **YVR Compass Mini** and **YVR Compass Wearable** are only sold at Waterfront Station's TransLink Customer Service Centre.
+> 14. **YVR Compass Wearable**'s CVN is written on the issued receipt.
+> 15. **YYZ Presto**'s emboss is `P` in Braille.
+> 16. **ZAG Value Card** in Hrvatski is `Vrijednosna Karta`.
 
 - [**Back to PTDex**](#randys-public-transport-index-ptdex)
 
@@ -169,6 +178,7 @@ A public GitHub repository containing information about public transport cards.
 | **MNL**<br>PH-00<br>Manila | **MRT Ticket**<br>Ultralight C | - | -<br>- | -<br>- | -<br>- |
 | **ORD**<br>US-IL<br>Chicago | **Ticket**<br>Ultralight EV1 | - | -<br>- | -<br>- | -<br>- |
 | **SYD**<br>AU-NSW<br>Sydney | **Ticket**<br>Ultralight C | - | -<br>- | `4am`<br>`DD.MM.YYYY` | -<br>- |
+| **YUL**<br>CA-QC<br>Montréal | **The Occasional**<br>Ultralight EV1 | - | -<br>- | -<br>- | -<br>- |
 | **YVR**<br>CA-BC<br>Vancouver | **Ticket**<br>Ultralight EV1 | - | -<br>- | -<br>- | -<br>- |
 
 
@@ -179,5 +189,6 @@ A public GitHub repository containing information about public transport cards.
 > 3. **GLG SPT TIcket** is using an Infineon Technologies my-d move lean chip, which is equivalent to MIFARE Ultralight.
 > 4. **LHR oyster** is a green [**One Day Bus and Tram Pass**](https://tfl.gov.uk/fares/ways-to-pay/bus-and-tram-pass).
 > 5. **SYD Ticket** expires at 4am the day after the purchase date.
+> 6. **YUL The Occasional** in French (Canada) is `L'occasionnelle`.
 
 - [**Back to PTDex**](#randys-public-transport-index-ptdex)
