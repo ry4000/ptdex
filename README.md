@@ -169,6 +169,8 @@ A public GitHub repository containing information about public transport cards.
 ## MIFARE-Based Tickets
 | IATA<br>ISO 3166-2<br>City | Name<br>Technology | Code | CCV/CVN<br>Emboss | Expiry Time<br>Expiry Date | Magnetic Stripe<br>Printed Name |
 | --- | --- | --- | --- | --- | --- |
+| **AMS**<br>NL-NH<br>Amsterdam | **GVB 24 Hours Ticket**<br>Ultralight EV1 | UPC A | -<br>- | -<br>`31/12/YYYY` | -<br>- |
+| **AMS**<br>NL-NH<br>Amsterdam | **NS 1 Day Ticket**<br>Ultralight EV1 | - | -<br>- | -<br>`31/12/YYYY` | -<br>- |
 | **BKK**<br>TH-10<br>Bangkok | **BTS Ticket**<br> Ultralight C | QR | -<br>- | -<br>- | -<br>- |
 | **BKK**<br>TH-10<br>Bangkok | **EBM Ticket**<br> Ultralight C | QR | -<br>- | -<br>- | -<br>- |
 | **DOH**<br>QA-DA<br>Doha | **Day Pass**<br>Ultralight EV1 | - | -<br>- | `02:58`<br>`DD MMM YYYY` | -<br>- |
