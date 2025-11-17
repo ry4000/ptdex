@@ -138,6 +138,7 @@ A public GitHub repository containing information about public transport cards.
 | **SOU**<br>GB-STH<br>Southampton | **ITSO**<br>*touch*<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>Yes |
 | **SYD**<br>AU-NSW<br>Sydney | **Opal**<br>DESFire EV1 4k | - | `####`<br>- | -<br>-<br>- |
 | **TPE**<br>TW-TPE<br>Taipei | **iPASS**<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
+| **TPE**<br>TW-TPE<br>Taipei | **iPASS PLUS**<br>Plus EV2 2k | - | -<br>- | -<br>-<br>- |
 | **YVR**<br>CA-BC<br>Vancouver | **Compass**<br>DESFire EV1 4k | UPC A | `###`<br>- | -<br>-<br>- | 
 | **YVR**<br>CA-BC<br>Vancouver | **Compass**<br>*Mini*<br>DESFire EV1 4k | - | `###`<br>- | -<br>-<br>- |
 | **YVR**<br>CA-BC<br>Vancouver | **Compass**<br>*Wristband*<br>DESFire EV1 8k | - | -<br>- | -<br>-<br>- |
@@ -175,6 +176,7 @@ A public GitHub repository containing information about public transport cards.
 | **BKK**<br>TH-10<br>Bangkok | **EBM Ticket**<br> Ultralight C | QR | -<br>- | -<br>- | -<br>- |
 | **DOH**<br>QA-DA<br>Doha | **Day Pass**<br>Ultralight EV1 | - | -<br>- | `02:58`<br>`DD MMM YYYY` | -<br>- |
 | **GLA**<br>GB-GLG<br>Glasgow | **SPT Ticket**<br>Ultralight | - | -<br>- | -<br>- | -<br>- |
+| **HKG**<br>CN-HK<br>Hong Kong | **MTR Ticket**<br>Ultralight C | 128 | -<br>- | -<br>- | -<br>- |
 | **LHR**<br>GB-LND<br>London | **oyster**<br>Classic EV1 | - | -<br>- | -<br>- | -<br>- |
 | **MNL**<br>PH-00<br>Manila | **LRT Ticket**<br>Ultralight C | - | -<br>- | -<br>- | -<br>- |
 | **MNL**<br>PH-00<br>Manila | **MRT Ticket**<br>Ultralight C | - | -<br>- | -<br>- | -<br>- |
@@ -189,8 +191,10 @@ A public GitHub repository containing information about public transport cards.
 > 1. **BKK BTS Ticket**'s QR Code directs commuters to the [**BTS SkyTrain Route Map (PDF)**](http://www.bts.co.th/btsroutes).
 > 2. **BKK EBM Ticket**'s QR Code directs commuters to the [**EBM System Map (PDF)**](https://www.ebm.co.th/qr/routes).
 > 3. **GLG SPT TIcket** is using an Infineon Technologies my-d move lean chip, which is equivalent to MIFARE Ultralight.
-> 4. **LHR oyster** is a green [**One Day Bus and Tram Pass**](https://tfl.gov.uk/fares/ways-to-pay/bus-and-tram-pass).
-> 5. **SYD Ticket** expires at 4am the day after the purchase date.
-> 6. **YUL The Occasional** in French (Canada) is `L'occasionnelle`.
+> 4. **HKG MTR Ticket** is a [**Group of 2 - Single Journey Ticket Set**](https://www.mtr.com.hk/en/customer/tickets/promotions_4persons.html).
+> 5. **HKG MTR Ticket** in Chinese (Traditional) is `2人行-單程票`.
+> 6. **LHR oyster** is a green [**One Day Bus and Tram Pass**](https://tfl.gov.uk/fares/ways-to-pay/bus-and-tram-pass).
+> 7. **SYD Ticket** expires at 4am the day after the purchase date.
+> 8. **YUL The Occasional** in French (Canada) is `L'occasionnelle`.
 
 - [**Back to PTDex**](#randys-public-transport-index-ptdex)
