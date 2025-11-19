@@ -142,7 +142,7 @@ A public GitHub repository containing information about public transport cards.
 | **YVR**<br>CA-BC<br>Vancouver | **Compass**<br>DESFire EV1 4k | UPC A | `###`<br>- | -<br>-<br>- | 
 | **YVR**<br>CA-BC<br>Vancouver | **Compass**<br>*Mini*<br>DESFire EV1 4k | - | `###`<br>- | -<br>-<br>- |
 | **YVR**<br>CA-BC<br>Vancouver | **Compass**<br>*Wristband*<br>DESFire EV1 8k | - | -<br>- | -<br>-<br>- |
-| **YYZ**<br>CA-ON<br>Toronto | **Presto**<br>DESFire EV1 4k | - | `###`<br>`P` | `DD/MM/YYYY`<br>-<br>- |
+| **YYZ**<br>CA-ON<br>Toronto | **PRESTO**<br>DESFire EV1 4k | - | `###`<br>`P` | `DD/MM/YYYY`<br>-<br>- |
 | **ZAG**<br>HR-21<br>Zagreb | **Value Card**<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
 
 > [!NOTE]
@@ -161,7 +161,7 @@ A public GitHub repository containing information about public transport cards.
 > 12. **TPE iPASS** in Chinese (Simplified) is `一卡通`.
 > 13. **YVR Compass Mini** and **YVR Compass Wearable** are only sold at Waterfront Station's TransLink Customer Service Centre.
 > 14. **YVR Compass Wearable**'s CVN is written on the issued receipt.
-> 15. **YYZ Presto**'s emboss is `P` in Braille.
+> 15. **YYZ PRESTO**'s emboss is `P` in Braille.
 > 16. **ZAG Value Card** in Hrvatski is `Vrijednosna Karta`.
 
 - [**Back to PTDex**](#randys-public-transport-index-ptdex)
@@ -184,17 +184,18 @@ A public GitHub repository containing information about public transport cards.
 | **SYD**<br>AU-NSW<br>Sydney | **Ticket**<br>Ultralight C | - | -<br>- | `4am`<br>`DD.MM.YYYY` | -<br>- |
 | **YUL**<br>CA-QC<br>Montréal | **The Occasional**<br>Ultralight EV1 | - | -<br>- | -<br>- | -<br>- |
 | **YVR**<br>CA-BC<br>Vancouver | **Ticket**<br>Ultralight EV1 | - | -<br>- | -<br>- | -<br>- |
-
+| **YYZ**<br>CA-ON<br>Toronto | **PRESTO Ticket**<br>Ultralight C | - | -<br>- | -<br>- | -<br>- |
 
 > [!NOTE]
 >
 > 1. **BKK BTS Ticket**'s QR Code directs commuters to the [**BTS SkyTrain Route Map (PDF)**](http://www.bts.co.th/btsroutes).
 > 2. **BKK EBM Ticket**'s QR Code directs commuters to the [**EBM System Map (PDF)**](https://www.ebm.co.th/qr/routes).
-> 3. **GLG SPT TIcket** is using an Infineon Technologies my-d move lean chip, which is equivalent to MIFARE Ultralight.
-> 4. **HKG MTR Ticket** is a [**Group of 2 - Single Journey Ticket Set**](https://www.mtr.com.hk/en/customer/tickets/promotions_4persons.html).
-> 5. **HKG MTR Ticket** in Chinese (Traditional) is `2人行-單程票`.
-> 6. **LHR oyster** is a green [**One Day Bus and Tram Pass**](https://tfl.gov.uk/fares/ways-to-pay/bus-and-tram-pass).
+> 3. **GLA SPT Ticket**'s chip is a [**my-d move lean**](https://www.infineon.com/products/security-smart-card-solutions/contactless-memories/my-d-move-lean) *which is equivalent to MIFARE Ultralight*.
+> 4. **HKG MTR Ticket** is an [**Airport Express Group of 2/3/4 Single Journey Ticket Set**](https://www.mtr.com.hk/en/customer/tickets/promotions_4persons.html).
+> 5. **HKG MTR Ticket** in Chinese (Traditional) is `2/3/4人行-單程票`.
+> 6. **LHR oyster** is a [**One Day Bus and Tram Pass**](https://tfl.gov.uk/fares/ways-to-pay/bus-and-tram-pass).
 > 7. **SYD Ticket** expires at 4am the day after the purchase date.
 > 8. **YUL The Occasional** in French (Canada) is `L'occasionnelle`.
+> 9. **YYZ PRESTO Ticket** in French (Canada) is `PRESTO Billet`.
 
 - [**Back to PTDex**](#randys-public-transport-index-ptdex)
