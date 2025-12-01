@@ -46,6 +46,7 @@ A public GitHub repository containing information about public transport cards.
 ## Felicity Cards (*FeliCa*)
 | IATA<br>ISO 3166-2<br>City | Name<br>Native Name<br>Variant | Prefix<br>Colour<br>Notches | Manufacturer<br>ROM<br>IC | System | Service |
 | --- | --- | --- | --- | --- | --- |
+| **CTS**<br>JP-01<br>Hokkaido | **Kitaca**<br>-<br>- | JH<br>Silver<br>1 | 0101<br>05<br>31 | 0003 | 008B<br>090F<br>108F<br>10CB<br>184B<br>208B<br>20CB<br>210B<br>214B<br>218B |
 | **FUK**<br>JP-40<br>Fukuoka | **Hayakaken**<br>はやかけん<br>- | FC<br>Silver<br>1 | 0101<br>05<br>31 | 0003<br><br><br><br><br><br>FE00<br><br><br><br>927A | 008B<br>090F<br>108F<br>10CB<br><br>394B<br>398B<br>39C9<br><br>028B<br>02CB |
 | **FUK**<br>JP-40<br>Fukuoka | **Hayakaken**<br>はやかけん「いちょう」<br>*Ginkgo* | FC<br>Silver<br>1 | 0101<br>05<br>31 | 0003<br><br><br><br><br><br>FE00<br><br><br><br>927A | 008B<br>090F<br>108F<br>10CB<br><br>394B<br>398B<br>39C9<br><br>028B<br>02CB |
 | **FUK**<br>JP-40<br>Fukuoka | **nimoca**<br>-<br>- | NR<br>Silver<br>1 | 0101<br>05<br>31 | 0003 | 008B<br>090F<br>108F<br>10CB | 
@@ -84,66 +85,68 @@ A public GitHub repository containing information about public transport cards.
 ## MIFARE-Based Cards
 | IATA<br>ISO 3166-2<br>City | Name<br>Variant<br>Technology | Code | CCV/CVN<br>Emboss | Expiry Date<br>Magnetic Stripe<br>Printed Name |
 | --- | --- | --- | --- | --- |
-| **ABE**<br>US-PA<br>Allentown | **ValleyRide**<br>DESFire EV3 2k | 128 | -<br>- | -<br>-<br>- |
-| **ADL**<br>AU-SA<br>Adelaide | **metroCARD**<br>DESFire EV1 2k | QR | -<br>- | -<br>-<br>- | 
-| **AKL**<br>NZ-AUK<br>Auckland | **AT HOP**<br>DESFire EV1 4k | - | `###`<br>- | -<br>-<br>- |
+| **ABE**<br>US-PA<br>Allentown | **ValleyRide**<br>-<br>DESFire EV3 2k | 128 | -<br>- | -<br>-<br>- |
+| **ADL**<br>AU-SA<br>Adelaide | **metroCARD**<br>-<br>DESFire EV1 2k | QR | -<br>- | -<br>-<br>- | 
+| **AKL**<br>NZ-AUK<br>Auckland | **AT HOP**<br>-<br>DESFire EV1 4k | - | `###`<br>- | -<br>-<br>- |
 | **AMS**<br>NL-NH<br>Amsterdam | **OV-chipkaart**<br>*Anonymous*<br>Classic 4k | - | -<br>- | `DD-MM-YYYY`<br>-<br>- |
-| **ATH**<br>GR-I<br>Athens | **ATH.ENA**<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
-| **BDL**<br>US-CT<br> Hartford | **Go CT**<br>DESFire EV1 4k | UPC A<br>128 | -<br>- | -<br>-<br>- |
-| **BFS**<br>GB-NIR<br>Belfast | **Visitor Pass**<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
-| **BGO**<br>NO-46<br>Bergen | **Skyss Card**<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
-| **BKK**<br>TH-10<br>Bangkok | **BEM SVC**<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
-| **BKK**<br>TH-10<br>Bangkok | **Rabbit**<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
-| **BNE**<br>AU-QLD<br>Brisbane | **go**<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
-| **BOS**<br>US-MA<br>Boston | **CharlieCard**<br>Classic 1k | - | -<br>- | `MM/YY`<br>-<br>- |
+| **ATH**<br>GR-I<br>Athens | **ATH.ENA**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
+| **BDL**<br>US-CT<br> Hartford | **Go CT**<br>-<br>DESFire EV1 4k | UPC A<br>128 | -<br>- | -<br>-<br>- |
+| **BFS**<br>GB-NIR<br>Belfast | **Visitor Pass**<br>-<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
+| **BGO**<br>NO-46<br>Bergen | **Skyss Card**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
+| **BKK**<br>TH-10<br>Bangkok | **BEM SVC**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
+| **BKK**<br>TH-10<br>Bangkok | **Rabbit**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
+| **BNE**<br>AU-QLD<br>Brisbane | **go**<br>-<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
+| **BOS**<br>US-MA<br>Boston | **CharlieCard**<br>-<br>Classic 1k | - | -<br>- | `MM/YY`<br>-<br>- |
 | **BRS**<br>GB-BST<br>Bristol | **ITSO**<br>*touch*<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>Yes |
-| **CBR**<br>AU-ACT<br>Canberra | **MyWay+**<br>DESFire Light | QR | `###`<br>`T` | -<br>-<br>- |
-| **CHC**<br>NZ-CAN<br>Christchurch | **Metrocard**<br>DESFire EV1 4k | - | -<br>`>` | -<br>-<br>- |
+| **CBR**<br>AU-ACT<br>Canberra | **MyWay+**<br>-<br>DESFire Light | QR | `###`<br>`T` | -<br>-<br>- |
+| **CHC**<br>NZ-CAN<br>Christchurch | **Metrocard**<br>-<br>DESFire EV1 4k | - | -<br>`>` | -<br>-<br>- |
 | **CMA**<br>US-CA<br>Camarillo | **Umo**<br>*VCbuspass*<br>DESFire EV2 2k | UPC A<br>128 | -<br>- | -<br>Yes<br>- |
-| **CMH**<br>US-OH<br>Columbus | **Smartcard**<br>DESFire EV2 4k | 128 | -<br>- | -<br>-<br>- |
-| **DAY**<br>US-OH<br>Dayton | **Tapp Pay**<br>DESFire EV2 8k | 128 | `###`<br>- | -<br>-<br>- |
-| **DOH**<br>QA-DA<br>Doha | **Travel Pass**<br>DESFire EV3 4k | - | -<br>- | -<br>-<br>- |
-| **DUB**<br>IE-D<br>Dublin | **Leap**<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
-| **DUD**<br>NZ-OTA<br>Otago | **Bee**<br>DESFire EV1 4k | - | `###`<br>- | -<br>-<br>- |
-| **ECN**<br>CY-01<br>Nicosia | **motion**<br>DESFire EV2 4k | - | -<br>- | -<br>-<br>- |
+| **CMH**<br>US-OH<br>Columbus | **Smartcard**<br>-<br>DESFire EV2 4k | 128 | -<br>- | -<br>-<br>- |
+| **DAY**<br>US-OH<br>Dayton | **Tapp Pay**<br>-<br>DESFire EV2 8k | 128 | `###`<br>- | -<br>-<br>- |
+| **DOH**<br>QA-DA<br>Doha | **Travel Pass**<br>-<br>DESFire EV3 4k | - | -<br>- | -<br>-<br>- |
+| **DUB**<br>IE-D<br>Dublin | **Leap**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
+| **DUD**<br>NZ-OTA<br>Otago | **Bee**<br>-<br>DESFire EV1 4k | - | `###`<br>- | -<br>-<br>- |
+| **ECN**<br>CY-01<br>Nicosia | **motion**<br>-<br>DESFire EV2 4k | - | -<br>- | -<br>-<br>- |
 | **EMA**<br>GB-LCE<br>Leicester | **ITSO**<br>*Smartcard*<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>Yes |
-| **EWR**<br>US-NJ<br>Jersey City | **SmartLink**<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
-| **EWR**<br>US-NJ<br>Newark | **FARE-PAY**<br>DESFire EV3 4k | UPC A<br>128 | `###`<br>- | -<br>Yes<br>- |
-| **GEG**<br>US-WA<br>Spokane | **Connect**<br>DESFire EV3 2k | UPC A<br>128 | `###`<br>- | -<br>Yes<br>- |  
-| **HBA**<br>AU-TAS<br>Hobart | **GreenCard**<br>Classic 4k | - | -<br>- | -<br>-<br>- |
-| **HBA**<br>AU-TAS<br>Hobart | **Smartcard**<br>Classic 1k | - | -<br>- | -<br>-<br>- |
-| **IAD**<br>US-DC<br>Washington, D.C. | **SmarTrip**<br>Plus X 2k | - | -<br>- | -<br>-<br>- |
-| **JFK**<br>US-NY<br>New York City | **OMNY**<br>DESFire EV2 16k<br>*White Label EMV* | 128 | `###`<br>- | `MM/YY`<br>-<br>- |
-| **KUL**<br>MY-14<br>Kuala Lumpur | **Touch 'n Go**<br>Plus 4k | - | -<br>- | `MM/YY`<br>-<br>- |
+| **EWR**<br>US-NJ<br>Jersey City | **SmartLink**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
+| **EWR**<br>US-NJ<br>Newark | **FARE-PAY**<br>-<br>DESFire EV3 4k | UPC A<br>128 | `###`<br>- | -<br>Yes<br>- |
+| **GEG**<br>US-WA<br>Spokane | **Connect**<br>-<br>DESFire EV3 2k | UPC A<br>128 | `###`<br>- | -<br>Yes<br>- |  
+| **HBA**<br>AU-TAS<br>Hobart | **GreenCard**<br>-<br>Classic 4k | - | -<br>- | -<br>-<br>- |
+| **HBA**<br>AU-TAS<br>Hobart | **Smartcard**<br>-<br>Classic 1k | - | -<br>- | -<br>-<br>- |
+| **IAD**<br>US-DC<br>Washington, D.C. | **SmarTrip**<br>-<br>Plus X 2k | - | -<br>- | -<br>-<br>- |
+| **IST**<br>TR-34<br>İstanbul | **İstanbulkart**<br>-<br>DESFire EV3 2k | QR | -<br>- | -<br>-<br>- |
+| **JFK**<br>US-NY<br>New York City | **OMNY**<br>-<br>DESFire EV2 16k | 128 | `###`<br>- | `MM/YY`<br>-<br>- |
+| **KUL**<br>MY-14<br>Kuala Lumpur | **Touch 'n Go**<br>-<br>Plus 4k | - | -<br>- | `MM/YY`<br>-<br>- |
 | **KUL**<br>MY-14<br>Kuala Lumpur | **Touch 'n Go**<br>*Enhanced*<br>Plus EV2 4k | QR | -<br>- | `MM/YY`<br>-<br>- | 
-| **LAX**<br>US-CA<br>Los Angeles | **TAP**<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
+| **LAX**<br>US-CA<br>Los Angeles | **TAP**<br>-<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
 | **LBA**<br>GB-LDS<br>West Yorkshire | **ITSO**<br>*MCard*<br>DESFire EV1 4k | EAN 13 | -<br>- | -<br>-<br>- |
 | **LCY**<br>GB-LND<br>London | **ITSO**<br>*The Key*<br>DESFire EV1 4k | - | -<br>- | `DD/MM/YYYY`<br>-<br>Yes |
-| **LHR**<br>GB-LND<br>London | **oyster**<br>DESFire EV1 2k | - | -<br>- | -<br>-<br>- |
-| **LJU**<br>SI-061<br>Ljubljana | **Urbana**<br>DESFire EV2 8k | 128 | -<br>- | -<br>-<br>- |
+| **LHR**<br>GB-LND<br>London | **oyster**<br>-<br>DESFire EV1 2k | - | -<br>- | -<br>-<br>- |
+| **LJU**<br>SI-061<br>Ljubljana | **Urbana**<br>-<br>DESFire EV2 8k | 128 | -<br>- | -<br>-<br>- |
 | **LPL**<br>GB-LIV<br>Liverpool | **ITSO**<br>*MetroCard*<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **MAN**<br>GB-MAN<br>Stockport | **ITSO**<br>*Stagecoach*<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
-| **MEL**<br>AU-VIC<br>Melbourne | **myki**<br>DESFire EV3 4k | - | -<br>- | -<br>-<br>Optional |
-| **MNL**<br>PH-00<br>Manila | **beep**<br>DESFire EV1 8k | - | -<br>- | `MMM/YYYY`<br>-<br>- |
-| **MNL**<br>PH-00<br>Manila | **TRIPKO**<br>DESFire EV3 2k | - | -<br>- | -<br>-<br>- |
-| **ORD**<br>US-IL<br>Chicago | **Ventra**<br>DESFire EV1 256b | - | `###`<br>- | `MM/YY`<br>-<br>- |
-| **PDX**<br>US-OR<br>Portland | **hop fastpass**<br>DESFire EV1 256b | 128 | `###`<br>- | -<br>Yes<br>- |
-| **PER**<br>AU-WA<br>Perth | **SmartRider**<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
-| **PHL**<br>US-PA<br>Philadelphia | **FREEDOM**<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
+| **MAD**<br>ES-MD<br>Madrid | **Tarjeta Transporte Público**<br>-<br>DESFire EV3 4k | - | -<br>- | -<br>-<br>- |
+| **MEL**<br>AU-VIC<br>Melbourne | **myki**<br>-<br>DESFire EV3 4k | - | -<br>- | -<br>-<br>Optional |
+| **MNL**<br>PH-00<br>Manila | **beep**<br>-<br>DESFire EV1 8k | - | -<br>- | `MMM/YYYY`<br>-<br>- |
+| **MNL**<br>PH-00<br>Manila | **TRIPKO**<br>-<br>DESFire EV3 2k | - | -<br>- | -<br>-<br>- |
+| **ORD**<br>US-IL<br>Chicago | **Ventra**<br>-<br>DESFire EV1 256b | - | `###`<br>- | `MM/YY`<br>-<br>- |
+| **PDX**<br>US-OR<br>Portland | **hop fastpass**<br>-<br>DESFire EV1 256b | 128 | `###`<br>- | -<br>Yes<br>- |
+| **PER**<br>AU-WA<br>Perth | **SmartRider**<br>-<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
+| **PHL**<br>US-PA<br>Philadelphia | **FREEDOM**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **PWM**<br>US-ME<br>Portland | **Umo**<br>*DiriGo*<br>DESFire EV2 2k | UPC A<br>128 | -<br>- | -<br>Yes<br>- |
-| **SCL**<br>CL-RM<br>Santiago | **bip**!<br>Classic EV1 1k | 128 | -<br>- | -<br>-<br>- |
-| **SEA**<br>US-WA<br>Seattle | **ORCA**<br>DESFire EV3 2k | 128 | `###`<br>- | -<br>-<br>- |
-| **SFO**<br>US-CA<br>San Francisco | **Clipper**<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
-| **SMF**<br>US-CA<br>Sacramento | **Connect**<br>DESFire EV1 4k | - | `###`<br>- | -<br>-<br>- |
+| **SCL**<br>CL-RM<br>Santiago | **bip**!<br>-<br>Classic EV1 1k | 128 | -<br>- | -<br>-<br>- |
+| **SEA**<br>US-WA<br>Seattle | **ORCA**<br>-<br>DESFire EV3 2k | 128 | `###`<br>- | -<br>-<br>- |
+| **SFO**<br>US-CA<br>San Francisco | **Clipper**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
+| **SMF**<br>US-CA<br>Sacramento | **Connect**<br>-<br>DESFire EV1 4k | - | `###`<br>- | -<br>-<br>- |
 | **SOU**<br>GB-STH<br>Southampton | **ITSO**<br>*touch*<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>Yes |
-| **SYD**<br>AU-NSW<br>Sydney | **Opal**<br>DESFire EV1 4k | - | `####`<br>- | -<br>-<br>- |
-| **TPE**<br>TW-TPE<br>Taipei | **iPASS**<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
-| **TPE**<br>TW-TPE<br>Taipei | **iPASS PLUS**<br>Plus EV2 2k | - | -<br>- | -<br>-<br>- |
-| **YVR**<br>CA-BC<br>Vancouver | **Compass**<br>DESFire EV1 4k | UPC A | `###`<br>- | -<br>-<br>- | 
+| **SYD**<br>AU-NSW<br>Sydney | **Opal**<br>-<br>DESFire EV1 4k | - | `####`<br>- | -<br>-<br>- |
+| **TPE**<br>TW-TPE<br>Taipei | **iPASS**<br>-<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
+| **TPE**<br>TW-TPE<br>Taipei | **iPASS PLUS**<br>-<br>Plus EV2 2k | - | -<br>- | -<br>-<br>- |
+| **YVR**<br>CA-BC<br>Vancouver | **Compass**<br>-<br>DESFire EV1 4k | UPC A | `###`<br>- | -<br>-<br>- | 
 | **YVR**<br>CA-BC<br>Vancouver | **Compass**<br>*Mini*<br>DESFire EV1 4k | - | `###`<br>- | -<br>-<br>- |
 | **YVR**<br>CA-BC<br>Vancouver | **Compass**<br>*Wristband*<br>DESFire EV1 8k | - | -<br>- | -<br>-<br>- |
-| **YYZ**<br>CA-ON<br>Toronto | **PRESTO**<br>DESFire EV1 4k | - | `###`<br>`P` | `DD/MM/YYYY`<br>-<br>- |
-| **ZAG**<br>HR-21<br>Zagreb | **Value Card**<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
+| **YYZ**<br>CA-ON<br>Toronto | **PRESTO**<br>-<br>DESFire EV1 4k | - | `###`<br>`P` | `DD/MM/YYYY`<br>-<br>- |
+| **ZAG**<br>HR-21<br>Zagreb | **Value Card**<br>-<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
 
 > [!NOTE]
 >
@@ -180,6 +183,7 @@ A public GitHub repository containing information about public transport cards.
 | **LHR**<br>GB-LND<br>London | **oyster**<br>Classic EV1 | - | -<br>- | -<br>- | -<br>- |
 | **MNL**<br>PH-00<br>Manila | **LRT Ticket**<br>Ultralight C | - | -<br>- | -<br>- | -<br>- |
 | **MNL**<br>PH-00<br>Manila | **MRT Ticket**<br>Ultralight C | - | -<br>- | -<br>- | -<br>- |
+| **OPO**<br>PT-13<br>Porto | **Adante Tour 1**<br>Ultralight EV1 | - | -<br>- | -<br>- | -<br>- |
 | **ORD**<br>US-IL<br>Chicago | **Ticket**<br>Ultralight EV1 | - | -<br>- | -<br>- | -<br>- |
 | **SYD**<br>AU-NSW<br>Sydney | **Ticket**<br>Ultralight C | - | -<br>- | `4am`<br>`DD.MM.YYYY` | -<br>- |
 | **YUL**<br>CA-QC<br>Montréal | **The Occasional**<br>Ultralight EV1 | - | -<br>- | -<br>- | -<br>- |
