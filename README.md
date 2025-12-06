@@ -48,13 +48,13 @@ A public GitHub repository containing information about public transport cards.
 | --- | --- | --- | --- | --- | --- |
 | **CTS**<br>JP-01<br>Hokkaido | **Kitaca**<br>-<br>- | JH<br>Silver<br>1 | 0101<br>05<br>31 | 0003 | 008B<br>090F<br>108F<br>10CB<br>184B<br>208B<br>20CB<br>210B<br>214B<br>218B |
 | **FUK**<br>JP-40<br>Fukuoka | **Hayakaken**<br>はやかけん<br>- | FC<br>Silver<br>1 | 0101<br>05<br>31 | 0003<br><br><br><br><br><br>FE00<br><br><br><br>927A | 008B<br>090F<br>108F<br>10CB<br><br>394B<br>398B<br>39C9<br><br>028B<br>02CB |
-| **FUK**<br>JP-40<br>Fukuoka | **Hayakaken**<br>はやかけん「いちょう」<br>*Ginkgo* | FC<br>Silver<br>1 | 0101<br>05<br>31 | 0003<br><br><br><br><br><br>FE00<br><br><br><br>927A | 008B<br>090F<br>108F<br>10CB<br><br>394B<br>398B<br>39C9<br><br>028B<br>02CB |
+| **FUK**<br>JP-40<br>Fukuoka | **Hayakaken**<br>はやかけん (いちょう)<br>*Ginkgo* | FC<br>Silver<br>1 | 0101<br>05<br>31 | 0003<br><br><br><br><br><br>FE00<br><br><br><br>927A | 008B<br>090F<br>108F<br>10CB<br><br>394B<br>398B<br>39C9<br><br>028B<br>02CB |
 | **FUK**<br>JP-40<br>Fukuoka | **nimoca**<br>-<br>- | NR<br>Silver<br>1 | 0101<br>05<br>31 | 0003 | 008B<br>090F<br>108F<br>10CB | 
 | **FUK**<br>JP-40<br>Fukuoka | **SUGOCA**<br>-<br>- | JK<br>Silver<br>1 | 0101<br>05<br>31 | 0003 | 008B<br>090F<br>108F<br>10CB |
 | **FUK**<br>JP-40<br>Fukuoka | **SUGOCA**<br>-<br>*mono* | JK<br>Silver<br>1 | 0101<br>05<br>31 | 0003<br><br><br><br><br><br><br>FE00 | 008B<br>090F<br>108F<br>10CB<br><br>394B<br>398B<br>39C9 |
 | **HKG**<br>CN-HK<br>Hong Kong | **Octopus**<br>迷你八達通<br>*Mini* | -<br>Black<br>0 | 0101<br>01<br>44 | 8008 | 0117<br>100B |
 | **HKG**<br>CN-HK<br>Hong Kong | **Octopus**<br>普通版八達通<br>*On-Loan* | -<br>Black<br>0 | 0101<br>03<br>32 | 8008 | 0117<br>100B |
-| **HKG**<br>CN-HK<br>Hong Kong | **Octopus**<br>八達通–全國通<br>*Tourist T-Union* | -<br>White<br>0 | 0101<br>04<br>3B | 8008 | 0117<br>100B |
+| **HKG**<br>CN-HK<br>Hong Kong | **Octopus**<br>八達通 – 全國通 (銷售版)<br>*Tourist T-Union* | -<br>White<br>0 | 0101<br>04<br>3B | 8008 | 0117<br>100B |
 | **HND**<br>JP-13<br>Tokyo | **PASMO**<br>-<br>- | PB<br>Silver<br>1 | 1201<br>05<br>31 | 0003<br><br><br><br><br><br><br>FE00 | 008B<br>090F<br>108F<br>10CB<br><br>394B<br>398B<br>39C9 |
 | **HND**<br>JP-13<br>Tokyo | **Suica**<br>-<br>- | JE<br>Silver<br>1 | 1201/1401<br>05<br>31 | 0003<br><br><br><br><br><br><br><br><br><br><br><br>FE00<br><br><br><br>86A7 | 008B<br>090F<br>108F<br>10CB<br>184B<br>194B<br>198B<br>234B<br>238B<br>23CB<br><br>394B<br>398B<br>39C9<br><br>004B<br>028B |
 | **HND**<br>JP-13<br>Tokyo | **Suica**<br>-<br>*Welcome* | JE<br>White<br>0 | 1001<br>05<br>31 | 0003<br><br><br><br><br><br><br><br><br>FE00<br><br><br><br>86A7 | 008B<br>090F<br>108F<br>10CB<br>184B<br>194B<br>198B<br><br>394B<br>398B<br>39C9<br><br>004B<br>028B |
@@ -73,11 +73,10 @@ A public GitHub repository containing information about public transport cards.
 > [!NOTE]
 > 1. **HKG Octopus Tourist T-Union** is a dual-tech card.
 > 2. **HKG Octopus Tourist T-Union**'s QR Code is a [**shortened URL**](https://www.octopus.com.hk/mot).
-> 3. **HKG Octopus Tourist T-Union** in Chinese (Traditional) is `八達通 – 全國通 (銷售版)`.
-> 4. **HND Welcome Suica** has an Expiry Date in `MM/YY` and an Open Service Code of `### ### ABC DEF`.
-> 5. **KIX PiTaPa** is a post-pay service within the [**PiTaPa**](https://www.pitapa.com) network.
-> 6. **KIX PiTaPa** is a pre-pay service within the rest of the [**NMUS**](https://en.wikipedia.org/wiki/Nationwide_Mutual_Usage_Service) network.
-> 7. **SIN EZ-Link** now uses the `Specification for Contactless e-Purse Application (CEPAS)` chip technology.
+> 3. **HND Welcome Suica** has an Expiry Date in `MM/YY` and an Open Service Code of `### ### ABC DEF`.
+> 4. **KIX PiTaPa** is a post-pay service within the [**PiTaPa**](https://www.pitapa.com) network.
+> 5. **KIX PiTaPa** is a pre-pay service within the rest of the [**NMUS**](https://en.wikipedia.org/wiki/Nationwide_Mutual_Usage_Service) network.
+> 6. **SIN EZ-Link** now uses the `Specification for Contactless e-Purse Application (CEPAS)` chip technology.
 
 - [**Back to PTDex**](#randys-public-transport-index-ptdex)
 
@@ -159,13 +158,15 @@ A public GitHub repository containing information about public transport cards.
 > 7. **CBR MyWay+**'s QR Code is text that shows a card prefix (`00001`), card number, and CCV.
 > 8. **CHC Metrocard**'s emboss is dots in the shape of `>`.
 > 9. **KUL Touch n' Go Enhanced**'s QR Code directs commuters to download their [**eWallet App**](https://cdn.tngdigital.com.my/s/landing/index.html).
-> 10. **MEL myki** prints the commuter's name if it's registered and requested at the time of online purchase/replacement.
-> 11. **MNL TRIPKO** in English is `MYTRIP`.
-> 12. **TPE iPASS** in Chinese (Simplified) is `一卡通`.
-> 13. **YVR Compass Mini** and **YVR Compass Wearable** are only sold at Waterfront Station's TransLink Customer Service Centre.
-> 14. **YVR Compass Wearable**'s CVN is written on the issued receipt.
-> 15. **YYZ PRESTO**'s emboss is `P` in Braille.
-> 16. **ZAG Value Card** in Hrvatski is `Vrijednosna Karta`.
+> 10. **IST İstanbulkart** in English is `Istanbul Card`.
+> 11. **MAD Tarjeta Transporte Público** in English is `Public Transport Card`.
+> 12. **MEL myki** prints the commuter's name if it's registered and requested at the time of online purchase/replacement.
+> 13. **MNL TRIPKO** in English is `MYTRIP`.
+> 14. **TPE iPASS** in Chinese (Simplified) is `一卡通`.
+> 15. **YVR Compass Mini** and **YVR Compass Wearable** are only sold at Waterfront Station's TransLink Customer Service Centre.
+> 16. **YVR Compass Wearable**'s CVN is written on the issued receipt.
+> 17. **YYZ PRESTO**'s emboss is `P` in Braille.
+> 18. **ZAG Value Card** in Hrvatski is `Vrijednosna Karta`.
 
 - [**Back to PTDex**](#randys-public-transport-index-ptdex)
 
