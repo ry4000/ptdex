@@ -67,7 +67,7 @@ A public GitHub repository containing information about public transport cards.
 | **NGO**<br>JP-23<br>Nagoya | **manaca**<br>マナカ<br>*μstar* | TP<br>Silver<br>1 | 0101<br>05<br>31 (RC-S114) | 0003<br><br><br><br><br><br><br><br><br><br>FE00 | 008B<br>090F<br>108F<br>10CB<br>988B<br>98CF<br>998B<br><br>394B<br>398B<br>39C9 |
 | **NGO**<br>JP-23<br>Nagoya | **TOICA**<br>-<br>- | JC<br>Silver<br>1 | 1201<br>01<br>36 (RC-SA04/1)| 0003 | 008B<br>090F<br>108F<br>10CB<br>184B<br>1E8B<br>1ECF |
 | **NGS**<br>JP-42<br>Nagasaki | **nimoca**<br>-<br>*nagasaki* | NR<br>Silver<br>1 | 1201<br>05<br>31 (RC-S114) | 0003 | 008B<br>090F<br>108F<br>10CB | 
-| **NGS**<br>JP-42<br>Nagasaki | **N+ T-Card**<br>エヌタスカード<br>- | KA<br>Silver<br>1 | 1001<br>01<br>36 (RC-SA04/1) | 93EC<br><br><br><br><br><br><br><br><br><br>FE00 | 204B<br>304B<br>408B<br>500B<br>700B<br>80CF<br>A8CF<br><br>394B<br>398B<br>39C9 |
+| **NGS**<br>JP-42<br>Nagasaki | **N+ Card**<br>エヌタスカード<br>- | KA<br>Silver<br>1 | 1001<br>01<br>36 (RC-SA04/1) | 93EC<br><br><br><br><br><br><br><br><br><br>FE00 | 204B<br>304B<br>408B<br>500B<br>700B<br>80CF<br>A8CF<br><br>394B<br>398B<br>39C9 |
 | **OKA**<br>JP-47<br>Okinawa | **OKICA**<br>-<br>- | OK<br>White<br>2 | 1601<br>01<br>20 (RC-S962) | 8FC1<br><br><br><br><br><br>FE00  | 028F<br>050F<br>060B<br><br>394B<br>398B<br>39C9 |
 | **QGU**<br>JP-21<br>Gifu | **ayuca**<br>アユカ<br>- | GB<br>White<br>0 | 1201<br>01<br>36 (RC-SA04/1) | 83EE | 804B<br>884B<br>898F<br>924B | 
 | **SIN**<br>SG-01<br>Singapore | **EZ-Link**<br>-<br>- | -<br>Blue<br>0 | 0101<br>03<br>00 (RC-S830) | 0102 | - |
