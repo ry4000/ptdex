@@ -91,6 +91,7 @@ A public GitHub repository containing information about public transport cards.
 | **AKL**<br>NZ-AUK<br>Auckland | **AT HOP**<br>-<br>DESFire EV1 4k | - | `###`<br>- | -<br>-<br>- |
 | **AMS**<br>NL-NH<br>Amsterdam | **OV-chipkaart**<br>*Anonymous*<br>Classic 4k | EAN 13 | -<br>- | `DD-MM-YYYY`<br>-<br>- |
 | **ATH**<br>GR-I<br>Athens | **ATH.ENA**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
+| **ATL**<br>US<br>Atlanta | **breeze Card**<br>*See note*<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **BDL**<br>US-CT<br> Hartford | **Go CT**<br>-<br>DESFire EV1 4k | UPC A<br>128 | -<br>- | -<br>-<br>- |
 | **BFS**<br>GB-NIR<br>Belfast | **Visitor Pass**<br>-<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
 | **BGO**<br>NO-46<br>Bergen | **Skyss Kort**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
@@ -159,23 +160,24 @@ A public GitHub repository containing information about public transport cards.
 > 3. **AMS OV-chipkaart** is currently used across The Netherlands and is listed under its Capital City for `PTDex` purposes.
 > 4. **AMS OV-chipkaart** also has a hologram, though this is the only known example within the PTDex collection.
 > 5. **AMS OV-chipkaart** *Anonymous* does not always have an EAN 13 barcode at the back.
-> 6. **BGO Skyss Kort** in English is `Skyss Card`.
-> 7. **CBR MyWay+**'s emboss is dots in the shape of `T`.
-> 8. **CBR MyWay+**'s QR Code is text that shows a card prefix (`00001`), card number, and CCV.
-> 9. **CHC Metrocard**'s emboss is dots in the shape of `>`.
-> 10. **EWR TAPP**'s `ISO-FID` is `3821`.
-> 11. **EWR TAPP**'s `ISO DF-Name` is `637001FF4F5454205631`.
-> 12. **KUL Touch n' Go Enhanced**'s QR Code directs commuters to download their [**eWallet App**](https://cdn.tngdigital.com.my/s/landing/index.html).
-> 13. **IST İstanbulkart** in English is `Istanbul Card`.
-> 14. **IST İstanbulkart**'s QR Code contains the card number, UID, and [**their website**](https://www.istanbulkart.istanbul).
-> 15. **MAD Tarjeta Transporte Público** in English is `Public Transport Card`.
-> 16. **MEL myki** prints the commuter's name if it's registered and requested at the time of online purchase/replacement.
-> 17. **MNL TRIPKO** in English is `MYTRIP`.
-> 18. **TPE 一卡通** in English is `iPASS`.
-> 19. **YVR Compass Mini** and **YVR Compass Wearable** are only sold at Waterfront Station's TransLink Customer Service Centre.
-> 20. **YVR Compass Wearable**'s CVN is written on the issued receipt.
-> 21. **YYZ PRESTO**'s emboss is `P` in Braille.
-> 22. **ZAG Value Card** in English is `Value Card`.
+> 6. **ATL breeze card** Silver Cards are deprecated in favor of Better Breeze
+> 7. **BGO Skyss Kort** in English is `Skyss Card`.
+> 8. **CBR MyWay+**'s emboss is dots in the shape of `T`.
+> 9. **CBR MyWay+**'s QR Code is text that shows a card prefix (`00001`), card number, and CCV.
+> 10. **CHC Metrocard**'s emboss is dots in the shape of `>`.
+> 11. **EWR TAPP**'s `ISO-FID` is `3821`.
+> 12. **EWR TAPP**'s `ISO DF-Name` is `637001FF4F5454205631`.
+> 13. **KUL Touch n' Go Enhanced**'s QR Code directs commuters to download their [**eWallet App**](https://cdn.tngdigital.com.my/s/landing/index.html).
+> 14. **IST İstanbulkart** in English is `Istanbul Card`.
+> 15. **IST İstanbulkart**'s QR Code contains the card number, UID, and [**their website**](https://www.istanbulkart.istanbul).
+> 16. **MAD Tarjeta Transporte Público** in English is `Public Transport Card`.
+> 17. **MEL myki** prints the commuter's name if it's registered and requested at the time of online purchase/replacement.
+> 18. **MNL TRIPKO** in English is `MYTRIP`.
+> 19. **TPE 一卡通** in English is `iPASS`.
+> 20. **YVR Compass Mini** and **YVR Compass Wearable** are only sold at Waterfront Station's TransLink Customer Service Centre.
+> 21. **YVR Compass Wearable**'s CVN is written on the issued receipt.
+> 22. **YYZ PRESTO**'s emboss is `P` in Braille.
+> 23. **ZAG Value Card** in English is `Value Card`.
 
 - [**Back to PTDex**](#randys-public-transport-index-ptdex)
 
@@ -185,6 +187,7 @@ A public GitHub repository containing information about public transport cards.
 | --- | --- | --- | --- | --- | --- |
 | **AMS**<br>NL-NH<br>Amsterdam | **GVB 24 Hours Ticket**<br>Ultralight EV1 | UPC A | -<br>- | -<br>`31/12/YYYY` | -<br>- |
 | **AMS**<br>NL-NH<br>Amsterdam | **NS 1 Day Ticket**<br>Ultralight EV1 | - | -<br>- | -<br>`31/12/YYYY` | -<br>- |
+| **ATL**<br>US-GA<br>Atlanta | **breeze Ticket**<br>Ultralight C | - | -<br>- | -<br> - | -<br>- |
 | **BKK**<br>TH-10<br>Bangkok | **BTS Ticket**<br> Ultralight C | QR | -<br>- | -<br>- | -<br>- |
 | **BKK**<br>TH-10<br>Bangkok | **EBM Ticket**<br> Ultralight C | QR | -<br>- | -<br>- | -<br>- |
 | **DOH**<br>QA-DA<br>Doha | **Day Pass**<br>Ultralight EV1 | - | -<br>- | `02:58`<br>`DD MMM YYYY` | -<br>- |
