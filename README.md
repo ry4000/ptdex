@@ -91,7 +91,7 @@ A public GitHub repository containing information about public transport cards.
 | **AKL**<br>NZ-AUK<br>Auckland | **AT HOP**<br>-<br>DESFire EV1 4k | - | `###`<br>- | -<br>-<br>- |
 | **AMS**<br>NL-NH<br>Amsterdam | **OV-chipkaart**<br>*Anonymous*<br>Classic 4k | EAN 13 | -<br>- | `DD-MM-YYYY`<br>-<br>- |
 | **ATH**<br>GR-I<br>Athens | **ATH.ENA**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
-| **ATL**<br>US<br>Atlanta | **breeze Card**<br>*See note*<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
+| **ATL**<br>US<br>Atlanta | **breeze**<br>*Gen 2 (Silver)*<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **BDL**<br>US-CT<br> Hartford | **Go CT**<br>-<br>DESFire EV1 4k | UPC A<br>128 | -<br>- | -<br>-<br>- |
 | **BFS**<br>GB-NIR<br>Belfast | **Visitor Pass**<br>-<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
 | **BGO**<br>NO-46<br>Bergen | **Skyss Kort**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
@@ -160,7 +160,7 @@ A public GitHub repository containing information about public transport cards.
 > 3. **AMS OV-chipkaart** is currently used across The Netherlands and is listed under its Capital City for `PTDex` purposes.
 > 4. **AMS OV-chipkaart** also has a hologram, though this is the only known example within the PTDex collection.
 > 5. **AMS OV-chipkaart** *Anonymous* does not always have an EAN 13 barcode at the back.
-> 6. **ATL breeze card** Silver Cards are deprecated in favor of Better Breeze
+> 6. **ATL breeze** *Gen 2 Silver* are decommissioned in favour of EMV `Better Breeze`.
 > 7. **BGO Skyss Kort** in English is `Skyss Card`.
 > 8. **CBR MyWay+**'s emboss is dots in the shape of `T`.
 > 9. **CBR MyWay+**'s QR Code is text that shows a card prefix (`00001`), card number, and CCV.
