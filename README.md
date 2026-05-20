@@ -89,16 +89,16 @@ A public GitHub repository containing information about public transport cards.
 | **ABE**<br>US-PA<br>Allentown | **ValleyRide**<br>-<br>DESFire EV3 2k | 128 | -<br>- | -<br>-<br>- |
 | **ADL**<br>AU-SA<br>Adelaide | **metroCARD**<br>-<br>DESFire EV1 2k | QR | -<br>- | -<br>-<br>- | 
 | **AKL**<br>NZ-AUK<br>Auckland | **AT HOP**<br>-<br>DESFire EV1 4k | - | `###`<br>- | -<br>-<br>- |
-| **ALB**<br>US-NY<br>Albany/Capital District | **Navigator**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
+| **ALB**<br>US-NY<br>Albany | **Navigator**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **AMS**<br>NL-NH<br>Amsterdam | **OV-chipkaart**<br>*Anonymous*<br>Classic 4k | EAN 13 | -<br>- | `DD-MM-YYYY`<br>-<br>- |
 | **ATH**<br>GR-I<br>Athens | **ATH.ENA**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **ATL**<br>US<br>Atlanta | **breeze**<br>*Gen 2 (Silver)*<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
-| **BDL**<br>US-CT<br> Hartford | **Go CT**<br>-<br>DESFire EV1 4k | UPC A<br>128 | -<br>- | -<br>-<br>- |
+| **BDL**<br>US-CT<br>Hartford | **Go CT**<br>-<br>DESFire EV1 4k | UPC A<br>128 | -<br>- | -<br>-<br>- |
 | **BFS**<br>GB-NIR<br>Belfast | **Visitor Pass**<br>-<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
 | **BGO**<br>NO-46<br>Bergen | **Skyss Kort**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **BKK**<br>TH-10<br>Bangkok | **BEM SVC**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **BKK**<br>TH-10<br>Bangkok | **Rabbit**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
-| **BLI**<br>US-WA<br>Bellingham | **Umo**<br>-<br>DESFire EV2 2k | - | -<br>- | -<br>Yes<br>- |
+| **BLI**<br>US-WA<br>Bellingham | **Umo**<br>-<br>DESFire EV2 2k | 128 | -<br>- | -<br>Yes<br>- |
 | **BNE**<br>AU-QLD<br>Brisbane | **go**<br>-<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
 | **BOS**<br>US-MA<br>Boston | **CharlieCard**<br>-<br>Classic 1k | - | -<br>- | `MM/YY`<br>-<br>- |
 | **BRS**<br>GB-BST<br>Bristol | **ITSO**<br>*touch*<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>Yes |
@@ -109,12 +109,12 @@ A public GitHub repository containing information about public transport cards.
 | **CMH**<br>US-OH<br>Columbus | **Smartcard**<br>-<br>DESFire EV2 4k | 128 | -<br>- | -<br>-<br>- |
 | **DAY**<br>US-OH<br>Dayton | **Tapp Pay**<br>-<br>DESFire EV2 8k | 128 | `###`<br>- | -<br>-<br>- |
 | **DEN**<br>US-CO<br>Denver | **MyRide**<br>-<br>DESFire EV2 4k | 128 | `###`<br>- | -<br>-<br>- |
-| **DEN**<br>US-CO<br>Denver | **MyRide**<br>-<br>DESFire EV3 8k | - | `###`<br>- | -<br>-<br>- |
+| **DEN**<br>US-CO<br>Denver | **MyRide**<br>-<br>DESFire EV3 8k | 128 | `###`<br>- | -<br>-<br>- |
 | **DOH**<br>QA-DA<br>Doha | **Travel Pass**<br>-<br>DESFire EV3 4k | - | -<br>- | -<br>-<br>- |
 | **DUB**<br>IE-D<br>Dublin | **Leap**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **DUD**<br>NZ-OTA<br>Otago | **Bee**<br>-<br>DESFire EV1 4k | - | `###`<br>- | -<br>-<br>- |
 | **ECN**<br>CY-01<br>Nicosia | **motion**<br>-<br>DESFire EV2 4k | - | -<br>- | -<br>-<br>- |
-| **EUG**<br>CY-01<br>Eugene | **Umo**<br>-<br>DESFire EV2 2k | - | -<br>- | -<br>Yes<br>- |
+| **EUG**<br>US-OR<br>Eugene | **Umo**<br>-<br>DESFire EV2 2k | 128 | -<br>- | -<br>Yes<br>- |
 | **EMA**<br>GB-LCE<br>Leicester | **ITSO**<br>*Smartcard*<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>Yes |
 | **EWR**<br>US-NJ<br>Jersey City | **SmartLink**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **EWR**<br>US-NJ<br>Jersey City | **TAPP**<br>-<br>DESFire EV1 256b | - | -<br>- | -<br>-<br>- |
@@ -122,10 +122,10 @@ A public GitHub repository containing information about public transport cards.
 | **GEG**<br>US-WA<br>Spokane | **Connect**<br>-<br>DESFire EV3 2k | UPC A<br>128 | `###`<br>- | -<br>Yes<br>- |  
 | **HBA**<br>AU-TAS<br>Hobart | **GreenCard**<br>-<br>Classic 4k | - | -<br>- | -<br>-<br>- |
 | **HBA**<br>AU-TAS<br>Hobart | **Smartcard**<br>-<br>Classic 1k | - | -<br>- | -<br>-<br>- |
-| **HNL**<br>US-HI<br>Oahu | **HOLO**<br>-<br>DESFire EV1 256b | - | `###`<br>- | -<br>-<br>- |
+| **HNL**<br>US-HI<br>Honolulu | **HOLO**<br>-<br>DESFire EV1 256b | - | `###`<br>- | -<br>-<br>- |
 | **IAD**<br>US-DC<br>Washington, D.C. | **SmarTrip**<br>-<br>Plus X 2k | - | -<br>- | -<br>-<br>- |
 | **IST**<br>TR-34<br>İstanbul | **İstanbulkart**<br>-<br>DESFire EV3 2k | QR | -<br>- | -<br>-<br>- |
-| **ITH**<br>US-NY<br>Tompkins County | **Tcard**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
+| **ITH**<br>US-NY<br>Ithaca | **Tcard**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **JFK**<br>US-NY<br>New York City | **OMNY**<br>-<br>DESFire EV2 16k | 128 | `###`<br>- | `MM/YY`<br>-<br>- |
 | **KUL**<br>MY-14<br>Kuala Lumpur | **Touch 'n Go**<br>-<br>Plus 4k | - | -<br>- | `MM/YY`<br>-<br>- |
 | **KUL**<br>MY-14<br>Kuala Lumpur | **Touch 'n Go**<br>*Enhanced*<br>Plus EV2 4k | QR | -<br>- | `MM/YY`<br>-<br>- | 
@@ -137,17 +137,18 @@ A public GitHub repository containing information about public transport cards.
 | **LPL**<br>GB-LIV<br>Liverpool | **ITSO**<br>*MetroCard*<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **MAN**<br>GB-MAN<br>Stockport | **ITSO**<br>*Stagecoach*<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **MAD**<br>ES-MD<br>Madrid | **Tarjeta Transporte Público**<br>-<br>DESFire EV3 4k | - | -<br>- | -<br>-<br>- |
-| **MEL**<br>AU-VIC<br>Melbourne | **myki**<br>-<br>DESFire EV3 4k | - | -<br>- | -<br>-<br>Optional |
+| **MEL**<br>AU-VIC<br>Melbourne | **myki**<br>*Gen 2C (Purple)*<br>DESFire EV3 4k | - | -<br>- | -<br>-<br>Optional |
+| **MEL**<br>AU-VIC<br>Melbourne | **myki**<br>*Youth*<br>DESFire EV3 4k | - | -<br>- | -<br>-<br>Optional |
 | **MNL**<br>PH-00<br>Manila | **beep**<br>-<br>DESFire EV1 8k | - | -<br>- | `MMM/YYYY`<br>-<br>- |
 | **MNL**<br>PH-00<br>Manila | **TRIPKO**<br>-<br>DESFire EV3 2k | - | -<br>- | -<br>-<br>- |
-| **OMA**<br>US-NE<br>Omaha | **Umo**<br>-<br>DESFire EV2 2k | - | `###`<br>- | -<br>Yes<br>- |
+| **OMA**<br>US-NE<br>Omaha | **Umo**<br>-<br>DESFire EV2 2k | 128 | `###`<br>- | -<br>Yes<br>- |
 | **ORD**<br>US-IL<br>Chicago | **Ventra**<br>-<br>DESFire EV1 256b | - | `###`<br>- | `MM/YY`<br>-<br>- |
-| **PBI**<br>US-FL<br>Palm Beach | **Paradise Pass**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>Yes<br>- |
+| **PBI**<br>US-FL<br>West Palm Beach | **Paradise Pass**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>Yes<br>- |
 | **PDX**<br>US-OR<br>Portland | **hop fastpass**<br>-<br>DESFire EV1 256b | 128 | `###`<br>- | -<br>Yes<br>- |
 | **PER**<br>AU-WA<br>Perth | **SmartRider**<br>-<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
 | **PHL**<br>US-PA<br>Philadelphia | **FREEDOM**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **PWM**<br>US-ME<br>Portland | **Umo**<br>*DiriGo*<br>DESFire EV2 2k | UPC A<br>128 | -<br>- | -<br>Yes<br>- |
-| **RSW**<br>US-FL<br>Lee County | **Tropicard**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
+| **RSW**<br>US-FL<br>Fort Meyers | **TropiCard**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **SCL**<br>CL-RM<br>Santiago | **bip**!<br>-<br>Classic EV1 1k | 128 | -<br>- | -<br>-<br>- |
 | **SEA**<br>US-WA<br>Seattle | **ORCA**<br>-<br>DESFire EV3 2k | 128 | `###`<br>- | -<br>-<br>- |
 | **SFO**<br>US-CA<br>San Francisco | **Clipper**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
