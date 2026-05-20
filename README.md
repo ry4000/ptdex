@@ -60,6 +60,7 @@ A public GitHub repository containing information about public transport cards.
 | **HND**<br>JP-13<br>Tokyo | **PASMO**<br>-<br>- | PB<br>Silver<br>1 | 1201<br>05<br>31 (RC-S114) | 0003<br><br><br><br><br><br><br>FE00 | 008B<br>090F<br>108F<br>10CB<br><br>394B<br>398B<br>39C9 |
 | **HND**<br>JP-13<br>Tokyo | **Suica**<br>-<br>- | JE<br>Silver<br>1 | 1201/1401<br>05<br>31 (RC-S114) | 0003<br><br><br><br><br><br><br><br><br><br><br><br>FE00<br><br><br><br>86A7 | 008B<br>090F<br>108F<br>10CB<br>184B<br>194B<br>198B<br>234B<br>238B<br>23CB<br><br>394B<br>398B<br>39C9<br><br>004B<br>028B |
 | **HND**<br>JP-13<br>Tokyo | **Suica**<br>-<br>*Welcome* | JE<br>White<br>0 | 1001<br>05<br>31 (RC-S114) | 0003<br><br><br><br><br><br><br><br><br>FE00<br><br><br><br>86A7 | 008B<br>090F<br>108F<br>10CB<br>184B<br>194B<br>198B<br><br>394B<br>398B<br>39C9<br><br>004B<br>028B |
+| **JKT**<br>ID-JK<br>Jakarta | **Kartu Multi Trip / Commet**<br>-<br>- | -<br>Black<br>0 | 012E<br>03<br>35 (RC-SA01/2) | 90B7 | 1010<br>1012<br>1017<br>200C<br>200F<br>3008<br>300B<br>3048<br>304A<br>3088<br>30C8<br>30CB<br>4008<br>5008<br>500B<br>5048<br>504B<br>5088<br>508B<br>50C8<br>50CB<br>5108<br>510B<br>5148<br>51C8 |
 | **KIX**<br>JP-27<br>Osaka | **ICOCA**<br>-<br>- | JW<br>Silver<br>1 | 0101<br>01<br>36 (RC-SA04/1) | 0003 | 008B<br>090F<br>108F<br>10CB |
 | **KIX**<br>JP-27<br>Osaka | **PiTaPa**<br>ピタパ<br>- | SU<br>Silver<br>1 | 1001<br>04<br>01 (RC-S915)  | 0003 | 008B<br>090F<br>108F<br>10CB |
 | **MYJ**<br>JP-38<br>Matsuyama | **ICOCA**<br>-<br>*Shikoku* | JW<br>Silver<br>2 | 1201<br>01<br>36 (RC-SA04/1)| 0003 | 008B<br>090F<br>108F<br>10CB |
@@ -71,6 +72,7 @@ A public GitHub repository containing information about public transport cards.
 | **OKA**<br>JP-47<br>Okinawa | **OKICA**<br>-<br>- | OK<br>White<br>2 | 1601<br>01<br>20 (RC-S962) | 8FC1<br><br><br><br><br><br>FE00  | 028F<br>050F<br>060B<br><br>394B<br>398B<br>39C9 |
 | **QGU**<br>JP-21<br>Gifu | **ayuca**<br>アユカ<br>- | GB<br>White<br>0 | 1201<br>01<br>36 (RC-SA04/1) | 83EE | 804B<br>884B<br>898F<br>924B | 
 | **SIN**<br>SG-01<br>Singapore | **EZ-Link**<br>-<br>- | -<br>Blue<br>0 | 0101<br>03<br>00 (RC-S830) | 0102 | - |
+
 
 > [!NOTE]
 > 1. **HKG Octopus Tourist T-Union** is a dual-tech card.
