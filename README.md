@@ -73,7 +73,6 @@ A public GitHub repository containing information about public transport cards.
 | **QGU**<br>JP-21<br>Gifu | **ayuca**<br>アユカ<br>- | GB<br>White<br>0 | 1201<br>01<br>36 (RC-SA04/1) | 83EE | 804B<br>884B<br>898F<br>924B | 
 | **SIN**<br>SG-01<br>Singapore | **EZ-Link**<br>-<br>- | -<br>Blue<br>0 | 0101<br>03<br>00 (RC-S830) | 0102 | - |
 
-
 > [!NOTE]
 > 1. **HKG Octopus Tourist T-Union** is a dual-tech card.
 > 2. **HKG Octopus Tourist T-Union**'s QR Code is a [**shortened URL**](https://www.octopus.com.hk/mot).
