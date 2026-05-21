@@ -13,6 +13,7 @@ A public GitHub repository containing information about public transport cards.
 
 > [!NOTE]
 > 
+> *GH/`@kormax` may use this repository to guide any potential [**FeliCa Tool**](https://github.com/kormax/felica-tool) updates.*<br>
 > *GH/`@micolous` may use this repository to guide any potential [**Metrodroid**](https://github.com/metrodroid/metrodroid) updates.*<br>
 > *GH/`@luu176` may use this repository to guide any potential [**Metroflip**](https://github.com/luu176/Metroflip) updates.*<br>
 > *GH/`@iceman1001` may use this repository to guide any potential [**Proxmark3**](https://github.com/RfidResearchGroup/proxmark3) updates.*
@@ -94,7 +95,7 @@ A public GitHub repository containing information about public transport cards.
 | **ATH**<br>GR-I<br>Athens | **ATH.ENA**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **ATL**<br>US<br>Atlanta | **breeze**<br>*Gen 2 (Silver)*<br>DESFire EV1 4k | 128 | -<br>- | -<br>-<br>- |
 | **BDL**<br>US-CT<br>Hartford | **Go CT**<br>-<br>DESFire EV1 4k | UPC A<br>128 | -<br>- | -<br>Yes<br>- |
-| **BFS**<br>GB-NIR<br>Belfast | **Visitor Pass**<br>-<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
+| **BFS**<br>GB-NIR<br>Belfast | **Belfast Visitor Pass**<br>-<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
 | **BGO**<br>NO-46<br>Bergen | **Skyss Kort**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **BKK**<br>TH-10<br>Bangkok | **BEM SVC**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **BKK**<br>TH-10<br>Bangkok | **Rabbit**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
@@ -108,8 +109,8 @@ A public GitHub repository containing information about public transport cards.
 | **CMA**<br>US-CA<br>Camarillo | **Umo**<br>*VCbuspass*<br>DESFire EV2 2k | UPC A<br>128 | -<br>- | -<br>Yes<br>- |
 | **CMH**<br>US-OH<br>Columbus | **Smartcard**<br>-<br>DESFire EV2 4k | 128 | -<br>- | -<br>-<br>- |
 | **DAY**<br>US-OH<br>Dayton | **Tapp Pay**<br>-<br>DESFire EV2 8k | 128 | `###`<br>- | -<br>-<br>- |
-| **DEN**<br>US-CO<br>Denver | **MyRide**<br>-<br>DESFire EV2 4k | 128 | `###`<br>- | -<br>-<br>- |
-| **DEN**<br>US-CO<br>Denver | **MyRide**<br>-<br>DESFire EV3 8k | 128 | `###`<br>- | -<br>-<br>- |
+| **DEN**<br>US-CO<br>Denver | **MyRide**<br>*Gen 1*<br>DESFire EV2 4k | 128 | `###`<br>- | -<br>-<br>- |
+| **DEN**<br>US-CO<br>Denver | **MyRide**<br>*Gen 2*<br>DESFire EV3 8k | 128 | `###`<br>- | -<br>-<br>- |
 | **DOH**<br>QA-DA<br>Doha | **Travel Pass**<br>-<br>DESFire EV3 4k | - | -<br>- | -<br>-<br>- |
 | **DUB**<br>IE-D<br>Dublin | **Leap**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **DUD**<br>NZ-OTA<br>Otago | **Bee**<br>-<br>DESFire EV1 4k | - | `###`<br>- | -<br>-<br>- |
@@ -140,7 +141,7 @@ A public GitHub repository containing information about public transport cards.
 | **MAN**<br>GB-MAN<br>Stockport | **ITSO**<br>*Stagecoach*<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **MAD**<br>ES-MD<br>Madrid | **Tarjeta Transporte Público**<br>-<br>DESFire EV3 4k | - | -<br>- | -<br>-<br>- |
 | **MEL**<br>AU-VIC<br>Melbourne | **myki**<br>*Gen 2C (Purple)*<br>DESFire EV3 4k | - | -<br>- | -<br>-<br>Optional |
-| **MEL**<br>AU-VIC<br>Melbourne | **myki**<br>*Youth*<br>DESFire EV3 4k | - | -<br>- | -<br>-<br>Optional |
+| **MEL**<br>AU-VIC<br>Melbourne | **myki**<br>*Gen 2C (Youth)*<br>DESFire EV3 4k | - | -<br>- | -<br>-<br>Optional |
 | **MIA**<br>US-FL<br>Miami | **EASY Card**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **MKE**<br>US-WI<br>Milwaukee | **WisGo**<br>-<br>DESFire EV3 2k | UPC A<br>128 | -<br>- | -<br>Yes<br>- |
 | **MNL**<br>PH-00<br>Manila | **beep**<br>-<br>DESFire EV1 8k | - | -<br>- | `MMM/YYYY`<br>-<br>- |
@@ -152,15 +153,15 @@ A public GitHub repository containing information about public transport cards.
 | **PDX**<br>US-OR<br>Portland | **hop fastpass**<br>-<br>DESFire EV1 256b | 128 | `###`<br>- | -<br>Yes<br>- |
 | **PER**<br>AU-WA<br>Perth | **SmartRider**<br>-<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
 | **PHL**<br>US-PA<br>Philadelphia | **FREEDOM**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
-| **PHX**<br>US-AZ<br>Phoenix | **Copper Card**<br>-<br>DESFire EV1 256b | UPC A<br>128 | `####`<br>- | -<br>Yes<br>- |
-| **PVD**<br>US-RI<br>Providence | **RIPTA**<br>-<br>DESFire EV1 256b | UPC A<br>128 | `###`<br>- | -<br>Yes<br>- |
+| **PHX**<br>US-AZ<br>Phoenix | **Copper**<br>-<br>DESFire EV1 256b | UPC A<br>128 | `####`<br>- | -<br>Yes<br>- |
+| **PVD**<br>US-RI<br>Providence | **Wave**<br>-<br>DESFire EV1 256b | UPC A<br>128 | `###`<br>- | -<br>Yes<br>- |
 | **PWM**<br>US-ME<br>Portland | **Umo**<br>*DiriGo*<br>DESFire EV2 2k | UPC A<br>128 | -<br>- | -<br>Yes<br>- |
 | **RDU**<br>US-NC<br>Raleigh-Durham | **GoPass**<br>-<br>DESFire EV1 2k | UPC A<br>128 | -<br>- | -<br>Yes<br>- |
 | **RSW**<br>US-FL<br>Fort Meyers | **TropiCard**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **SCL**<br>CL-RM<br>Santiago | **bip**!<br>-<br>Classic EV1 1k | 128 | -<br>- | -<br>-<br>- |
 | **SEA**<br>US-WA<br>Seattle | **ORCA**<br>-<br>DESFire EV3 2k | 128 | `###`<br>- | -<br>-<br>- |
 | **SFO**<br>US-CA<br>San Francisco | **Clipper**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
-| **SLC**<br>US-UT<br>Salt Lake City | **FAREPAY Card**<br>-<br>Ultralight | UPC A<br>128 | -<br>- | -<br>Yes<br>- |
+| **SLC**<br>US-UT<br>Salt Lake City | **FAREPAY**<br>-<br>Ultralight | UPC A<br>128 | -<br>- | -<br>Yes<br>- |
 | **SMF**<br>US-CA<br>Sacramento | **Connect**<br>-<br>DESFire EV1 4k | - | `###`<br>- | -<br>-<br>- |
 | **SNA**<br>US-CA<br>Orange County | **OCTA**<br>-<br>DESFire EV3 2k | UPC A<br>128 | `###`<br>- | -<br>Yes<br>- |
 | **SOU**<br>GB-STH<br>Southampton | **ITSO**<br>*touch*<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>Yes |
@@ -186,19 +187,21 @@ A public GitHub repository containing information about public transport cards.
 > 8. **CBR MyWay+**'s emboss is dots in the shape of `T`.
 > 9. **CBR MyWay+**'s QR Code is text that shows a card prefix (`00001`), card number, and CCV.
 > 10. **CHC Metrocard**'s emboss is dots in the shape of `>`.
-> 11. **EWR TAPP**'s `ISO-FID` is `3821`.
-> 12. **EWR TAPP**'s `ISO DF-Name` is `637001FF4F5454205631`.
-> 13. **KUL Touch n' Go Enhanced**'s QR Code directs commuters to download their [**eWallet App**](https://cdn.tngdigital.com.my/s/landing/index.html).
-> 14. **IST İstanbulkart** in English is `Istanbul Card`.
-> 15. **IST İstanbulkart**'s QR Code contains the card number, UID, and [**their website**](https://www.istanbulkart.istanbul).
-> 16. **MAD Tarjeta Transporte Público** in English is `Public Transport Card`.
-> 17. **MEL myki** prints the commuter's name if it's registered and requested at the time of online purchase/replacement.
-> 18. **MNL TRIPKO** in English is `MYTRIP`.
-> 19. **TPE 一卡通** in English is `iPASS`.
-> 20. **YVR Compass Mini** and **YVR Compass Wearable** are only sold at Waterfront Station's TransLink Customer Service Centre.
-> 21. **YVR Compass Wearable**'s CVN is written on the issued receipt.
-> 22. **YYZ PRESTO**'s emboss is `P` in Braille.
-> 23. **ZAG Value Card** in English is `Value Card`.
+> 11. **DEN MyRide** appears to be transitioning to Gen 2 cards; I have asked for confirmation from another Discord member.
+> 12. **EWR TAPP**'s `ISO-FID` is `3821`.
+> 13. **EWR TAPP**'s `ISO DF-Name` is `637001FF4F5454205631`.
+> 14. **KUL Touch n' Go Enhanced**'s QR Code directs commuters to download their [**eWallet App**](https://cdn.tngdigital.com.my/s/landing/index.html).
+> 15. **IST İstanbulkart** in English is `Istanbul Card`.
+> 16. **IST İstanbulkart**'s QR Code contains the card number, UID, and [**their website**](https://www.istanbulkart.istanbul).
+> 17. **MAD Tarjeta Transporte Público** in English is `Public Transport Card`.
+> 18. **MEL myki** prints the commuter's name if it's registered and requested at the time of online purchase/replacement.
+> 19. **MNL TRIPKO** in English is `MYTRIP`.
+> 20. **SLC FAREPAY** is listed here *rather than in [**MIFARE-Based Tickets**](#mifare-based-tickets)* because this card is reloadable.
+> 21. **TPE 一卡通** in English is `iPASS`.
+> 22. **YVR Compass Mini** and **YVR Compass Wearable** are only sold at Waterfront Station's TransLink Customer Service Centre.
+> 23. **YVR Compass Wearable**'s CVN is written on the issued receipt.
+> 24. **YYZ PRESTO**'s emboss is `P` in Braille.
+> 25. **ZAG Value Card** in English is `Value Card`.
 
 - [**Back to PTDex**](#randys-public-transport-index-ptdex)
 
