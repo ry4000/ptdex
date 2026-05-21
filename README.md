@@ -78,9 +78,10 @@ A public GitHub repository containing information about public transport cards.
 > 2. **HKG Octopus Tourist T-Union**'s QR Code is a [**shortened URL**](https://www.octopus.com.hk/mot).
 > 3. **HND Welcome Suica** has an Expiry Date in `MM/YY` and an Open Service Code of `### ### ABC DEF`.
 > 4. **JKT Kartu Multi Trip**'s `Commet` is a portmanteau of **Comm**uter **E**lectronic **T**icket.
-> 5. **KIX PiTaPa** is a post-pay service within the [**PiTaPa**](https://www.pitapa.com) network.
-> 6. **KIX PiTaPa** is a pre-pay service within the rest of the [**NMUS**](https://en.wikipedia.org/wiki/Nationwide_Mutual_Usage_Service) network.
-> 7. **SIN EZ-Link** now uses the `Specification for Contactless e-Purse Application (CEPAS)` chip technology.
+> 5. **JKT Kartu Multi Trip** has a hologram strip on the back that bears the `KAI Commuter` and `Commet` logos.
+> 6. **KIX PiTaPa** is a post-pay service within the [**PiTaPa**](https://www.pitapa.com) network.
+> 7. **KIX PiTaPa** is a pre-pay service within the rest of the [**NMUS**](https://en.wikipedia.org/wiki/Nationwide_Mutual_Usage_Service) network.
+> 8. **SIN EZ-Link** now uses the `Specification for Contactless e-Purse Application (CEPAS)` chip technology.
 
 - [**Back to PTDex**](#randys-public-transport-index-ptdex)
 
@@ -160,7 +161,7 @@ A public GitHub repository containing information about public transport cards.
 > 1. **ADL metroCARD**'s QR Code directs commuters to [**register**](https://dit.sa.gov.au/metrocard-register) their metroCARD.
 > 2. **AMS OV-chipkaart** in English is `Public Transport Chip Card`.
 > 3. **AMS OV-chipkaart** is currently used across The Netherlands and is listed under its Capital City for `PTDex` purposes.
-> 4. **AMS OV-chipkaart** also has a hologram, though this is the only known example within the PTDex collection.
+> 4. **AMS OV-chipkaart** has a hologram that covers the entire back of the card.
 > 5. **AMS OV-chipkaart** *Anonymous* does not always have an EAN 13 barcode at the back.
 > 6. **ATL breeze** *Gen 2 Silver* are decommissioned in favour of EMV `Better Breeze`.
 > 7. **BGO Skyss Kort** in English is `Skyss Card`.
