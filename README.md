@@ -91,9 +91,9 @@ A public GitHub repository containing information about public transport cards.
 | **ADL**<br>AU-SA<br>Adelaide | [**metroCARD**](https://forms.sa.gov.au/#/form/5e7c47e8ad9c65369c64bc95)<br>-<br>DESFire EV1 2k | QR | -<br>- | -<br>-<br>- | 
 | **AKL**<br>NZ-AUK<br>Auckland | [**AT HOP**](https://at.govt.nz/bus-train-ferry/at-hop-card/buy-hop-card/buycard)<br>-<br>DESFire EV1 4k | - | `###`<br>- | -<br>-<br>- |
 | **ALB**<br>US-NY<br>Albany | [**Genfare e-Fare**](https://genfare.com/products/e-fare/)<br>[*Navigator*](https://nav.cdta.org/efare/store/loadProducts)<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
-| **AMS**<br>NL-NH<br>Amsterdam | **OV-chipkaart**<br>*Anonymous*<br>Classic 4k | EAN 13 | -<br>- | `DD-MM-YYYY`<br>-<br>- |
-| **ATH**<br>GR-I<br>Athens | **ATH.ENA**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
-| **ATL**<br>US<br>Atlanta | **breeze**<br>*Gen 2 (Silver)*<br>DESFire EV1 4k | 128 | -<br>- | -<br>-<br>- |
+| **AMS**<br>NL-NH<br>Amsterdam | [**OV-chipkaart**](https://www.ov-chipkaart.nl/en)<br>*Anonymous*<br>Classic 4k | EAN 13 | -<br>- | `DD-MM-YYYY`<br>-<br>- |
+| **ATH**<br>GR-I<br>Athens | [**ATH.ENA**](https://www.athenacard.gr/index.jsp)<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
+| **ATL**<br>US<br>Atlanta | [**breeze**](https://www.breezecard.com/)<br>*Gen 2 (Silver)*<br>DESFire EV1 4k | 128 | -<br>- | -<br>-<br>- |
 | **BDL**<br>US-CT<br>Hartford | **Go CT**<br>-<br>DESFire EV1 4k | UPC A<br>128 | -<br>- | -<br>Yes<br>- |
 | **BFS**<br>GB-NIR<br>Belfast | **Belfast Visitor Pass**<br>-<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
 | **BGO**<br>NO-46<br>Bergen | **Skyss Kort**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
@@ -121,58 +121,59 @@ A public GitHub repository containing information about public transport cards.
 | **EWR**<br>US-NJ<br>Newark | **FARE-PAY**<br>-<br>DESFire EV3 4k | UPC A<br>128 | `###`<br>- | -<br>Yes<br>- |
 | **GEG**<br>US-WA<br>Spokane | **Connect**<br>-<br>DESFire EV3 2k | UPC A<br>128 | `###`<br>- | -<br>Yes<br>- |
 | **GRR**<br>US-MI<br>Grand Rapids | **Wave**<br>-<br>DESFire EV1 256b | UPC A<br>128 | `###`<br>- | -<br>Yes<br>- |
-| **HBA**<br>AU-TAS<br>Hobart | **GreenCard**<br>-<br>Classic 4k | - | -<br>- | -<br>-<br>- |
-| **HBA**<br>AU-TAS<br>Hobart | **Smartcard**<br>-<br>Classic 1k | - | -<br>- | -<br>-<br>- |
-| **HNL**<br>US-HI<br>Honolulu | **HOLO**<br>-<br>DESFire EV1 256b | - | `###`<br>- | -<br>-<br>- |
-| **IAD**<br>US-DC<br>Washington, D.C. | **SmarTrip**<br>-<br>Plus X 2k | - | -<br>- | -<br>-<br>- |
-| **IAH**<br>US-TX<br>Houston | **RideMetro**<br>-<br>DESFire EV1 256b | UPC A<br>128 | `###`<br>- | -<br>Yes<br>- |
-| **IST**<br>TR-34<br>İstanbul | **İstanbulkart**<br>-<br>DESFire EV3 2k | QR | -<br>- | -<br>-<br>- |
-| **ITH**<br>US-NY<br>Ithaca | **Tcard**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
-| **JFK**<br>US-NY<br>New York City | **OMNY**<br>-<br>DESFire EV2 16k | 128 | `###`<br>- | `MM/YY`<br>-<br>- |
-| **KUL**<br>MY-14<br>Kuala Lumpur | **Touch 'n Go**<br>-<br>Plus 4k | - | -<br>- | `MM/YY`<br>-<br>- |
-| **KUL**<br>MY-14<br>Kuala Lumpur | **Touch 'n Go**<br>*Enhanced*<br>Plus EV2 4k | QR | -<br>- | `MM/YY`<br>-<br>- | 
-| **LAX**<br>US-CA<br>Los Angeles | **TAP**<br>-<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
-| **LBA**<br>GB-LDS<br>West Yorkshire | [**ITSO**](https://www.itso.org.uk/)<br>*MCard*<br>DESFire EV1 4k | EAN 13 | -<br>- | -<br>-<br>- |
-| **LCY**<br>GB-LND<br>London | [**ITSO**](https://www.itso.org.uk/)<br>*The Key*<br>DESFire EV1 4k | - | -<br>- | `DD/MM/YYYY`<br>-<br>Yes |
-| **LHR**<br>GB-LND<br>London | **oyster**<br>-<br>DESFire EV1 2k | - | -<br>- | -<br>-<br>- |
-| **LJU**<br>SI-061<br>Ljubljana | **Urbana**<br>-<br>DESFire EV2 8k | 128 | -<br>- | -<br>-<br>- |
+| **HBA**<br>AU-TAS<br>Hobart | [**GreenCard**](https://greencard.metrotas.com.au/signup/details)<br>-<br>Classic 4k | - | -<br>- | -<br>-<br>- |
+| **HBA**<br>AU-TAS<br>Hobart | [**Smartcard**](https://www.transport.tas.gov.au/public_transport/bus_timetables/ticketing)<br>-<br>Classic 1k 7b | - | -<br>- | -<br>-<br>- |
+| **HNL**<br>US-HI<br>Honolulu | [**HOLO**](https://www.holocard.net/where-to-buy-a-card/)<br>-<br>DESFire EV1 256b | - | `###`<br>- | -<br>-<br>- |
+| **IAD**<br>US-DC<br>Washington, D.C. | [**SmarTrip**](https://smarttrip.wmata.com/Storefront)<br>-<br>Plus X 2k | - | -<br>- | -<br>-<br>- |
+| **IAH**<br>US-TX<br>Houston | [**RideMetro**](https://fares.ridemetro.org/ridemetro-card-app/order-a-card/)<br>-<br>DESFire EV1 256b | UPC A<br>128 | `###`<br>- | -<br>Yes<br>- |
+| **IST**<br>TR-34<br>İstanbul | [**İstanbulkart**](https://www.istanbulkart.istanbul/OurCards)<br>-<br>DESFire EV3 2k | QR | -<br>- | -<br>-<br>- |
+| **ITH**<br>US-NY<br>Ithaca | [**Genfare e-Fare**](https://genfare.com/products/e-fare/)<br>-<br>DESFire EV1 4k | [*Tcard*](https://tcat-prod.gfcp.io/efare/store/loadProducts) | -<br>- | -<br>-<br>- |
+| **JFK**<br>US-NY<br>New York City | [**OMNY**](https://omny.info/omny-card)<br>-<br>DESFire EV2 16k | 128 | `###`<br>- | `MM/YY`<br>-<br>- |
+| **KUL**<br>MY-14<br>Kuala Lumpur | [**Touch 'n Go**](https://www.touchngo.com.my/consumer/toll/card/)<br>[*Classic*](https://www.touchngo.com.my/consumer/toll/card/classic-card/)<br>Plus 4k | - | -<br>- | `MM/YY`<br>-<br>- |
+| **KUL**<br>MY-14<br>Kuala Lumpur | [**Touch 'n Go**](https://www.touchngo.com.my/consumer/toll/card/)<br>[*Enhanced*](https://shop.touchngo.com.my/touch-n-go-enhanced-nfc.html)<br>Plus EV2 4k | QR | -<br>- | `MM/YY`<br>-<br>- | 
+| **LAX**<br>US-CA<br>Los Angeles | [**TAP**](https://www.taptogo.net/TAPPurchase)<br>-<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
+| **LBA**<br>GB-LDS<br>West Yorkshire | [**ITSO**](https://www.itso.org.uk/)<br>[*MCard*](https://m-card.co.uk/the-cards/travelcash/)<br>DESFire EV1 4k | EAN 13 | -<br>- | -<br>-<br>- |
+| **LCY**<br>GB-LND<br>London | [**ITSO**](https://www.itso.org.uk/)<br>[*The Key*](https://ticket.southeasternrailway.co.uk/search?modal=register)<br>DESFire EV1 4k | - | -<br>- | `DD/MM/YYYY`<br>-<br>Yes |
+| **LHR**<br>GB-LND<br>London | [**oyster**](https://tfl.gov.uk/fares/contactless-and-oyster-account)<br>-<br>DESFire EV1 2k | - | -<br>- | -<br>-<br>- |
+| **LHR**<br>GB-LND<br>London | [**oyster**](https://tfl.gov.uk/fares/contactless-and-oyster-account)<br>[*Visitor*](https://visitorshop.tfl.gov.uk/en/london-visitor-oyster-card)<br>DESFire EV1 2k | - | -<br>- | -<br>-<br>- |
+| **LJU**<br>SI-061<br>Ljubljana | [**Urbana**](https://www.lpp.si/en/frequently-asked-questions-and-answers#)<br>-<br>DESFire EV2 8k | 128 | -<br>- | -<br>-<br>- |
 | **LPL**<br>GB-LIV<br>Liverpool | [**ITSO**](https://www.itso.org.uk/)<br>*MetroCard*<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **MAN**<br>GB-MAN<br>Stockport | [**ITSO**](https://www.itso.org.uk/)<br>*Stagecoach*<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
-| **MAD**<br>ES-MD<br>Madrid | **Tarjeta Transporte Público**<br>-<br>DESFire EV3 4k | - | -<br>- | -<br>-<br>- |
-| **MEL**<br>AU-VIC<br>Melbourne | **myki**<br>*Gen 2C (Purple)*<br>DESFire EV3 4k | - | -<br>- | -<br>-<br>Optional |
-| **MEL**<br>AU-VIC<br>Melbourne | **myki**<br>*Gen 2C (Youth)*<br>DESFire EV3 4k | - | -<br>- | -<br>-<br>Optional |
-| **MIA**<br>US-FL<br>Miami | **EASY Card**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
-| **MKE**<br>US-WI<br>Milwaukee | **WisGo**<br>-<br>DESFire EV3 2k | UPC A<br>128 | -<br>- | -<br>Yes<br>- |
-| **MNL**<br>PH-00<br>Manila | **beep**<br>-<br>DESFire EV1 8k | - | -<br>- | `MMM/YYYY`<br>-<br>- |
-| **MNL**<br>PH-00<br>Manila | **TRIPKO**<br>-<br>DESFire EV3 2k | - | -<br>- | -<br>-<br>- |
-| **OMA**<br>US-NE<br>Omaha | [**Cubic Umo**](https://umomobility.com/)<br>-<br>DESFire EV2 2k | UPC A<br>128 | `###`<br>- | -<br>Yes<br>- |
-| **ORD**<br>US-IL<br>Chicago | **Ventra**<br>-<br>DESFire EV1 256b | - | `###`<br>- | `MM/YY`<br>-<br>- |
+| **MAD**<br>ES-MD<br>Madrid | [**Tarjeta Transporte Público**](https://crtm.es/billetes-y-tarifas/#Tarjetas)<br>-<br>DESFire EV3 4k | - | -<br>- | -<br>-<br>- |
+| **MEL**<br>AU-VIC<br>Melbourne | [**myki**](https://transport.vic.gov.au/manage-myki#buy/fare-type)<br>*Gen 2C (Purple)*<br>DESFire EV3 4k | - | -<br>- | -<br>-<br>Optional |
+| **MEL**<br>AU-VIC<br>Melbourne | [**myki**](https://transport.vic.gov.au/manage-myki#buy/fare-type)<br>*Gen 2C (Youth)*<br>DESFire EV3 4k | - | -<br>- | -<br>-<br>Optional |
+| **MIA**<br>US-FL<br>Miami | [**EASY Card**](https://transitstore.miamidade.gov/)<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
+| **MKE**<br>US-WI<br>Milwaukee | [**Cubic Umo**](https://umomobility.com/)<br>[*WisGo*](https://www.ridemcts.com/fares/where-to-buy#Buy_Online)<br>DESFire EV3 2k | UPC A<br>128 | -<br>- | -<br>Yes<br>- |
+| **MNL**<br>PH-00<br>Manila | [**beep**](https://beep.com.ph/where-to-buy-a-beep-card/)<br>-<br>DESFire EV1 8k | - | -<br>- | `MMM/YYYY`<br>-<br>- |
+| **MNL**<br>PH-00<br>Manila | [**TRIPKO**](https://www.tripko.com.ph/)<br>-<br>DESFire EV3 2k | - | -<br>- | -<br>-<br>- |
+| **OMA**<br>US-NE<br>Omaha | [**Cubic Umo**](https://umomobility.com/)<br>[*Umo*](https://www.ometro.com/umo/)<br>DESFire EV2 2k | UPC A<br>128 | `###`<br>- | -<br>Yes<br>- |
+| **ORD**<br>US-IL<br>Chicago | [**Ventra**](https://www.ventrachicago.com/purchase/)<br>-<br>DESFire EV1 256b | - | `###`<br>- | `MM/YY`<br>-<br>- |
 | **OXR**<br>US-CA<br>Camarillo | [**Cubic Umo**](https://umomobility.com/)<br>*VCbuspass*<br>DESFire EV2 2k | UPC A<br>128 | -<br>- | -<br>Yes<br>- |
-| **PBI**<br>US-FL<br>West Palm Beach | **Paradise Pass**<br>-<br>DESFire EV1 4k | UPC A<br>128 | -<br>- | -<br>Yes<br>- |
-| **PDX**<br>US-OR<br>Portland | **hop fastpass**<br>-<br>DESFire EV1 256b | 128 | `###`<br>- | -<br>Yes<br>- |
-| **PER**<br>AU-WA<br>Perth | **SmartRider**<br>-<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
-| **PHL**<br>US-PA<br>Philadelphia | **FREEDOM**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
-| **PHX**<br>US-AZ<br>Phoenix | **Copper**<br>-<br>DESFire EV1 256b | UPC A<br>128 | `####`<br>- | -<br>Yes<br>- |
-| **PVD**<br>US-RI<br>Providence | **Wave**<br>-<br>DESFire EV1 256b | UPC A<br>128 | `###`<br>- | -<br>Yes<br>- |
-| **PWM**<br>US-ME<br>Portland | [**Cubic Umo**](https://umomobility.com/)<br>*DiriGo*<br>DESFire EV2 2k | UPC A<br>128 | -<br>- | -<br>Yes<br>- |
-| **RDU**<br>US-NC<br>Raleigh | **GoPass**<br>-<br>DESFire EV1 2k | UPC A<br>128 | -<br>- | -<br>Yes<br>- |
+| **PBI**<br>US-FL<br>West Palm Beach | [**Genfare e-Fare**](https://genfare.com/products/e-fare/)<br>[*Paradise Pass*](https://www.myparadisepass.com/efare/store/loadProducts)<br>DESFire EV1 4k | UPC A<br>128 | -<br>- | -<br>Yes<br>- |
+| **PDX**<br>US-OR<br>Portland | [**hop fastpass**](https://myhopcard.com/home/get-card)<br>-<br>DESFire EV1 256b | 128 | `###`<br>- | -<br>Yes<br>- |
+| **PER**<br>AU-WA<br>Perth | [**SmartRider**](https://www.transperth.wa.gov.au/smartrider/types-of-smartrider/standard-smartrider)<br>-<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
+| **PHL**<br>US-PA<br>Philadelphia | [**FREEDOM**](https://www.ridepatco.org/schedules/FREEDOM.html)<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
+| **PHX**<br>US-AZ<br>Phoenix | [**Copper**](https://www.valleymetrofares.org/copper-card/buy-card/)<br>-<br>DESFire EV1 256b | UPC A<br>128 | `####`<br>- | -<br>Yes<br>- |
+| **PVD**<br>US-RI<br>Providence | [**Wave**](https://wave.ripta.com/customeraccount/my-cards/order-cards/)<br>-<br>DESFire EV1 256b | UPC A<br>128 | `###`<br>- | -<br>Yes<br>- |
+| **PWM**<br>US-ME<br>Portland | [**Cubic Umo**](https://umomobility.com/)<br>[*DiriGo Pass*](https://dirigopass.org/)<br>DESFire EV2 2k | UPC A<br>128 | -<br>- | -<br>Yes<br>- |
+| **RDU**<br>US-NC<br>Raleigh | [**Cubic Umo**](https://umomobility.com/)<br>[*GoPass*](https://www.paypal.com/ncp/payment/Z7TYYN966ZPG4)<br>DESFire EV1 2k | UPC A<br>128 | -<br>- | -<br>Yes<br>- |
 | **RSW**<br>US-FL<br>Fort Meyers | [**Genfare e-Fare**](https://genfare.com/products/e-fare/)<br>[*TropiCard*](https://www.mytropicard.com/efare/store/loadProducts)<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
-| **SCL**<br>CL-RM<br>Santiago | **bip**!<br>-<br>Classic EV1 1k | 128 | -<br>- | -<br>-<br>- |
-| **SEA**<br>US-WA<br>Seattle | **ORCA**<br>-<br>DESFire EV3 2k | 128 | `###`<br>- | -<br>-<br>- |
-| **SFO**<br>US-CA<br>San Francisco | **Clipper**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
-| **SLC**<br>US-UT<br>Salt Lake City | **FAREPAY**<br>-<br>Ultralight | UPC A<br>128 | -<br>- | -<br>Yes<br>- |
-| **SMF**<br>US-CA<br>Sacramento | **Connect**<br>-<br>DESFire EV1 4k | - | `###`<br>- | -<br>-<br>- |
-| **SNA**<br>US-CA<br>Orange | **OCTA**<br>-<br>DESFire EV3 2k | UPC A<br>128 | `###`<br>- | -<br>Yes<br>- |
-| **SOU**<br>GB-STH<br>Southampton | [**ITSO**](https://www.itso.org.uk/)<br>*touch*<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>Yes |
-| **SYD**<br>AU-NSW<br>Sydney | **Opal**<br>-<br>DESFire EV1 4k | - | `####`<br>- | -<br>-<br>- |
-| **TPE**<br>TW-TPE<br>Taipei | **一卡通**<br>-<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
-| **TPE**<br>TW-TPE<br>Taipei | **一卡通 PLUS**<br>-<br>Plus EV2 2k | - | -<br>- | -<br>-<br>- |
-| **YKF**<br>CA-ON<br>Kitchener | **EasyGO**<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
-| **YVR**<br>CA-BC<br>Vancouver | **Compass**<br>-<br>DESFire EV1 4k | UPC A | `###`<br>- | -<br>-<br>- | 
-| **YVR**<br>CA-BC<br>Vancouver | **Compass**<br>*Mini*<br>DESFire EV1 4k | - | `###`<br>- | -<br>-<br>- |
-| **YVR**<br>CA-BC<br>Vancouver | **Compass**<br>*Wristband*<br>DESFire EV1 8k | - | -<br>- | -<br>-<br>- |
+| **SCL**<br>CL-RM<br>Santiago | [**bip!**](https://www.red.cl/en/rates-and-top-ups/bip-card/)<br>-<br>Classic EV1 1k | 128 | -<br>- | -<br>-<br>- |
+| **SEA**<br>US-WA<br>Seattle | [**ORCA**](https://www.myorca.com/buy-online/)<br>-<br>DESFire EV3 2k | 128 | `###`<br>- | -<br>-<br>- |
+| **SFO**<br>US-CA<br>San Francisco | [**Clipper**](https://www.clippercard.com/checkout-get)<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
+| **SLC**<br>US-UT<br>Salt Lake City | [**FAREPAY**](https://farepay.rideuta.com/cart/cart.html)<br>-<br>Ultralight | UPC A<br>128 | -<br>- | -<br>Yes<br>- |
+| **SMF**<br>US-CA<br>Sacramento | [**Connect**](https://www.connecttransitcard.com/Home/GetCard)<br>-<br>DESFire EV1 4k | - | `###`<br>- | -<br>-<br>- |
+| **SNA**<br>US-CA<br>Orange | [**Wave**](https://wave.octa.net/buy-card-online/)<br>-<br>DESFire EV3 2k | UPC A<br>128 | `###`<br>- | -<br>Yes<br>- |
+| **SOU**<br>GB-STH<br>Southampton | [**ITSO**](https://www.itso.org.uk/)<br>[*touch*](https://auth.southwesternrailway.com/swr/registrations)<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>Yes |
+| **SYD**<br>AU-NSW<br>Sydney | [**Opal**](https://www.opal.com.au/ordercard)<br>-<br>DESFire EV1 4k | - | `####`<br>- | -<br>-<br>- |
+| **TPE**<br>TW-TPE<br>Taipei | [**一卡通**](https://www.i-pass.com.tw/en/Page/StandardAdult)<br>-<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
+| **TPE**<br>TW-TPE<br>Taipei | [**一卡通 PLUS**](https://www.i-pass.com.tw/en/Page/StandardAdult)<br>-<br>Plus EV2 2k | - | -<br>- | -<br>-<br>- |
+| **YKF**<br>CA-ON<br>Kitchener | [**EasyGO**](https://forms.regionofwaterloo.ca/grt/ePay/PRODUCTION-FORMS-LIVE/Order-a-new-EasyGO-fare-card)<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
+| **YVR**<br>CA-BC<br>Vancouver | [**Compass**](https://www.compasscard.ca/OrderCard)<br>-<br>DESFire EV1 4k | UPC A | `###`<br>- | -<br>-<br>- | 
+| **YVR**<br>CA-BC<br>Vancouver | [**Compass**](https://www.compasscard.ca/OrderCard)<br>[*Mini*](https://www.translink.ca/transit-fares/compass-card)<br>DESFire EV1 4k | - | `###`<br>- | -<br>-<br>- |
+| **YVR**<br>CA-BC<br>Vancouver | [**Compass**](https://www.compasscard.ca/OrderCard)<br>[*Wristband*](https://www.translink.ca/transit-fares/compass-card)<br>DESFire EV1 8k | - | -<br>- | -<br>-<br>- |
 | **YYZ**<br>CA-ON<br>Toronto | **PRESTO**<br>-<br>DESFire EV1 4k | - | `###`<br>`P` | `DD/MM/YYYY`<br>-<br>- |
-| **ZAG**<br>HR-21<br>Zagreb | **Vrijednosna Karta**<br>-<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
+| **ZAG**<br>HR-21<br>Zagreb | [**Vrijednosna Karta**](https://www.zet.hr/tickets-and-fares/stored-value-card-and-multi-day-ticket/604)<br>-<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
 
 > [!NOTE]
 >
@@ -192,15 +193,16 @@ A public GitHub repository containing information about public transport cards.
 > 14. **KUL Touch n' Go Enhanced**'s QR Code directs commuters to download their [**eWallet App**](https://cdn.tngdigital.com.my/s/landing/index.html).
 > 15. **IST İstanbulkart** in English is `Istanbul Card`.
 > 16. **IST İstanbulkart**'s QR Code contains the card number, UID, and [**their website**](https://www.istanbulkart.istanbul).
-> 17. **MAD Tarjeta Transporte Público** in English is `Public Transport Card`.
-> 18. **MEL myki** prints the commuter's name if it's registered and requested at the time of online purchase/replacement.
-> 19. **MNL TRIPKO** in English is `MYTRIP`.
-> 20. **SLC FAREPAY** is listed here *rather than in [**MIFARE-Based Tickets**](#mifare-based-tickets)* because this card is reloadable.
-> 21. **TPE 一卡通** in English is `iPASS`.
-> 22. **YVR Compass Mini** and **YVR Compass Wearable** are only sold at Waterfront Station's TransLink Customer Service Centre.
-> 23. **YVR Compass Wearable**'s CVN is written on the issued receipt.
-> 24. **YYZ PRESTO**'s emboss is `P` in Braille.
-> 25. **ZAG Value Card** in English is `Value Card`.
+> 17. **LAX TAP** is an abbreviation for `Transit Access Pass`.
+> 18. **MAD Tarjeta Transporte Público** in English is `Public Transport Card`.
+> 19. **MEL myki** prints the commuter's name if it's registered and requested at the time of online purchase/replacement.
+> 20. **MNL TRIPKO** in English is `MYTRIP`.
+> 21. **SLC FAREPAY** is listed here *rather than in [**MIFARE-Based Tickets**](#mifare-based-tickets)* because this card is reloadable.
+> 22. **TPE 一卡通** in English is `iPASS`.
+> 23. **YVR Compass Mini** and **YVR Compass Wearable** are only sold at Waterfront Station's TransLink Customer Service Centre.
+> 24. **YVR Compass Wearable**'s CVN is written on the issued receipt.
+> 25. **YYZ PRESTO**'s emboss is `P` in Braille.
+> 26. **ZAG Value Card** in English is `Value Card`.
 
 - [**Back to PTDex**](#randys-public-transport-index-ptdex)
 
