@@ -34,10 +34,10 @@ A public GitHub repository containing information about public transport cards.
 ## Calypso Cards
 | IATA<br>ISO 3166-2<br>City | Name<br>Variant |
 | --- | --- |
-| **CDG**<br>FR-75C<br>Paris | **Navigo Easy** |
-| **CDG**<br>FR-75C<br>Paris | **Navigo Easy**<br>*Paris 2024* |
-| **NCE**<br>FR-06<br>Nice | **The Card**<br>*Solo Rescue* |
-| **YUL**<br>CA-QC<br>Montréal | **OPUS** |
+| **CDG**<br>FR-75C<br>Paris | [**Navigo Easy**](https://www.iledefrance-mobilites.fr/en/titres-et-tarifs/supports/passe-navigo-easy) |
+| **CDG**<br>FR-75C<br>Paris | [**Navigo Easy**](https://www.iledefrance-mobilites.fr/en/titres-et-tarifs/supports/passe-navigo-easy)<br>[*Paris 2024*](https://www.iledefrance-mobilites.fr/en/actualites/passe-paris-2024-transport-jo) |
+| **NCE**<br>FR-06<br>Nice | [**The Card**](https://www.lignesdazur.com/en/tickets-and-fares)<br>[*Solo Rescue*](https://www.lignesdazur.com/fr/solo-secours) |
+| **YUL**<br>CA-QC<br>Montréal | [**OPUS**](https://www.stm.info/en/info/fares/opus-cards-and-other-fare-media/opus-card#titre-h2-OPUS_card_purchase--1) |
 
 > [!NOTE]
 > 1. **NCE The Card** *Solo Rescue* in French is `La Carte - Solo Secours`.
@@ -49,29 +49,29 @@ A public GitHub repository containing information about public transport cards.
 ## Felicity Cards (*FeliCa*)
 | IATA<br>ISO 3166-2<br>City | Name<br>Native Name<br>Variant | Prefix<br>Colour<br>Notches | Manufacturer<br>ROM<br>IC | System | Service |
 | --- | --- | --- | --- | --- | --- |
-| **CTS**<br>JP-01<br>Hokkaido | **Kitaca**<br>-<br>- | JH<br>Silver<br>1 | 0101<br>05<br>31 (RC-S114) | 0003 | 008B<br>090F<br>108F<br>10CB<br>184B<br>208B<br>20CB<br>210B<br>214B<br>218B |
-| **FUK**<br>JP-40<br>Fukuoka | **Hayakaken**<br>はやかけん<br>- | FC<br>Silver<br>1 | 0101<br>05<br>31 (RC-S114) | 0003<br><br><br><br><br><br>FE00<br><br><br><br>927A | 008B<br>090F<br>108F<br>10CB<br><br>394B<br>398B<br>39C9<br><br>028B<br>02CB |
-| **FUK**<br>JP-40<br>Fukuoka | **Hayakaken**<br>はやかけん (いちょう)<br>*Ginkgo* | FC<br>Silver<br>1 | 0101<br>05<br>31 (RC-S114) | 0003<br><br><br><br><br><br>FE00<br><br><br><br>927A | 008B<br>090F<br>108F<br>10CB<br><br>394B<br>398B<br>39C9<br><br>028B<br>02CB |
-| **FUK**<br>JP-40<br>Fukuoka | **nimoca**<br>-<br>- | NR<br>Silver<br>1 | 0101<br>05<br>31 (RC-S114) | 0003 | 008B<br>090F<br>108F<br>10CB | 
-| **FUK**<br>JP-40<br>Fukuoka | **SUGOCA**<br>-<br>- | JK<br>Silver<br>1 | 0101<br>05<br>31 (RC-S114) | 0003 | 008B<br>090F<br>108F<br>10CB |
-| **FUK**<br>JP-40<br>Fukuoka | **SUGOCA**<br>-<br>*mono* | JK<br>Silver<br>1 | 0101<br>05<br>31 (RC-S114) | 0003<br><br><br><br><br><br><br>FE00 | 008B<br>090F<br>108F<br>10CB<br><br>394B<br>398B<br>39C9 |
-| **HKG**<br>CN-HK<br>Hong Kong | **Octopus**<br>迷你八達通<br>*Mini* | -<br>Black<br>0 | 0101<br>01<br>44 (RC-SA20/1) | 8008 | 0117<br>100B |
-| **HKG**<br>CN-HK<br>Hong Kong | **Octopus**<br>普通版八達通<br>*On-Loan* | -<br>Black<br>0 | 0101<br>03<br>32 (RC-SA00/1) | 8008 | 0117<br>100B |
-| **HKG**<br>CN-HK<br>Hong Kong | **Octopus**<br>八達通 – 全國通 (銷售版)<br>*Tourist T-Union* | -<br>White<br>0 | 0101<br>04<br>3B | 8008 | 0117<br>100B |
-| **HND**<br>JP-13<br>Tokyo | **PASMO**<br>-<br>- | PB<br>Silver<br>1 | 1201<br>05<br>31 (RC-S114) | 0003<br><br><br><br><br><br><br>FE00 | 008B<br>090F<br>108F<br>10CB<br><br>394B<br>398B<br>39C9 |
-| **HND**<br>JP-13<br>Tokyo | **Suica**<br>-<br>- | JE<br>Silver<br>1 | 1201/1401<br>05<br>31 (RC-S114) | 0003<br><br><br><br><br><br><br><br><br><br><br><br>FE00<br><br><br><br>86A7 | 008B<br>090F<br>108F<br>10CB<br>184B<br>194B<br>198B<br>234B<br>238B<br>23CB<br><br>394B<br>398B<br>39C9<br><br>004B<br>028B |
-| **HND**<br>JP-13<br>Tokyo | **Suica**<br>-<br>*Welcome* | JE<br>White<br>0 | 1001<br>05<br>31 (RC-S114) | 0003<br><br><br><br><br><br><br><br><br>FE00<br><br><br><br>86A7 | 008B<br>090F<br>108F<br>10CB<br>184B<br>194B<br>198B<br><br>394B<br>398B<br>39C9<br><br>004B<br>028B |
-| **KIX**<br>JP-27<br>Osaka | **ICOCA**<br>-<br>- | JW<br>Silver<br>1 | 0101<br>01<br>36 (RC-SA04/1) | 0003 | 008B<br>090F<br>108F<br>10CB |
-| **KIX**<br>JP-27<br>Osaka | **PiTaPa**<br>ピタパ<br>- | SU<br>Silver<br>1 | 1001<br>04<br>01 (RC-S915)  | 0003 | 008B<br>090F<br>108F<br>10CB |
-| **MYJ**<br>JP-38<br>Matsuyama | **ICOCA**<br>-<br>*Shikoku* | JW<br>Silver<br>2 | 1201<br>01<br>36 (RC-SA04/1)| 0003 | 008B<br>090F<br>108F<br>10CB |
-| **NGO**<br>JP-23<br>Nagoya | **manaca**<br>マナカ<br>*DO!* | TP<br>Silver<br>1 | 0101<br>05<br>31 (RC-S114) | 0003<br><br><br><br><br><br><br><br><br><br>FE00 | 008B<br>090F<br>108F<br>10CB<br>988B<br>98CF<br>998B<br><br>394B<br>398B<br>39C9 |
-| **NGO**<br>JP-23<br>Nagoya | **manaca**<br>マナカ<br>*μstar* | TP<br>Silver<br>1 | 0101<br>05<br>31 (RC-S114) | 0003<br><br><br><br><br><br><br><br><br><br>FE00 | 008B<br>090F<br>108F<br>10CB<br>988B<br>98CF<br>998B<br><br>394B<br>398B<br>39C9 |
-| **NGO**<br>JP-23<br>Nagoya | **TOICA**<br>-<br>- | JC<br>Silver<br>1 | 1201<br>01<br>36 (RC-SA04/1)| 0003 | 008B<br>090F<br>108F<br>10CB<br>184B<br>1E8B<br>1ECF |
-| **NGS**<br>JP-42<br>Nagasaki | **nimoca**<br>-<br>*nagasaki* | NR<br>Silver<br>1 | 1201<br>05<br>31 (RC-S114) | 0003 | 008B<br>090F<br>108F<br>10CB | 
-| **NGS**<br>JP-42<br>Nagasaki | **N+ Card**<br>エヌタスカード<br>- | KA<br>Silver<br>1 | 1001<br>01<br>36 (RC-SA04/1) | 93EC<br><br><br><br><br><br><br><br><br><br>FE00 | 204B<br>304B<br>408B<br>500B<br>700B<br>80CF<br>A8CF<br><br>394B<br>398B<br>39C9 |
-| **OKA**<br>JP-47<br>Okinawa | **OKICA**<br>-<br>- | OK<br>White<br>2 | 1601<br>01<br>20 (RC-S962) | 8FC1<br><br><br><br><br><br>FE00  | 028F<br>050F<br>060B<br><br>394B<br>398B<br>39C9 |
-| **QGU**<br>JP-21<br>Gifu | **ayuca**<br>アユカ<br>- | GB<br>White<br>0 | 1201<br>01<br>36 (RC-SA04/1) | 83EE | 804B<br>884B<br>898F<br>924B | 
-| **SIN**<br>SG-01<br>Singapore | **EZ-Link**<br>-<br>- | -<br>Blue<br>0 | 0101<br>03<br>00 (RC-S830) | 0102 | - |
+| **CTS**<br>JP-01<br>Hokkaido | [**Kitaca**](https://www.jrhokkaido.co.jp/global/english/ticket/kitaca/kitaca02.html)<br>-<br>- | JH<br>Silver<br>1 | 0101<br>05<br>31 (RC-S114) | 0003 | 008B<br>090F<br>108F<br>10CB<br>184B<br>208B<br>20CB<br>210B<br>214B<br>218B |
+| **FUK**<br>JP-40<br>Fukuoka | [**Hayakaken**](https://subway.city.fukuoka.lg.jp/eng/fare/one/#no02)<br>はやかけん<br>- | FC<br>Silver<br>1 | 0101<br>05<br>31 (RC-S114) | 0003<br><br><br><br><br><br>FE00<br><br><br><br>927A | 008B<br>090F<br>108F<br>10CB<br><br>394B<br>398B<br>39C9<br><br>028B<br>02CB |
+| **FUK**<br>JP-40<br>Fukuoka | [**Hayakaken**](https://subway.city.fukuoka.lg.jp/eng/fare/one/#no02)<br>はやかけん (いちょう)<br>*Ginkgo* | FC<br>Silver<br>1 | 0101<br>05<br>31 (RC-S114) | 0003<br><br><br><br><br><br>FE00<br><br><br><br>927A | 008B<br>090F<br>108F<br>10CB<br><br>394B<br>398B<br>39C9<br><br>028B<br>02CB |
+| **FUK**<br>JP-40<br>Fukuoka | [**nimoca**](https://www.nimoca.jp/language/en)<br>-<br>- | NR<br>Silver<br>1 | 0101<br>05<br>31 (RC-S114) | 0003 | 008B<br>090F<br>108F<br>10CB | 
+| **FUK**<br>JP-40<br>Fukuoka | [**SUGOCA**](https://www.jrkyushu.co.jp/sugoca/buy/new/)<br>-<br>- | JK<br>Silver<br>1 | 0101<br>05<br>31 (RC-S114) | 0003 | 008B<br>090F<br>108F<br>10CB |
+| **FUK**<br>JP-40<br>Fukuoka | [**SUGOCA**](https://www.jrkyushu.co.jp/sugoca/buy/new/)<br>-<br>[*mono*](https://www.kitakyushu-monorail.co.jp/fare/ic-card.php) | JK<br>Silver<br>1 | 0101<br>05<br>31 (RC-S114) | 0003<br><br><br><br><br><br><br>FE00 | 008B<br>090F<br>108F<br>10CB<br><br>394B<br>398B<br>39C9 |
+| **HKG**<br>CN-HK<br>Hong Kong | [**Octopus**](https://www.octopus.com.hk/en/consumer/tourist/channels/index.html)<br>迷你八達通<br>[*Mini*](https://www.octopus.com.hk/en/consumer/octopus-cards/products/sold-octopus/mini-octopus.html) | -<br>Black<br>0 | 0101<br>01<br>44 (RC-SA20/1) | 8008 | 0117<br>100B |
+| **HKG**<br>CN-HK<br>Hong Kong | [**Octopus**](https://www.octopus.com.hk/en/consumer/tourist/channels/index.html)<br>普通版八達通<br>[*On-Loan*](https://www.octopus.com.hk/en/consumer/octopus-cards/products/on-loan/standard.html) | -<br>Black<br>0 | 0101<br>03<br>32 (RC-SA00/1) | 8008 | 0117<br>100B |
+| **HKG**<br>CN-HK<br>Hong Kong | [**Octopus**](https://www.octopus.com.hk/en/consumer/tourist/channels/index.html)<br>八達通 – 全國通 (銷售版)<br>[*Tourist T-Union*](https://www.octopus.com.hk/en/consumer/octopus-cards/products/sold-tourist/mot.html) | -<br>White<br>0 | 0101<br>04<br>3B | 8008 | 0117<br>100B |
+| **HND**<br>JP-13<br>Tokyo | [**PASMO**](https://www.pasmo.co.jp/visitors/en/)<br>-<br>- | PB<br>Silver<br>1 | 1201<br>05<br>31 (RC-S114) | 0003<br><br><br><br><br><br><br>FE00 | 008B<br>090F<br>108F<br>10CB<br><br>394B<br>398B<br>39C9 |
+| **HND**<br>JP-13<br>Tokyo | [**Suica**](https://www.jreast.co.jp/en/multi/pass/suica.html)<br>-<br>- | JE<br>Silver<br>1 | 1201/1401<br>05<br>31 (RC-S114) | 0003<br><br><br><br><br><br><br><br><br><br><br><br>FE00<br><br><br><br>86A7 | 008B<br>090F<br>108F<br>10CB<br>184B<br>194B<br>198B<br>234B<br>238B<br>23CB<br><br>394B<br>398B<br>39C9<br><br>004B<br>028B |
+| **HND**<br>JP-13<br>Tokyo | [**Suica**](https://www.jreast.co.jp/en/multi/pass/suica.html)<br>-<br>[*Welcome*](https://www.jreast.co.jp/en/multi/welcomesuica/welcomesuica.html) | JE<br>White<br>0 | 1001<br>05<br>31 (RC-S114) | 0003<br><br><br><br><br><br><br><br><br>FE00<br><br><br><br>86A7 | 008B<br>090F<br>108F<br>10CB<br>184B<br>194B<br>198B<br><br>394B<br>398B<br>39C9<br><br>004B<br>028B |
+| **KIX**<br>JP-27<br>Osaka | [**ICOCA**](https://www.westjr.co.jp/global/en/howto/icoca/)<br>-<br>- | JW<br>Silver<br>1 | 0101<br>01<br>36 (RC-SA04/1) | 0003 | 008B<br>090F<br>108F<br>10CB |
+| **KIX**<br>JP-27<br>Osaka | [**PiTaPa**](https://www.pitapa.com/link/card_lineup)<br>ピタパ<br>- | SU<br>Silver<br>1 | 1001<br>04<br>01 (RC-S915)  | 0003 | 008B<br>090F<br>108F<br>10CB |
+| **MYJ**<br>JP-38<br>Matsuyama | [**ICOCA**](https://www.jr-shikoku.co.jp/icoca/icoca01-type.html)<br>-<br>*Shikoku* | JW<br>Silver<br>2 | 1201<br>01<br>36 (RC-SA04/1)| 0003 | 008B<br>090F<br>108F<br>10CB |
+| **NGO**<br>JP-23<br>Nagoya | [**manaca**](https://manaca.jp/)<br>マナカ<br>[*DO!*](https://www.kotsu.city.nagoya.jp/rp/ticket/trp0000775.htm) | TP<br>Silver<br>1 | 0101<br>05<br>31 (RC-S114) | 0003<br><br><br><br><br><br><br><br><br><br>FE00 | 008B<br>090F<br>108F<br>10CB<br>988B<br>98CF<br>998B<br><br>394B<br>398B<br>39C9 |
+| **NGO**<br>JP-23<br>Nagoya | [**manaca**](https://manaca.jp/)<br>マナカ<br>[*μstar*](https://www.meitetsu-bus.co.jp/rosen/manaca/type/0) | TP<br>Silver<br>1 | 0101<br>05<br>31 (RC-S114) | 0003<br><br><br><br><br><br><br><br><br><br>FE00 | 008B<br>090F<br>108F<br>10CB<br>988B<br>98CF<br>998B<br><br>394B<br>398B<br>39C9 |
+| **NGO**<br>JP-23<br>Nagoya | [**TOICA**](https://global.jr-central.co.jp/en/tickets/buy/toica/)<br>-<br>- | JC<br>Silver<br>1 | 1201<br>01<br>36 (RC-SA04/1)| 0003 | 008B<br>090F<br>108F<br>10CB<br>184B<br>1E8B<br>1ECF |
+| **NGS**<br>JP-42<br>Nagasaki | [**nimoca**](https://www.nimoca.jp/language/en)<br>-<br>*nagasaki* | NR<br>Silver<br>1 | 1201<br>05<br>31 (RC-S114) | 0003 | 008B<br>090F<br>108F<br>10CB | 
+| **NGS**<br>JP-42<br>Nagasaki | [**N+ Card**](https://www.ntasu.co.jp/card_apply)<br>エヌタスカード<br>- | KA<br>Silver<br>1 | 1001<br>01<br>36 (RC-SA04/1) | 93EC<br><br><br><br><br><br><br><br><br><br>FE00 | 204B<br>304B<br>408B<br>500B<br>700B<br>80CF<br>A8CF<br><br>394B<br>398B<br>39C9 |
+| **OKA**<br>JP-47<br>Okinawa | [**OKICA**](https://info.okica.jp/buy.html)<br>-<br>- | OK<br>White<br>2 | 1601<br>01<br>20 (RC-S962) | 8FC1<br><br><br><br><br><br>FE00  | 028F<br>050F<br>060B<br><br>394B<br>398B<br>39C9 |
+| **QGU**<br>JP-21<br>Gifu | [**ayuca**](https://www.gifubus.co.jp/info/post728)<br>アユカ<br>- | GB<br>White<br>0 | 1201<br>01<br>36 (RC-SA04/1) | 83EE | 804B<br>884B<br>898F<br>924B | 
+| **SIN**<br>SG-01<br>Singapore | [**EZ-Link**](https://ezlink.simplygo.com.sg/card-charm/ezlink/)<br>-<br>- | -<br>Blue<br>0 | 0101<br>03<br>00 (RC-S830) | 0102 | - |
 
 > [!NOTE]
 > 1. **HKG Octopus Tourist T-Union** is a dual-tech card.
@@ -127,7 +127,7 @@ A public GitHub repository containing information about public transport cards.
 | **IAD**<br>US-DC<br>Washington, D.C. | [**SmarTrip**](https://smarttrip.wmata.com/Storefront)<br>-<br>Plus X 2k | - | -<br>- | -<br>-<br>- |
 | **IAH**<br>US-TX<br>Houston | [**RideMetro**](https://fares.ridemetro.org/ridemetro-card-app/order-a-card/)<br>-<br>DESFire EV1 256b | UPC A<br>128 | `###`<br>- | -<br>Yes<br>- |
 | **IST**<br>TR-34<br>İstanbul | [**İstanbulkart**](https://www.istanbulkart.istanbul/OurCards)<br>-<br>DESFire EV3 2k | QR | -<br>- | -<br>-<br>- |
-| **ITH**<br>US-NY<br>Ithaca | [**Genfare e-Fare**](https://genfare.com/products/e-fare/)<br>-<br>DESFire EV1 4k | [*Tcard*](https://tcat-prod.gfcp.io/efare/store/loadProducts) | -<br>- | -<br>-<br>- |
+| **ITH**<br>US-NY<br>Ithaca | [**Genfare e-Fare**](https://genfare.com/products/e-fare/)<br>[*Tcard*](https://tcat-prod.gfcp.io/efare/store/loadProducts)<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **JFK**<br>US-NY<br>New York City | [**OMNY**](https://omny.info/omny-card)<br>-<br>DESFire EV2 16k | 128 | `###`<br>- | `MM/YY`<br>-<br>- |
 | **KUL**<br>MY-14<br>Kuala Lumpur | [**Touch 'n Go**](https://www.touchngo.com.my/consumer/toll/card/)<br>[*Classic*](https://www.touchngo.com.my/consumer/toll/card/classic-card/)<br>Plus 4k | - | -<br>- | `MM/YY`<br>-<br>- |
 | **KUL**<br>MY-14<br>Kuala Lumpur | [**Touch 'n Go**](https://www.touchngo.com.my/consumer/toll/card/)<br>[*Enhanced*](https://shop.touchngo.com.my/touch-n-go-enhanced-nfc.html)<br>Plus EV2 4k | QR | -<br>- | `MM/YY`<br>-<br>- | 
@@ -212,22 +212,22 @@ A public GitHub repository containing information about public transport cards.
 ## MIFARE-Based Tickets
 | IATA<br>ISO 3166-2<br>City | Name<br>Technology | Code | CCV/CVN<br>Emboss | Expiry Time<br>Expiry Date | Magnetic Stripe<br>Printed Name |
 | --- | --- | --- | --- | --- | --- |
-| **AMS**<br>NL-NH<br>Amsterdam | **GVB 24 Hours Ticket**<br>Ultralight EV1 | UPC A | -<br>- | -<br>`31/12/YYYY` | -<br>- |
-| **AMS**<br>NL-NH<br>Amsterdam | **NS 1 Day Ticket**<br>Ultralight EV1 | - | -<br>- | -<br>`31/12/YYYY` | -<br>- |
-| **ATL**<br>US-GA<br>Atlanta | **breeze Ticket**<br>Ultralight C | - | -<br>- | -<br> - | -<br>- |
-| **BKK**<br>TH-10<br>Bangkok | **BTS Ticket**<br> Ultralight C | QR | -<br>- | -<br>- | -<br>- |
-| **BKK**<br>TH-10<br>Bangkok | **EBM Ticket**<br> Ultralight C | QR | -<br>- | -<br>- | -<br>- |
-| **DOH**<br>QA-DA<br>Doha | **Day Pass**<br>Ultralight EV1 | - | -<br>- | `02:58`<br>`DD MMM YYYY` | -<br>- |
-| **GLA**<br>GB-GLG<br>Glasgow | **SPT Ticket**<br>Ultralight | - | -<br>- | -<br>- | -<br>- |
-| **HKG**<br>CN-HK<br>Hong Kong | **MTR Ticket**<br>Ultralight C | 128 | -<br>- | -<br>- | -<br>- |
-| **LHR**<br>GB-LND<br>London | **oyster**<br>Classic EV1 | - | -<br>- | -<br>- | -<br>- |
-| **MNL**<br>PH-00<br>Manila | **LRT Ticket**<br>Ultralight C | - | -<br>- | -<br>- | -<br>- |
-| **MNL**<br>PH-00<br>Manila | **MRT Ticket**<br>Ultralight C | - | -<br>- | -<br>- | -<br>- |
-| **OPO**<br>PT-13<br>Porto | **Adante Tour 1**<br>Ultralight EV1 | - | -<br>- | -<br>- | -<br>- |
-| **ORD**<br>US-IL<br>Chicago | **Ticket**<br>Ultralight EV1 | - | -<br>- | -<br>- | -<br>- |
-| **SYD**<br>AU-NSW<br>Sydney | **Ticket**<br>Ultralight C | - | -<br>- | `4am`<br>`DD.MM.YYYY` | -<br>- |
-| **YUL**<br>CA-QC<br>Montréal | **The Occasional**<br>Ultralight EV1 | - | -<br>- | -<br>- | -<br>- |
-| **YVR**<br>CA-BC<br>Vancouver | **Ticket**<br>Ultralight EV1 | - | -<br>- | -<br>- | -<br>- |
+| **AMS**<br>NL-NH<br>Amsterdam | [**GVB 24 Hours Ticket**](https://www.gvb.nl/en/travel-products/hour-and-day-tickets/gvb-day-ticket)<br>Ultralight EV1 | UPC A | -<br>- | -<br>`31/12/YYYY` | -<br>- |
+| **AMS**<br>NL-NH<br>Amsterdam | [**NS 1 Day Ticket**](https://www.ns.nl/en/tickets/day-return)<br>Ultralight EV1 | - | -<br>- | -<br>`31/12/YYYY` | -<br>- |
+| **ATL**<br>US-GA<br>Atlanta | [**breeze Ticket**](https://itsmarta.com/breeze-tickets.aspx)<br>Ultralight C | - | -<br>- | -<br> - | -<br>- |
+| **BKK**<br>TH-10<br>Bangkok | [**BTS Ticket**](https://www.bts.co.th/eng/tickets/ticket-journey.html)<br> Ultralight C | QR | -<br>- | -<br>- | -<br>- |
+| **BKK**<br>TH-10<br>Bangkok | [**EBM Ticket**](https://ebm.co.th/en/ticket-journey/)<br> Ultralight C | QR | -<br>- | -<br>- | -<br>- |
+| **DOH**<br>QA-DA<br>Doha | [**Day Pass**](https://www.qr.com.qa/fares-and-travel-cards)<br>Ultralight EV1 | - | -<br>- | `02:58`<br>`DD MMM YYYY` | -<br>- |
+| **GLA**<br>GB-GLG<br>Glasgow | [**SPT Ticket**](https://www.spt.co.uk/tickets/subway-tickets/)<br>Ultralight | - | -<br>- | -<br>- | -<br>- |
+| **HKG**<br>CN-HK<br>Hong Kong | [**MTR Ticket**](https://www.mtr.com.hk/en/customer/tickets/promotions_4persons.html)<br>Ultralight C | 128 | -<br>- | -<br>- | -<br>- |
+| **LHR**<br>GB-LND<br>London | [**oyster**](https://tfl.gov.uk/fares/ways-to-pay/bus-and-tram-pass)<br>Classic EV1 | - | -<br>- | -<br>- | -<br>- |
+| **MNL**<br>PH-00<br>Manila | [**LRT Ticket**](https://www.lrta.gov.ph/tickets-and-fares/)<br>Ultralight C | - | -<br>- | -<br>- | -<br>- |
+| **MNL**<br>PH-00<br>Manila | [**MRT Ticket**](https://www.dotrmrt3.gov.ph)<br>Ultralight C | - | -<br>- | -<br>- | -<br>- |
+| **OPO**<br>PT-13<br>Porto | [**Adante Tour 1**](https://andante.pt/en/purchase/andante-tour/)<br>Ultralight EV1 | - | -<br>- | -<br>- | -<br>- |
+| **ORD**<br>US-IL<br>Chicago | [**Ticket**](https://www.transitchicago.com/fares/)<br>Ultralight EV1 | - | -<br>- | -<br>- | -<br>- |
+| **SYD**<br>AU-NSW<br>Sydney | [**Ticket**](https://transportnsw.info/tickets-fares/fares/opal-single-tickets)<br>Ultralight C | - | -<br>- | `4am`<br>`DD.MM.YYYY` | -<br>- |
+| **YUL**<br>CA-QC<br>Montréal | [**The Occasional**](https://www.stm.info/en/info/fares/opus-cards-and-other-fare-media/occasional-card)<br>Ultralight EV1 | - | -<br>- | -<br>- | -<br>- |
+| **YVR**<br>CA-BC<br>Vancouver | [**Ticket**](https://www.translink.ca/transit-fares/where-to-buy#compass-tickets)<br>Ultralight EV1 | - | -<br>- | -<br>- | -<br>- |
 | **YYZ**<br>CA-ON<br>Toronto | [**PRESTO TTC Ticket**](https://prestocard.ca/en/products/presto-ttc-tickets)<br>Ultralight C | - | -<br>- | -<br>- | -<br>- |
 
 > [!NOTE]
