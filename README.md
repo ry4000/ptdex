@@ -132,6 +132,7 @@ A public GitHub repository containing information about public transport cards.
 | **IST**<br>TR-34<br>İstanbul | [**İstanbulkart**](https://www.istanbulkart.istanbul/OurCards)<br>-<br>DESFire EV3 2k | QR | -<br>- | -<br>-<br>- |
 | **ITH**<br>US-NY<br>Ithaca | [**Genfare e-Fare**](https://genfare.com/products/e-fare/)<br>[*Tcard*](https://tcat-prod.gfcp.io/efare/store/loadProducts)<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **JFK**<br>US-NY<br>New York City | [**OMNY**](https://omny.info/omny-card)<br>-<br>DESFire EV2 16k | 128 | `###`<br>- | `MM/YY`<br>-<br>- |
+| **JVL**<br>US-WI<br>Janesville | [**MyJTS**](https://www.janesvillewi.gov/departments-services/neighborhood-and-community-services/bus-transit-jts/myjts)<br>-<br>DESFire EV1 4k | - | `###`<br>- | -<br>-<br>- |
 | **KUL**<br>MY-14<br>Kuala Lumpur | [**Touch 'n Go**](https://www.touchngo.com.my/consumer/toll/card/)<br>[*Classic*](https://www.touchngo.com.my/consumer/toll/card/classic-card/)<br>Plus 4k | - | -<br>- | `MM/YY`<br>-<br>- |
 | **KUL**<br>MY-14<br>Kuala Lumpur | [**Touch 'n Go**](https://www.touchngo.com.my/consumer/toll/card/)<br>[*Enhanced*](https://shop.touchngo.com.my/touch-n-go-enhanced-nfc.html)<br>Plus EV2 4k | QR | -<br>- | `MM/YY`<br>-<br>- | 
 | **LAX**<br>US-CA<br>Los Angeles | [**TAP**](https://www.taptogo.net/TAPPurchase)<br>-<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
@@ -175,6 +176,7 @@ A public GitHub repository containing information about public transport cards.
 | **YVR**<br>CA-BC<br>Vancouver | [**Compass**](https://www.compasscard.ca/OrderCard)<br>-<br>DESFire EV1 4k | UPC A | `###`<br>- | -<br>-<br>- | 
 | **YVR**<br>CA-BC<br>Vancouver | [**Compass**](https://www.compasscard.ca/OrderCard)<br>[*Mini*](https://www.translink.ca/transit-fares/compass-card)<br>DESFire EV1 4k | - | `###`<br>- | -<br>-<br>- |
 | **YVR**<br>CA-BC<br>Vancouver | [**Compass**](https://www.compasscard.ca/OrderCard)<br>[*Wristband*](https://www.translink.ca/transit-fares/compass-card)<br>DESFire EV1 8k | - | -<br>- | -<br>-<br>- |
+| **YWG**<br>CA-MN<br>Winnipeg | [**peggo**](https://www.winnipeg.ca/services-programs/transportation-roads-parking/transit/fares/where-buy-transit-fares)<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **YYZ**<br>CA-ON<br>Toronto | [**PRESTO**](https://www.prestocard.ca/en/products/physical-presto-card)<br>-<br>DESFire EV1 4k | - | `###`<br>`P` | `DD/MM/YYYY`<br>-<br>- |
 | **ZAG**<br>HR-21<br>Zagreb | [**Vrijednosna Karta**](https://www.zet.hr/tickets-and-fares/stored-value-card-and-multi-day-ticket/604)<br>-<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
 
