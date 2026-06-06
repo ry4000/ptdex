@@ -105,6 +105,7 @@ A public GitHub repository containing information about public transport cards.
 | **BLI**<br>US-WA<br>Bellingham | [**Cubic Umo**](https://umomobility.com/)<br>-<br>DESFire EV2 2k | 128 | -<br>- | -<br>Yes<br>- |
 | **BNE**<br>AU-QLD<br>Brisbane | [**go**](https://gocard.translink.com.au/webtix/tickets-and-fares/go-card/online/buy/step-one)<br>-<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
 | **BOS**<br>US-MA<br>Boston | [**CharlieCard**](https://www.mbta.com/fares/charliecard)<br>-<br>Classic 1k | - | -<br>- | `MM/YY`<br>-<br>- |
+| **BTV**<br>US-VT<br>Burlington | [**Ride Ready by GMT Smart Card**](https://ridegmt.com/gmt-smartcard/)<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **BRS**<br>GB-BST<br>Bristol | [**ITSO**](https://www.itso.org.uk/)<br>*touch*<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>Yes |
 | **CAK**<br>US-OH<br>Canton | [**Genfare e-Fare**](https://genfare.com/products/e-fare/)<br>*SCORE*<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **CBR**<br>AU-ACT<br>Canberra | [**MyWay+**](https://mywayplus.transport.act.gov.au/core/buy-card)<br>-<br>DESFire Light | QR | `###`<br>`T` | -<br>-<br>- |
