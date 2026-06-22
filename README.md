@@ -29,7 +29,7 @@ A public GitHub repository containing information about public transport cards.
 > - [**Flipper Devices**](https://discord.gg/flipper)
 > - [**Marine Biologist Lab**](https://discord.gg/vUVK5naagd)
 > - [**Metroflip**](https://discord.gg/NR5hhbAXqS)
-> - [**RFID Love by Iceman**](https://discord.gg/iceman)
+> - [**🔒 RFID Love by Iceman**](https://discord.gg/iceman)
 
 ---
 ## Calypso Cards
