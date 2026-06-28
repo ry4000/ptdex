@@ -1,6 +1,5 @@
 # randy's Public Transport Index (*PTDex*)
 A public GitHub repository containing information about public transport cards.
-- [randy's Public Transport Index (*PTDex*)](#randys-public-transport-index-ptdex)
 - [Calypso Cards](#calypso-cards)
 - [Felicity Cards (*FeliCa*)](#felicity-cards-felica)
 - [MIFARE-Based Cards](#mifare-based-cards)
@@ -37,7 +36,7 @@ A public GitHub repository containing information about public transport cards.
 | IATA<br>ISO 3166-2<br>City | Name<br>Variant |
 | --- | --- |
 | **BOD**<br>FR-NAQ<br>Nouvelle-Aquitaine | [**MODALIS**](https://modalis.fr/carte-modalis/) |
-| **BRU**<br>BE<br>Brussels | [**MOBiB**](https://www.stib-mivb.be/buy/all-your-journeys-with-mobib) |
+| **BRU**<br>BE-BRU<br>Brussels | [**MOBiB**](https://www.stib-mivb.be/buy/all-your-journeys-with-mobib) |
 | **CDG**<br>FR-75C<br>Paris | [**Navigo**](https://www.iledefrance-mobilites.fr/en/titres-et-tarifs/supports/passe-navigo) |
 | **CDG**<br>FR-75C<br>Paris | [**Navigo Découverte**](https://www.iledefrance-mobilites.fr/en/titres-et-tarifs/supports/passe-navigo-decouverte) |
 | **CDG**<br>FR-75C<br>Paris | [**Navigo Easy**](https://www.iledefrance-mobilites.fr/en/titres-et-tarifs/supports/passe-navigo-easy) |
