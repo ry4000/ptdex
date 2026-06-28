@@ -182,7 +182,8 @@ A public GitHub repository containing information about public transport cards.
 | **YVR**<br>CA-BC<br>Vancouver | [**Compass**](https://www.compasscard.ca/OrderCard)<br>[*Mini*](https://www.translink.ca/transit-fares/compass-card)<br>DESFire EV1 4k | - | `###`<br>- | -<br>-<br>- |
 | **YVR**<br>CA-BC<br>Vancouver | [**Compass**](https://www.compasscard.ca/OrderCard)<br>[*Wristband*](https://www.translink.ca/transit-fares/compass-card)<br>DESFire EV1 8k | - | -<br>- | -<br>-<br>- |
 | **YWG**<br>CA-MN<br>Winnipeg | [**peggo**](https://www.winnipeg.ca/services-programs/transportation-roads-parking/transit/fares/where-buy-transit-fares)<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
-| **YYZ**<br>CA-ON<br>Toronto | [**PRESTO**](https://www.prestocard.ca/en/products/physical-presto-card)<br>-<br>DESFire EV1 4k | - | `###`<br>`P` | `DD/MM/YYYY`<br>-<br>- |
+| **YYZ**<br>CA-ON<br>Toronto | [**PRESTO**](https://www.prestocard.ca/en/products/physical-presto-card)<br>-<br>DESFire EV1 4k | - | `###`<br>`P` | -<br>-<br>- |
+| **YYZ**<br>CA-ON<br>Toronto | [**PRESTO**](https://www.prestocard.ca/en/products/physical-presto-card)<br>[*Commemorative*](https://www.metrolinx.com/en/news/mark-this-summers-biggest-tournament-with-a-limited-edition-presto-commemorative-card)<br>DESFire EV1 4k | - | `###`<br>`P` | -<br>-<br>- |
 | **ZAG**<br>HR-21<br>Zagreb | [**Vrijednosna Karta**](https://www.zet.hr/tickets-and-fares/stored-value-card-and-multi-day-ticket/604)<br>-<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
 
 > [!NOTE]
@@ -213,8 +214,10 @@ A public GitHub repository containing information about public transport cards.
 > 24. **TPE 一卡通** in English is `iPASS`.
 > 25. **YVR Compass Mini** and **YVR Compass Wearable** are only sold at Waterfront Station's TransLink Customer Service Centre.
 > 26. **YVR Compass Wearable**'s CVN is written on the issued receipt.
-> 27. **YYZ PRESTO**'s emboss is `P` in Braille.
-> 28. **ZAG Value Card** in English is `Value Card`.
+> 27. **YYZ PRESTO**'s emboss is `P` in Braille and only appears on some PRESTO batches.
+> 28. **YYZ PRESTO**'s printed date is the production date *not the expiry date*.
+> 29. **YYZ PRESTO Commemorative**'s limited-edition design is soccer-themed; other limited-edition designs have been issued.
+> 30. **ZAG Value Card** in English is `Value Card`.
 
 - [**Back to PTDex**](#randys-public-transport-index-ptdex)
 
