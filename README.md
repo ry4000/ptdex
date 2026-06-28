@@ -1,9 +1,10 @@
 # randy's Public Transport Index (*PTDex*)
 A public GitHub repository containing information about public transport cards.
-- [**Calypso Cards**](#calypso-cards)
-- [**Felicity Cards (FeliCa)**](#felicity-cards-felica)
-- [**MIFARE-Based Cards**](#mifare-based-cards)
-- [**MIFARE-Based Tickets**](#mifare-based-tickets)
+- [randy's Public Transport Index (*PTDex*)](#randys-public-transport-index-ptdex)
+- [Calypso Cards](#calypso-cards)
+- [Felicity Cards (*FeliCa*)](#felicity-cards-felica)
+- [MIFARE-Based Cards](#mifare-based-cards)
+- [MIFARE-Based Tickets](#mifare-based-tickets)
   
 > [!IMPORTANT]
 >
@@ -35,10 +36,22 @@ A public GitHub repository containing information about public transport cards.
 ## Calypso Cards
 | IATA<br>ISO 3166-2<br>City | Name<br>Variant |
 | --- | --- |
+| **BOD**<br>FR-NAQ<br>Nouvelle-Aquitaine | [**MODALIS**](https://modalis.fr/carte-modalis/) |
+| **BRU**<br>BE<br>Brussels | [**MOBiB**](https://www.stib-mivb.be/buy/all-your-journeys-with-mobib) |
+| **CDG**<br>FR-75C<br>Paris | [**Navigo**](https://www.iledefrance-mobilites.fr/en/titres-et-tarifs/supports/passe-navigo) |
+| **CDG**<br>FR-75C<br>Paris | [**Navigo Découverte**](https://www.iledefrance-mobilites.fr/en/titres-et-tarifs/supports/passe-navigo-decouverte) |
 | **CDG**<br>FR-75C<br>Paris | [**Navigo Easy**](https://www.iledefrance-mobilites.fr/en/titres-et-tarifs/supports/passe-navigo-easy) |
 | **CDG**<br>FR-75C<br>Paris | [**Navigo Easy**](https://www.iledefrance-mobilites.fr/en/titres-et-tarifs/supports/passe-navigo-easy)<br>[*Paris 2024*](https://www.iledefrance-mobilites.fr/en/actualites/passe-paris-2024-transport-jo) |
+| **DIJ**<br>FR-21<br>Dijon | [**DIVIA**](https://divia.fr) |
+| **LIN**<br>IT-MI<br>Milan | [**ATM**](https://www.atm.it/EN/VIAGGIACONNOI/ABBONAMENTI/Pages/Tesseraelettronic.aspx) |
+| **LIL**<br>FR-HDF<br>Hauts-de-France | [**PassPass**](https://www.passpass.fr) |
+| **LYS**<br>FR-ARA<br>Auvergne-Rhône-Alpes | [**OURA**](https://www.oura.com) |
 | **NCE**<br>FR-06<br>Nice | [**The Card**](https://www.lignesdazur.com/en/tickets-and-fares)<br>[*Solo Rescue*](https://www.lignesdazur.com/fr/solo-secours) |
+| **RNS**<br>FR-BRE<br>Bretagne | [**KorriGo**](https://korrigo.bzh) |
+| **SXB**<br>FR-GES<br>Grand-Est | [**Simplicités**](https://www.fluo.grandest.fr/carte-simplicites/) |
+| **TUF**<br>FR-CVL<br>Centre-Val de Loire | [**JVMalin**](https://www.jvmalin.fr/en/) |
 | **YUL**<br>CA-QC<br>Montréal | [**OPUS**](https://www.stm.info/en/info/fares/opus-cards-and-other-fare-media/opus-card#titre-h2-OPUS_card_purchase--1) |
+
 
 > [!NOTE]
 > 1. **NCE The Card** *Solo Rescue* in French is `La Carte - Solo Secours`.
