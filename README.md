@@ -183,7 +183,7 @@ A public GitHub repository containing information about public transport cards.
 | **YVR**<br>CA-BC<br>Vancouver | [**Compass**](https://www.compasscard.ca/OrderCard)<br>[*Wristband*](https://www.translink.ca/transit-fares/compass-card)<br>DESFire EV1 8k | - | -<br>- | -<br>-<br>- |
 | **YWG**<br>CA-MN<br>Winnipeg | [**peggo**](https://www.winnipeg.ca/services-programs/transportation-roads-parking/transit/fares/where-buy-transit-fares)<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **YYZ**<br>CA-ON<br>Toronto | [**PRESTO**](https://www.prestocard.ca/en/products/physical-presto-card)<br>-<br>DESFire EV1 4k | - | `###`<br>`P` | -<br>-<br>- |
-| **YYZ**<br>CA-ON<br>Toronto | [**PRESTO**](https://www.prestocard.ca/en/products/physical-presto-card)<br>[*Commemorative*](https://www.metrolinx.com/en/news/mark-this-summers-biggest-tournament-with-a-limited-edition-presto-commemorative-card)<br>DESFire EV1 4k | - | `###`<br>`P` | -<br>-<br>- |
+| **YYZ**<br>CA-ON<br>Toronto | [**PRESTO**](https://www.prestocard.ca/en/products/physical-presto-card)<br>[*Commemorative*](https://www.metrolinx.com/en/news/mark-this-summers-biggest-tournament-with-a-limited-edition-presto-commemorative-card)<br>DESFire EV1 4k | - | `###`<br>- | -<br>-<br>- |
 | **ZAG**<br>HR-21<br>Zagreb | [**Vrijednosna Karta**](https://www.zet.hr/tickets-and-fares/stored-value-card-and-multi-day-ticket/604)<br>-<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
 
 > [!NOTE]
