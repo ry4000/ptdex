@@ -27,6 +27,7 @@ A public GitHub repository containing information about public transport cards.
 >
 > Please join any of the below Discord Communities if you wish to mail randy a public transport card for PTDex:
 > - [**Flipper Devices**](https://discord.gg/flipper)
+>    - *Please ask to DM me first if you choose to join this Discord Community.*
 > - [**Marine Biologist Lab**](https://discord.gg/vUVK5naagd)
 > - [**Metroflip**](https://discord.gg/NR5hhbAXqS)
 > - [**🔒 RFID Love by Iceman**](https://discord.gg/iceman)
@@ -186,6 +187,7 @@ A public GitHub repository containing information about public transport cards.
 | **SMF**<br>US-CA<br>Sacramento | [**Connect**](https://www.connecttransitcard.com/Home/GetCard)<br>-<br>DESFire EV1 4k | - | `###`<br>- | -<br>-<br>- |
 | **SNA**<br>US-CA<br>Orange | [**Wave**](https://wave.octa.net/buy-card-online)<br>-<br>DESFire EV3 2k | UPC A<br>128 | `###`<br>- | -<br>Yes<br>- |
 | **SOU**<br>GB-STH<br>Southampton | [**ITSO**](https://www.itso.org.uk/)<br>[*touch*](https://auth.southwesternrailway.com/swr/registrations)<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>Yes |
+| **STL**<br>US-MO<br>St Louis | [**Masabi Justride**](https://www.masabi.com/justride)<br>[*RideOn*](https://www.metrostlouis.org/nextgenfare/)<br>DESFire EV3 2k | - | `###`<br>- | -<br>-<br>- |
 | **SYD**<br>AU-NSW<br>Sydney | [**Opal**](https://www.opal.com.au/ordercard)<br>-<br>DESFire EV1 4k | - | `####`<br>- | -<br>-<br>- |
 | **TPE**<br>TW-TPE<br>Taipei | [**一卡通**](https://www.i-pass.com.tw/en/Page/StandardAdult)<br>-<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
 | **TPE**<br>TW-TPE<br>Taipei | [**一卡通 PLUS**](https://www.i-pass.com.tw/en/Page/StandardAdult)<br>-<br>Plus EV2 2k | - | -<br>- | -<br>-<br>- |
