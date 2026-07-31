@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
 abstract: >-
   A publicly-accessible public transport repository that
-  provides basic/publicly available information about cards
-  personally collected/obtained from around the world.
+  provides basic/publicly available information about
+  public transport cards from around the world.
 authors:
 - given-names: "randy"
 date-released: 2025-06-18
