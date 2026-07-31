@@ -6,7 +6,7 @@ abstract: >-
   personally collected/obtained from around the world.
 authors:
 - given-names: "randy"
-date-released: 2025-06-18
+date-released: 2025-07-31
 keywords:
   - Public Transport
   - Radio Frequency Identification Document
@@ -16,4 +16,4 @@ repository-code: 'https://github.com/ry4000/ptdex'
 title: "Public Transport Index (PTDex)"
 type: dataset
 url: 'https://github.com/ry4000/ptdex/tree/main'
-version: 1.2026.0628
+version: 1.2026.0731
