@@ -1,9 +1,10 @@
 # randy's Public Transport Index (*PTDex*)
 A public GitHub repository containing information about public transport cards.
-- [Calypso Cards](#calypso-cards)
-- [Felicity Cards (*FeliCa*)](#felicity-cards-felica)
-- [MIFARE-Based Cards](#mifare-based-cards)
-- [MIFARE-Based Tickets](#mifare-based-tickets)
+- [**Calypso Cards**](#calypso-cards)
+- [**Felicity Cards** (*FeliCa*)](#felicity-cards-felica)
+- [**Java Cards**](#java-based-cards)
+- [**MIFARE Cards**](#mifare-based-cards)
+- [**MIFARE Tickets**](#mifare-based-tickets)
   
 > [!IMPORTANT]
 >
@@ -56,6 +57,8 @@ A public GitHub repository containing information about public transport cards.
 > [!NOTE]
 > 1. **NCE The Card** *Solo Rescue* in French is `La Carte - Solo Secours`.
 > 2. **NCE The Card** *Solo Rescue*'s QR Code is a shortened URL to download their [**Android App**](https://play.google.com/store/apps/details?id=eu.mobeepass.walletapplication).
+> 3. **YUL OPUS** also includes an ISO/IEC 7816-4 contact chip.
+> 4. **YUL OPUS** has the option to personalise the card with a name/photo for certain fare types.
 
 - [**Back to PTDex**](#randys-public-transport-index-ptdex)
 
@@ -101,6 +104,21 @@ A public GitHub repository containing information about public transport cards.
 > 8. **KIX PiTaPa** is a post-pay service within the [**PiTaPa**](https://www.pitapa.com) network.
 > 9. **KIX PiTaPa** is a pre-pay service within the rest of the [**NMUS**](https://en.wikipedia.org/wiki/Nationwide_Mutual_Usage_Service) network.
 > 10. **SIN EZ-Link** now uses the `Specification for Contactless e-Purse Application (CEPAS)` chip technology.
+
+- [**Back to PTDex**](#randys-public-transport-index-ptdex)
+
+---
+## Java-Based Cards
+| IATA<br>ISO 3166-2<br>City | Name<br>Variant<br>Card OS | Code | CCV/CVN<br>Emboss | Expiry Date<br>Magnetic Stripe<br>Printed Name |
+| --- | --- | --- | --- | --- |
+| **ATL**<br>US-GA<br>Atlanta | [**breeze**](https://itsmarta.com/betterbreeze.aspx)<br>*Gen 3 (Orange)*<br>G+D Sm@rtCafé | 128 | `###`<br>- | -<br>Yes<br>- |
+| **WLG**<br>NZ-WGN<br>Wellington | [**Snapper**](https://www.snapper.co.nz/)<br>*Gen 1a*<br>NXP JCOP 31 | - | `###`<br>- | -<br>-<br>- |
+| **WLG**<br>NZ-WGN<br>Wellington | [**Snapper**](https://www.snapper.co.nz/)<br>*Gen 1b*<br>NXP Java | - | `###`<br>- | -<br>-<br>- |
+> [!NOTE]
+> 1. This Section does not include [**MIFARE-Based Cards**](#mifare-based-cards)/[**MIFARE-Based Tickets](#mifare-based-tickets).
+> 2. **ATL breeze** *Gen 3 Orange* also includes an ISO/IEC 7816-4 contact chip.
+> 3. **WLG Snapper** uses a variant of T-money.
+> 4. **WLG Snapper** *Gen 1b* also includes an ISO/IEC 7816-4 contact chip.
 
 - [**Back to PTDex**](#randys-public-transport-index-ptdex)
 
@@ -164,9 +182,10 @@ A public GitHub repository containing information about public transport cards.
 | **MAN**<br>GB-MAN<br>Stockport | [**ITSO**](https://www.itso.org.uk)<br>[*StagecoachSmart*](https://www.stagecoachbus.com/promos-and-offers/national/stagecoachsmart)<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **MAD**<br>ES-MD<br>Madrid | [**Tarjeta Transporte Público**](https://crtm.es/billetes-y-tarifas/#Tarjetas)<br>-<br>DESFire EV3 4k | - | -<br>- | -<br>-<br>- |
 | **MEL**<br>AU-VIC<br>Melbourne | [**myki**](https://transport.vic.gov.au/manage-myki#buy/fare-type)<br>*Gen 2C (Purple)*<br>DESFire EV3 4k | - | -<br>- | -<br>-<br>Optional |
-| **MEL**<br>AU-VIC<br>Melbourne | [**myki**](https://transport.vic.gov.au/manage-myki#buy/fare-type)<br>*Gen 2C (Youth)*<br>DESFire EV3 4k | - | -<br>- | -<br>-<br>Optional |
+| **MEL**<br>AU-VIC<br>Melbourne | [**myki**](https://transport.vic.gov.au/manage-myki#buy/fare-type)<br>[*Gen 2C Youth (Charlie)*](https://transport.vic.gov.au/news-and-resources/campaigns/travel-freeeeeeeee)<br>DESFire EV3 4k | - | -<br>- | -<br>-<br>Optional |
 | **MIA**<br>US-FL<br>Miami | [**EASY Card**](https://transitstore.miamidade.gov)<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **MKE**<br>US-WI<br>Milwaukee | [**Cubic Umo**](https://umomobility.com)<br>[*WisGo*](https://www.ridemcts.com/fares/where-to-buy#Buy_Online)<br>DESFire EV3 2k | UPC A<br>128 | -<br>- | -<br>Yes<br>- |
+| **MLA**<br>MT-60<br>Valletta | [**tallinja**](https://www.publictransport.com.mt/)<br>[*Adult*](https://www.publictransport.com.mt/rates-offers-local/)<br>Plus EV2 2k | 128 | -<br>- | =<br>-<br>Yes |
 | **MNL**<br>PH-00<br>Manila | [**beep**](https://beep.com.ph/where-to-buy-a-beep-card)<br>-<br>DESFire EV1 8k | - | -<br>- | `MMM/YYYY`<br>-<br>- |
 | **MNL**<br>PH-00<br>Manila | [**TRIPKO**](https://www.tripko.com.ph)<br>-<br>DESFire EV3 2k | - | -<br>- | -<br>-<br>- |
 | **OMA**<br>US-NE<br>Omaha | [**Cubic Umo**](https://umomobility.com)<br>[*Umo*](https://www.ometro.com/umo)<br>DESFire EV2 2k | UPC A<br>128 | `###`<br>- | -<br>Yes<br>- |
@@ -184,11 +203,11 @@ A public GitHub repository containing information about public transport cards.
 | **SCL**<br>CL-RM<br>Santiago | [**bip!**](https://www.red.cl/en/rates-and-top-ups/bip-card)<br>-<br>Classic EV1 1k | 128 | -<br>- | -<br>-<br>- |
 | **SEA**<br>US-WA<br>Seattle | [**ORCA**](https://www.myorca.com/buy-online)<br>-<br>DESFire EV3 2k | 128 | `###`<br>- | -<br>-<br>- |
 | **SFO**<br>US-CA<br>San Francisco | [**Clipper**](https://www.clippercard.com/checkout-get)<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
-| **SLC**<br>US-UT<br>Salt Lake City | [**FAREPAY**](https://farepay.rideuta.com/cart/cart.html)<br>-<br>Ultralight | UPC A<br>128 | -<br>- | -<br>Yes<br>- |
+| **SLC**<br>US-UT<br>Salt Lake City | [**FAREPAY**](https://farepay.rideuta.com/cart/cart.html)<br>-<br>Ultralight C | UPC A<br>128 | -<br>- | -<br>Yes<br>- |
 | **SMF**<br>US-CA<br>Sacramento | [**Connect**](https://www.connecttransitcard.com/Home/GetCard)<br>-<br>DESFire EV1 4k | - | `###`<br>- | -<br>-<br>- |
 | **SNA**<br>US-CA<br>Orange | [**Wave**](https://wave.octa.net/buy-card-online)<br>-<br>DESFire EV3 2k | UPC A<br>128 | `###`<br>- | -<br>Yes<br>- |
 | **SOU**<br>GB-STH<br>Southampton | [**ITSO**](https://www.itso.org.uk/)<br>[*touch*](https://auth.southwesternrailway.com/swr/registrations)<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>Yes |
-| **STL**<br>US-MO<br>St Louis | [**Masabi Justride**](https://www.masabi.com/justride)<br>[*RideOn*](https://www.metrostlouis.org/nextgenfare/)<br>DESFire EV3 2k | - | `###`<br>- | -<br>-<br>- |
+| **STL**<br>US-MO<br>St Louis | [**Masabi Justride**](https://www.masabi.com/justride)<br>[*Ride On*](https://www.metrostlouis.org/nextgenfare/)<br>DESFire EV3 2k | - | `###`<br>- | -<br>-<br>- |
 | **SYD**<br>AU-NSW<br>Sydney | [**Opal**](https://www.opal.com.au/ordercard)<br>-<br>DESFire EV1 4k | - | `####`<br>- | -<br>-<br>- |
 | **TPE**<br>TW-TPE<br>Taipei | [**一卡通**](https://www.i-pass.com.tw/en/Page/StandardAdult)<br>-<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
 | **TPE**<br>TW-TPE<br>Taipei | [**一卡通 PLUS**](https://www.i-pass.com.tw/en/Page/StandardAdult)<br>-<br>Plus EV2 2k | - | -<br>- | -<br>-<br>- |
@@ -208,31 +227,34 @@ A public GitHub repository containing information about public transport cards.
 > 3. **AMS OV-chipkaart** is currently used across The Netherlands and is listed under its Capital City for `PTDex` purposes.
 > 4. **AMS OV-chipkaart** has a hologram that covers the entire back of the card.
 > 5. **AMS OV-chipkaart** *Anonymous* does not always have an EAN 13 barcode at the back.
-> 6. **ATL breeze** *Gen 2 Silver* are decommissioned in favour of EMV `Better Breeze`.
+> 6. **ATL breeze** *Gen 2 Silver* are decommissioned in favour of `breeze (Gen 3 Orange)`.
 > 7. **BGO Skyss Kort** in English is `Skyss Card`.
 > 8. **CBR MyWay+**'s emboss is dots in the shape of `T`.
 > 9. **CBR MyWay+**'s QR Code is text that shows a card prefix (`00001`), card number, and CCV.
-> 10. **CHC Metrocard**'s emboss is dots in the shape of `>`.
-> 11. **DEN MyRide** has added a `VanillaDirect` barcode to the back of the card since `Tuesday 2 December 2025`.
-> 12. **EWR SmartLink** is being phased out in favour of **EWR TAPP**.
-> 13. **EWR TAPP**'s `ISO-FID` is `3821`.
-> 14. **EWR TAPP**'s `ISO DF-Name` is `637001FF4F5454205631`.
-> 15. **EWR TAPP** is an abbreviation for `Total Access PATH Payment`.
-> 16. **KUL Touch n' Go Enhanced**'s QR Code directs commuters to download their [**eWallet App**](https://cdn.tngdigital.com.my/s/landing/index.html).
-> 17. **IST İstanbulkart** in English is `Istanbul Card`.
-> 18. **IST İstanbulkart**'s QR Code contains the card number, UID, and [**their website**](https://www.istanbulkart.istanbul).
-> 19. **LAX TAP** is an abbreviation for `Transit Access Pass`.
-> 20. **MAD Tarjeta Transporte Público** in English is `Public Transport Card`.
-> 21. **MEL myki** prints the commuter's name if it's registered and requested at the time of online purchase/replacement.
-> 22. **MNL TRIPKO** in English is `MYTRIP`.
-> 23. **SLC FAREPAY** is listed here *rather than in [**MIFARE-Based Tickets**](#mifare-based-tickets)* because this card is reloadable.
-> 24. **TPE 一卡通** in English is `iPASS`.
-> 25. **YVR Compass Mini** and **YVR Compass Wearable** are only sold at Waterfront Station's TransLink Customer Service Centre.
-> 26. **YVR Compass Wearable**'s CVN is written on the issued receipt.
-> 27. **YYZ PRESTO**'s emboss is `P` in Braille and only appears on some PRESTO batches.
-> 28. **YYZ PRESTO**'s printed date is the production date *not the expiry date*.
-> 29. **YYZ PRESTO Commemorative**'s limited-edition design is soccer-themed; other limited-edition designs have been issued.
-> 30. **ZAG Value Card** in English is `Value Card`.
+> 10. **CBR MyWay+** has `Random ID (RID)` enabled.
+> 11. **CHC Metrocard**'s emboss is dots in the shape of `>`.
+> 12. **DEN MyRide** has added a `VanillaDirect` barcode to the back of the card since `Tuesday 2 December 2025`.
+> 13. **EWR SmartLink** is being phased out in favour of **EWR TAPP**.
+> 14. **EWR TAPP**'s `ISO-FID` is `3821`.
+> 15. **EWR TAPP**'s `ISO DF-Name` is `637001FF4F5454205631`.
+> 16. **EWR TAPP** is an abbreviation for `Total Access PATH Payment`.
+> 17. **KUL Touch n' Go Enhanced**'s QR Code directs commuters to download their [**eWallet App**](https://cdn.tngdigital.com.my/s/landing/index.html).
+> 18. **IST İstanbulkart** in English is `Istanbul Card`.
+> 19. **IST İstanbulkart**'s QR Code contains the card number, UID, and [**their website**](https://www.istanbulkart.istanbul).
+> 20. **LAX TAP** is an abbreviation for `Transit Access Pass`.
+> 21. **MAD Tarjeta Transporte Público** in English is `Public Transport Card`.
+> 22. **MEL myki** prints the commuter's name if it's registered and requested at the time of online purchase/replacement.
+> 23. **MEL myki (Youth [Charlie])** is the winning Youth myki design for 2026; [**2027**](https://engage.vic.gov.au/youthmyki)'s design is to be announced in September 2026.
+> 24. **MLA tallinja Adult** requires [**registration**](https://www.publictransport.com.mt/personalised-tallinja-card/register-now/).
+> 25. **MNL TRIPKO** in English is `MYTRIP`.
+> 26. **SLC FAREPAY** is listed here *rather than in [**MIFARE-Based Tickets**](#mifare-based-tickets)* because this card is reloadable.
+> 27. **TPE 一卡通** in English is `iPASS`.
+> 28. **YVR Compass Mini** and **YVR Compass Wearable** are only sold at Waterfront Station's TransLink Customer Service Centre.
+> 29. **YVR Compass Wearable**'s CVN is written on the issued receipt.
+> 30. **YYZ PRESTO**'s emboss is `P` in Braille and only appears on some PRESTO batches.
+> 31. **YYZ PRESTO**'s printed date is the production date *not the expiry date*.
+> 32. **YYZ PRESTO Commemorative**'s limited-edition design is soccer-themed; other limited-edition designs have been issued.
+> 33. **ZAG Value Card** in English is `Value Card`.
 
 - [**Back to PTDex**](#randys-public-transport-index-ptdex)
 
@@ -240,22 +262,23 @@ A public GitHub repository containing information about public transport cards.
 ## MIFARE-Based Tickets
 | IATA<br>ISO 3166-2<br>City | Name<br>Technology | Code | CCV/CVN<br>Emboss | Expiry Time<br>Expiry Date | Magnetic Stripe<br>Printed Name |
 | --- | --- | --- | --- | --- | --- |
-| **AMS**<br>NL-NH<br>Amsterdam | [**GVB 24 Hours Ticket**](https://www.gvb.nl/en/travel-products/hour-and-day-tickets/gvb-day-ticket)<br>Ultralight EV1 | UPC A | -<br>- | -<br>`31/12/YYYY` | -<br>- |
-| **AMS**<br>NL-NH<br>Amsterdam | [**NS 1 Day Ticket**](https://www.ns.nl/en/tickets/day-return)<br>Ultralight EV1 | - | -<br>- | -<br>`31/12/YYYY` | -<br>- |
+| **AMS**<br>NL-NH<br>Amsterdam | [**GVB 24 Hours Ticket**](https://www.gvb.nl/en/travel-products/hour-and-day-tickets/gvb-day-ticket)<br>Ultralight EV1 48b | UPC A | -<br>- | -<br>`31/12/YYYY` | -<br>- |
+| **AMS**<br>NL-NH<br>Amsterdam | [**NS 1 Day Ticket**](https://www.ns.nl/en/tickets/day-return)<br>Ultralight EV1 48b | - | -<br>- | -<br>`31/12/YYYY` | -<br>- |
 | **ATL**<br>US-GA<br>Atlanta | [**breeze Ticket**](https://itsmarta.com/breeze-tickets.aspx)<br>Ultralight C | - | -<br>- | -<br> - | -<br>- |
 | **BKK**<br>TH-10<br>Bangkok | [**BTS Ticket**](https://www.bts.co.th/eng/tickets/ticket-journey.html)<br> Ultralight C | QR | -<br>- | -<br>- | -<br>- |
 | **BKK**<br>TH-10<br>Bangkok | [**EBM Ticket**](https://ebm.co.th/en/ticket-journey)<br> Ultralight C | QR | -<br>- | -<br>- | -<br>- |
-| **DOH**<br>QA-DA<br>Doha | [**Day Pass**](https://www.qr.com.qa/fares-and-travel-cards)<br>Ultralight EV1 | - | -<br>- | `02:58`<br>`DD MMM YYYY` | -<br>- |
-| **GLA**<br>GB-GLG<br>Glasgow | [**SPT Ticket**](https://www.spt.co.uk/tickets/subway-tickets)<br>Ultralight | - | -<br>- | -<br>- | -<br>- |
+| **DOH**<br>QA-DA<br>Doha | [**Day Pass**](https://www.qr.com.qa/fares-and-travel-cards)<br>Ultralight EV1 48b | - | -<br>- | `02:58`<br>`DD MMM YYYY` | -<br>- |
+| **GLA**<br>GB-GLG<br>Glasgow | [**SPT Ticket**](https://www.spt.co.uk/tickets/subway-tickets)<br>Ultralight 48b | - | -<br>- | -<br>- | -<br>- |
 | **HKG**<br>CN-HK<br>Hong Kong | [**MTR Ticket**](https://www.mtr.com.hk/en/customer/tickets/promotions_4persons.html)<br>Ultralight C | 128 | -<br>- | -<br>- | -<br>- |
 | **LHR**<br>GB-LND<br>London | [**oyster**](https://tfl.gov.uk/fares/ways-to-pay/bus-and-tram-pass)<br>Classic EV1 | - | -<br>- | -<br>- | -<br>- |
 | **MNL**<br>PH-00<br>Manila | [**LRT Ticket**](https://www.lrta.gov.ph/tickets-and-fares)<br>Ultralight C | - | -<br>- | -<br>- | -<br>- |
 | **MNL**<br>PH-00<br>Manila | [**MRT Ticket**](https://www.dotrmrt3.gov.ph)<br>Ultralight C | - | -<br>- | -<br>- | -<br>- |
-| **OPO**<br>PT-13<br>Porto | [**Adante Tour 1**](https://andante.pt/en/purchase/andante-tour)<br>Ultralight EV1 | - | -<br>- | -<br>- | -<br>- |
-| **ORD**<br>US-IL<br>Chicago | [**Ticket**](https://www.transitchicago.com/fares)<br>Ultralight EV1 | - | -<br>- | -<br>- | -<br>- |
+| **OPO**<br>PT-13<br>Porto | [**Adante Tour 1**](https://andante.pt/en/purchase/andante-tour)<br>Ultralight EV1 48b | - | -<br>- | -<br>- | -<br>- |
+| **ORD**<br>US-IL<br>Chicago | [**Ticket**](https://www.transitchicago.com/fares)<br>Ultralight EV1 48b | - | -<br>- | -<br>- | -<br>- |
+| **STL**<br>US-MO<br>St Louis | [**Ride On Pass**](https://www.metrostlouis.org/nextgenfare/)<br>Ultralight EV1 128b | - | -<br>- | -<br>`MM/DD/YYYY` | -<br>- |
 | **SYD**<br>AU-NSW<br>Sydney | [**Ticket**](https://transportnsw.info/tickets-fares/fares/opal-single-tickets)<br>Ultralight C | - | -<br>- | `4am`<br>`DD.MM.YYYY` | -<br>- |
-| **YUL**<br>CA-QC<br>Montréal | [**The Occasional**](https://www.stm.info/en/info/fares/opus-cards-and-other-fare-media/occasional-card)<br>Ultralight EV1 | - | -<br>- | -<br>- | -<br>- |
-| **YVR**<br>CA-BC<br>Vancouver | [**Ticket**](https://www.translink.ca/transit-fares/where-to-buy#compass-tickets)<br>Ultralight EV1 | - | -<br>- | -<br>- | -<br>- |
+| **YUL**<br>CA-QC<br>Montréal | [**The Occasional**](https://www.stm.info/en/info/fares/opus-cards-and-other-fare-media/occasional-card)<br>Ultralight EV1 48b | - | -<br>- | -<br>- | -<br>- |
+| **YVR**<br>CA-BC<br>Vancouver | [**Ticket**](https://www.translink.ca/transit-fares/where-to-buy#compass-tickets)<br>Ultralight EV1 48b | - | -<br>- | -<br>- | -<br>- |
 | **YYZ**<br>CA-ON<br>Toronto | [**PRESTO TTC Ticket**](https://prestocard.ca/en/products/presto-ttc-tickets)<br>Ultralight C | - | -<br>- | -<br>- | -<br>- |
 
 > [!NOTE]
@@ -266,8 +289,9 @@ A public GitHub repository containing information about public transport cards.
 > 4. **HKG MTR Ticket** is an [**Airport Express Group of 2/3/4 Single Journey Ticket Set**](https://www.mtr.com.hk/en/customer/tickets/promotions_4persons.html).
 > 5. **HKG MTR Ticket** in Chinese (Traditional) is `2/3/4人行-單程票`.
 > 6. **LHR oyster** is a [**One Day Bus and Tram Pass**](https://tfl.gov.uk/fares/ways-to-pay/bus-and-tram-pass).
-> 7. **SYD Ticket** expires at 4am the day after the purchase date.
-> 8. **YUL The Occasional** in French (Canada) is `L'occasionnelle`.
-> 9. **YYZ PRESTO Ticket** in French (Canada) is `PRESTO Billet`.
+> 7. **STL Ride On Pass**' `Expiry Date` refers to hard-coded expiry date rather than the activated expiry date.
+> 8. **SYD Ticket** expires at 4am the day after the purchase date.
+> 9. **YUL The Occasional** in French (Canada) is `L'occasionnelle`.
+> 10. **YYZ PRESTO Ticket** in French (Canada) is `PRESTO Billet`.
 
 - [**Back to PTDex**](#randys-public-transport-index-ptdex)
