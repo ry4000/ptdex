@@ -115,7 +115,7 @@ A public GitHub repository containing information about public transport cards.
 | **WLG**<br>NZ-WGN<br>Wellington | [**Snapper**](https://www.snapper.co.nz/)<br>*Gen 1a*<br>NXP JCOP 31 | - | `###`<br>- | -<br>-<br>- |
 | **WLG**<br>NZ-WGN<br>Wellington | [**Snapper**](https://www.snapper.co.nz/)<br>*Gen 1b*<br>NXP Java | - | `###`<br>- | -<br>-<br>- |
 > [!NOTE]
-> 1. This Section does not include [**MIFARE-Based Cards**](#mifare-based-cards)/[**MIFARE-Based Tickets](#mifare-based-tickets).
+> 1. This Section does not include [**MIFARE-Based Cards**](#mifare-based-cards)/[**MIFARE-Based Tickets**](#mifare-based-tickets).
 > 2. **ATL breeze** *Gen 3 Orange* also includes an ISO/IEC 7816-4 contact chip.
 > 3. **WLG Snapper** uses a variant of T-money.
 > 4. **WLG Snapper** *Gen 1b* also includes an ISO/IEC 7816-4 contact chip.
