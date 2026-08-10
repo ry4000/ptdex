@@ -47,7 +47,7 @@ A public GitHub repository containing information about public transport cards.
 | **LIN**<br>IT-MI<br>Milan | [**ATM**](https://www.atm.it/EN/VIAGGIACONNOI/ABBONAMENTI/Pages/Tesseraelettronic.aspx) |
 | **LIL**<br>FR-HDF<br>Hauts-de-France | [**PassPass**](https://www.passpass.fr) |
 | **LYS**<br>FR-ARA<br>Auvergne-Rhône-Alpes | [**OURA**](https://www.oura.com) |
-| **NCE**<br>FR-06<br>Nice | [**The Card**](https://www.lignesdazur.com/en/tickets-and-fares)<br>[*Solo Rescue*](https://www.lignesdazur.com/fr/solo-secours) |
+| **NCE**<br>FR-06<br>Nice | [**La Carte**](https://www.lignesdazur.com/en/tickets-and-fares)<br>[*Solo Secours*](https://www.lignesdazur.com/fr/solo-secours) |
 | **RNS**<br>FR-BRE<br>Bretagne | [**KorriGo**](https://korrigo.bzh) |
 | **SXB**<br>FR-GES<br>Grand-Est | [**Simplicités**](https://www.fluo.grandest.fr/carte-simplicites/) |
 | **TUF**<br>FR-CVL<br>Centre-Val de Loire | [**JVMalin**](https://www.jvmalin.fr/en/) |
@@ -55,8 +55,8 @@ A public GitHub repository containing information about public transport cards.
 
 
 > [!NOTE]
-> 1. **NCE The Card** *Solo Rescue* in French is `La Carte - Solo Secours`.
-> 2. **NCE The Card** *Solo Rescue*'s QR Code is a shortened URL to download their [**Android App**](https://play.google.com/store/apps/details?id=eu.mobeepass.walletapplication).
+> 1. **NCE La Carte** *Solo Secours* in English is `The Card - Solo Rescue`.
+> 2. **NCE La Carte** *Solo Secours*'s QR Code is a shortened URL to download their [**Android App**](https://play.google.com/store/apps/details?id=eu.mobeepass.walletapplication).
 > 3. **YUL OPUS** also includes an ISO/IEC 7816-4 contact chip.
 > 4. **YUL OPUS** has the option to personalise the card with a name/photo for certain fare types.
 
@@ -180,7 +180,7 @@ A public GitHub repository containing information about public transport cards.
 | **LJU**<br>SI-061<br>Ljubljana | [**Urbana**](https://www.lpp.si/en/frequently-asked-questions-and-answers#)<br>-<br>DESFire EV2 8k | 128 | -<br>- | -<br>-<br>- |
 | **LPL**<br>GB-LIV<br>Liverpool | [**ITSO**](https://www.itso.org.uk)<br>[*MetroCard*](https://www.merseytravel.gov.uk/tickets-and-pricing/your-smartcard)<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **MAN**<br>GB-MAN<br>Stockport | [**ITSO**](https://www.itso.org.uk)<br>[*StagecoachSmart*](https://www.stagecoachbus.com/promos-and-offers/national/stagecoachsmart)<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
-| **MAD**<br>ES-MD<br>Madrid | [**Tarjeta Transporte Público**](https://crtm.es/billetes-y-tarifas/#Tarjetas)<br>-<br>DESFire EV3 4k | - | -<br>- | -<br>-<br>- |
+| **MAD**<br>ES-MD<br>Madrid | [**Tarjeta Transporte Público**](https://crtm.es/billetes-y-tarifas/#Tarjetas)<br>*Multi*<br>DESFire EV3 4k | - | -<br>- | -<br>-<br>- |
 | **MEL**<br>AU-VIC<br>Melbourne | [**myki**](https://transport.vic.gov.au/manage-myki#buy/fare-type)<br>*Gen 2C (Purple)*<br>DESFire EV3 4k | - | -<br>- | -<br>-<br>Optional |
 | **MEL**<br>AU-VIC<br>Melbourne | [**myki**](https://transport.vic.gov.au/manage-myki#buy/fare-type)<br>[*Gen 2C Youth (Charlie)*](https://transport.vic.gov.au/news-and-resources/campaigns/travel-freeeeeeeee)<br>DESFire EV3 4k | - | -<br>- | -<br>-<br>Optional |
 | **MIA**<br>US-FL<br>Miami | [**EASY Card**](https://transitstore.miamidade.gov)<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
@@ -188,6 +188,7 @@ A public GitHub repository containing information about public transport cards.
 | **MLA**<br>MT-60<br>Valletta | [**tallinja**](https://www.publictransport.com.mt/)<br>[*Adult*](https://www.publictransport.com.mt/rates-offers-local/)<br>Plus EV2 2k | 128 | -<br>- | =<br>-<br>Yes |
 | **MNL**<br>PH-00<br>Manila | [**beep**](https://beep.com.ph/where-to-buy-a-beep-card)<br>-<br>DESFire EV1 8k | - | -<br>- | `MMM/YYYY`<br>-<br>- |
 | **MNL**<br>PH-00<br>Manila | [**TRIPKO**](https://www.tripko.com.ph)<br>-<br>DESFire EV3 2k | - | -<br>- | -<br>-<br>- |
+| **MXP**<br>IT-MI<br>Milan | [**RicaricaMi**](https://www.atm.it/it/ViaggiaConNoi/Biglietti/Pagine/bigliettoricaricabile.aspx)<br>-<br>Ultralight EV1 128b | - | -<br>- | -<br>-<br>- |
 | **OMA**<br>US-NE<br>Omaha | [**Cubic Umo**](https://umomobility.com)<br>[*Umo*](https://www.ometro.com/umo)<br>DESFire EV2 2k | UPC A<br>128 | `###`<br>- | -<br>Yes<br>- |
 | **ORD**<br>US-IL<br>Chicago | [**Ventra**](https://www.ventrachicago.com/purchase)<br>-<br>DESFire EV1 256b | - | `###`<br>- | `MM/YY`<br>-<br>- |
 | **OXR**<br>US-CA<br>Camarillo | [**Cubic Umo**](https://umomobility.com)<br>[*VCbuspass*](https://www.goventura.org/buy-vcbuspass)<br>DESFire EV2 2k | UPC A<br>128 | -<br>- | -<br>Yes<br>- |
@@ -247,14 +248,15 @@ A public GitHub repository containing information about public transport cards.
 > 23. **MEL myki (Youth [Charlie])** is the winning Youth myki design for 2026; [**2027**](https://engage.vic.gov.au/youthmyki)'s design is to be announced in September 2026.
 > 24. **MLA tallinja Adult** requires [**registration**](https://www.publictransport.com.mt/personalised-tallinja-card/register-now/).
 > 25. **MNL TRIPKO** in English is `MYTRIP`.
-> 26. **SLC FAREPAY** is listed here *rather than in [**MIFARE-Based Tickets**](#mifare-based-tickets)* because this card is reloadable.
-> 27. **TPE 一卡通** in English is `iPASS`.
-> 28. **YVR Compass Mini** and **YVR Compass Wearable** are only sold at Waterfront Station's TransLink Customer Service Centre.
-> 29. **YVR Compass Wearable**'s CVN is written on the issued receipt.
-> 30. **YYZ PRESTO**'s emboss is `P` in Braille and only appears on some PRESTO batches.
-> 31. **YYZ PRESTO**'s printed date is the production date *not the expiry date*.
-> 32. **YYZ PRESTO Commemorative**'s limited-edition design is soccer-themed; other limited-edition designs have been issued.
-> 33. **ZAG Value Card** in English is `Value Card`.
+> 26. **MXP RicaricaMi** in English is `RechargeMe`.
+> 27. **SLC FAREPAY** is listed here *rather than in [**MIFARE-Based Tickets**](#mifare-based-tickets)* because this card is reloadable.
+> 28. **TPE 一卡通** in English is `iPASS`.
+> 29. **YVR Compass Mini** and **YVR Compass Wearable** are only sold at Waterfront Station's TransLink Customer Service Centre.
+> 30. **YVR Compass Wearable**'s CVN is written on the issued receipt.
+> 31. **YYZ PRESTO**'s emboss is `P` in Braille and only appears on some PRESTO batches.
+> 32. **YYZ PRESTO**'s printed date is the production date *not the expiry date*.
+> 33. **YYZ PRESTO Commemorative**'s limited-edition design is soccer-themed; other limited-edition designs have been issued.
+> 34. **ZAG Value Card** in English is `Value Card`.
 
 - [**Back to PTDex**](#randys-public-transport-index-ptdex)
 
@@ -273,6 +275,7 @@ A public GitHub repository containing information about public transport cards.
 | **LHR**<br>GB-LND<br>London | [**oyster**](https://tfl.gov.uk/fares/ways-to-pay/bus-and-tram-pass)<br>Classic EV1 | - | -<br>- | -<br>- | -<br>- |
 | **MNL**<br>PH-00<br>Manila | [**LRT Ticket**](https://www.lrta.gov.ph/tickets-and-fares)<br>Ultralight C | - | -<br>- | -<br>- | -<br>- |
 | **MNL**<br>PH-00<br>Manila | [**MRT Ticket**](https://www.dotrmrt3.gov.ph)<br>Ultralight C | - | -<br>- | -<br>- | -<br>- |
+| **MRS**<br>FR-PAC<br>Marseille | [**Le Ticket**](https://www.rtm.fr/tarifs/carte-1-voyage)<br>Ultralight 48b | - | -<br>- | -<br>- | -<br>- |
 | **OPO**<br>PT-13<br>Porto | [**Adante Tour 1**](https://andante.pt/en/purchase/andante-tour)<br>Ultralight EV1 48b | - | -<br>- | -<br>- | -<br>- |
 | **ORD**<br>US-IL<br>Chicago | [**Ticket**](https://www.transitchicago.com/fares)<br>Ultralight EV1 48b | - | -<br>- | -<br>- | -<br>- |
 | **STL**<br>US-MO<br>St Louis | [**Ride On Pass**](https://www.metrostlouis.org/nextgenfare/)<br>Ultralight EV1 128b | - | -<br>- | -<br>`MM/DD/YYYY` | -<br>- |
