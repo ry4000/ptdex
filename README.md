@@ -272,6 +272,7 @@ A public GitHub repository containing information about public transport cards.
 | **DOH**<br>QA-DA<br>Doha | [**Day Pass**](https://www.qr.com.qa/fares-and-travel-cards)<br>Ultralight EV1 48b | - | -<br>- | `02:58`<br>`DD MMM YYYY` | -<br>- |
 | **GLA**<br>GB-GLG<br>Glasgow | [**SPT Ticket**](https://www.spt.co.uk/tickets/subway-tickets)<br>Ultralight 48b | - | -<br>- | -<br>- | -<br>- |
 | **HKG**<br>CN-HK<br>Hong Kong | [**MTR Ticket**](https://www.mtr.com.hk/en/customer/tickets/promotions_4persons.html)<br>Ultralight C | 128 | -<br>- | -<br>- | -<br>- |
+| **LAS**<br>US-NV<br>Las Vegas | [**Monorail Ticket**](https://tix.lvmonorail.com/purchase)<br>Ultralight EV1 48b | - | -<br>- | -<br>- | -<br>-
 | **LHR**<br>GB-LND<br>London | [**oyster**](https://tfl.gov.uk/fares/ways-to-pay/bus-and-tram-pass)<br>Classic EV1 | - | -<br>- | -<br>- | -<br>- |
 | **MNL**<br>PH-00<br>Manila | [**LRT Ticket**](https://www.lrta.gov.ph/tickets-and-fares)<br>Ultralight C | - | -<br>- | -<br>- | -<br>- |
 | **MNL**<br>PH-00<br>Manila | [**MRT Ticket**](https://www.dotrmrt3.gov.ph)<br>Ultralight C | - | -<br>- | -<br>- | -<br>- |
