@@ -140,7 +140,7 @@ A public GitHub repository containing information about public transport cards.
 | **BKK**<br>TH-10<br>Bangkok | [**Rabbit**](https://www.bts.co.th/eng/tickets/ticket-rabbit.html)<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **BLI**<br>US-WA<br>Bellingham | [**Cubic Umo**](https://umomobility.com)<br>-<br>DESFire EV2 2k | 128 | -<br>- | -<br>Yes<br>- |
 | **BNE**<br>AU-QLD<br>Brisbane | [**go**](https://gocard.translink.com.au/webtix/tickets-and-fares/go-card/online/buy/step-one)<br>-<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
-| **BOS**<br>US-MA<br>Boston | [**CharlieCard**](https://www.mbta.com/fares/charliecard)<br>-<br>DESFire EV1 256b | - | -<br>- | -<br>-<br>- |
+| **BOS**<br>US-MA<br>Boston | [**Charlie**](https://www.mbta.com/fares/charlie/the-new-charlie-card)<br>-<br>DESFire EV1 256b | - | -<br>- | -<br>-<br>- |
 | **BTV**<br>US-VT<br>Burlington | [**Genfare e-Fare**](https://genfare.com/products/e-fare)<br>[*Ride Ready*](https://gmt-prod.gfcp.io/efare/store/loadProducts)<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **BRS**<br>GB-BST<br>Bristol | [**ITSO**](https://www.itso.org.uk)<br>[*touch*](https://www.gwr.com/buy-train-tickets/login-register?action=signup)<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>Yes |
 | **CAK**<br>US-OH<br>Canton | [**Genfare e-Fare**](https://genfare.com/products/e-fare)<br>[*SCORE*](https://sarta-prod.gfcp.io/efare/store/loadProducts)<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
@@ -233,33 +233,35 @@ A public GitHub repository containing information about public transport cards.
 > 5. **AMS OV-chipkaart** *Anonymous* does not always have an EAN 13 barcode at the back.
 > 6. **ATL breeze** *Gen 2 Silver* are decommissioned in favour of `breeze (Gen 3 Orange)`.
 > 7. **BGO Skyss Kort** in English is `Skyss Card`.
-> 8. **CBR MyWay+**'s emboss is dots in the shape of `T`.
-> 9. **CBR MyWay+**'s QR Code is text that shows a card prefix (`00001`), card number, and CCV.
-> 10. **CBR MyWay+** has `Random ID (RID)` enabled.
-> 11. **CHC Metrocard**'s emboss is dots in the shape of `>`.
-> 12. **DEN MyRide** has added a `VanillaDirect` barcode to the back of the card since `Tuesday 2 December 2025`.
-> 13. **EWR SmartLink** is being phased out in favour of **EWR TAPP**.
-> 14. **EWR TAPP**'s `ISO-FID` is `3821`.
-> 15. **EWR TAPP**'s `ISO DF-Name` is `637001FF4F5454205631`.
-> 16. **EWR TAPP** is an abbreviation for `Total Access PATH Payment`.
-> 17. **KUL Touch n' Go Enhanced**'s QR Code directs commuters to download their [**eWallet App**](https://cdn.tngdigital.com.my/s/landing/index.html).
-> 18. **IST İstanbulkart** in English is `Istanbul Card`.
-> 19. **IST İstanbulkart**'s QR Code contains the card number, UID, and [**their website**](https://www.istanbulkart.istanbul).
-> 20. **LAX TAP** is an abbreviation for `Transit Access Pass`.
-> 21. **MAD Tarjeta Transporte Público** in English is `Public Transport Card`.
-> 22. **MEL myki** prints the commuter's name if it's registered and requested at the time of online purchase/replacement.
-> 23. **MEL myki (Youth [Charlie])** is the winning Youth myki design for 2026; [**2027**](https://engage.vic.gov.au/youthmyki)'s design is to be announced in September 2026.
-> 24. **MLA tallinja Adult** requires [**registration**](https://www.publictransport.com.mt/personalised-tallinja-card/register-now/).
-> 25. **MNL TRIPKO** in English is `MYTRIP`.
-> 26. **MXP RicaricaMi** in English is `RechargeMe`.
-> 27. **SLC FAREPAY** is listed here *rather than in [**MIFARE-Based Tickets**](#mifare-based-tickets)* because this card is reloadable.
-> 28. **TPE 一卡通** in English is `iPASS`.
-> 29. **YVR Compass Mini** and **YVR Compass Wearable** are only sold at Waterfront Station's TransLink Customer Service Centre.
-> 30. **YVR Compass Wearable**'s CVN is written on the issued receipt.
-> 31. **YYZ PRESTO**'s emboss is `P` in Braille and only appears on some PRESTO batches.
-> 32. **YYZ PRESTO**'s printed date is the production date *not the expiry date*.
-> 33. **YYZ PRESTO Commemorative**'s limited-edition design is soccer-themed; other limited-edition designs have been issued.
-> 34. **ZAG Value Card** in English is `Value Card`.
+> 8. **BOS CharlieCard** is currently being used while **BOS Charlie** is in the [**test phase**](https://www.mbta.com/fares/charlie/the-new-charlie-card).
+> 9. **BOS CharlieCard** uses MIFARE Classic EV1 and has the expiry date `MM/YY` printed on the front.
+> 10. **CBR MyWay+**'s emboss is dots in the shape of `T`.
+> 11. **CBR MyWay+**'s QR Code is text that shows a card prefix (`00001`), card number, and CCV.
+> 12. **CBR MyWay+** has `Random ID (RID)` enabled.
+> 13. **CHC Metrocard**'s emboss is dots in the shape of `>`.
+> 14. **DEN MyRide** has added a `VanillaDirect` barcode to the back of the card since `Tuesday 2 December 2025`.
+> 15. **EWR SmartLink** is being phased out in favour of **EWR TAPP**.
+> 16. **EWR TAPP**'s `ISO-FID` is `3821`.
+> 17. **EWR TAPP**'s `ISO DF-Name` is `637001FF4F5454205631`.
+> 18. **EWR TAPP** is an abbreviation for `Total Access PATH Payment`.
+> 19. **KUL Touch n' Go Enhanced**'s QR Code directs commuters to download their [**eWallet App**](https://cdn.tngdigital.com.my/s/landing/index.html).
+> 20. **IST İstanbulkart** in English is `Istanbul Card`.
+> 21. **IST İstanbulkart**'s QR Code contains the card number, UID, and [**their website**](https://www.istanbulkart.istanbul).
+> 22. **LAX TAP** is an abbreviation for `Transit Access Pass`.
+> 23. **MAD Tarjeta Transporte Público** in English is `Public Transport Card`.
+> 24. **MEL myki** prints the commuter's name if it's registered and requested at the time of online purchase/replacement.
+> 25. **MEL myki (Youth [Charlie])** is the winning Youth myki design for 2026; [**2027**](https://engage.vic.gov.au/youthmyki)'s design is to be announced in September 2026.
+> 26. **MLA tallinja Adult** requires [**registration**](https://www.publictransport.com.mt/personalised-tallinja-card/register-now/).
+> 27. **MNL TRIPKO** in English is `MYTRIP`.
+> 28. **MXP RicaricaMi** in English is `RechargeMe`.
+> 29. **SLC FAREPAY** is listed here *rather than in [**MIFARE-Based Tickets**](#mifare-based-tickets)* because this card is reloadable.
+> 30. **TPE 一卡通** in English is `iPASS`.
+> 31. **YVR Compass Mini** and **YVR Compass Wearable** are only sold at Waterfront Station's TransLink Customer Service Centre.
+> 32. **YVR Compass Wearable**'s CVN is written on the issued receipt.
+> 33. **YYZ PRESTO**'s emboss is `P` in Braille and only appears on some PRESTO batches.
+> 34. **YYZ PRESTO**'s printed date is the production date *not the expiry date*.
+> 35. **YYZ PRESTO Commemorative**'s limited-edition design is soccer-themed; other limited-edition designs have been issued.
+> 36. **ZAG Value Card** in English is `Value Card`.
 
 - [**Back to PTDex**](#randys-public-transport-index-ptdex)
 
