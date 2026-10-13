@@ -140,7 +140,7 @@ A public GitHub repository containing information about public transport cards.
 | **BKK**<br>TH-10<br>Bangkok | [**Rabbit**](https://www.bts.co.th/eng/tickets/ticket-rabbit.html)<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **BLI**<br>US-WA<br>Bellingham | [**Cubic Umo**](https://umomobility.com)<br>-<br>DESFire EV2 2k | 128 | -<br>- | -<br>Yes<br>- |
 | **BNE**<br>AU-QLD<br>Brisbane | [**go**](https://gocard.translink.com.au/webtix/tickets-and-fares/go-card/online/buy/step-one)<br>-<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
-| **BOS**<br>US-MA<br>Boston | [**CharlieCard**](https://www.mbta.com/fares/charliecard)<br>-<br>Classic 1k | - | -<br>- | `MM/YY`<br>-<br>- |
+| **BOS**<br>US-MA<br>Boston | [**CharlieCard**](https://www.mbta.com/fares/charliecard)<br>-<br>DESFire EV1 256b | - | -<br>- | -<br>-<br>- |
 | **BTV**<br>US-VT<br>Burlington | [**Genfare e-Fare**](https://genfare.com/products/e-fare)<br>[*Ride Ready*](https://gmt-prod.gfcp.io/efare/store/loadProducts)<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **BRS**<br>GB-BST<br>Bristol | [**ITSO**](https://www.itso.org.uk)<br>[*touch*](https://www.gwr.com/buy-train-tickets/login-register?action=signup)<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>Yes |
 | **CAK**<br>US-OH<br>Canton | [**Genfare e-Fare**](https://genfare.com/products/e-fare)<br>[*SCORE*](https://sarta-prod.gfcp.io/efare/store/loadProducts)<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
@@ -154,9 +154,10 @@ A public GitHub repository containing information about public transport cards.
 | **DUB**<br>IE-D<br>Dublin | [**Leap**](https://leapcard.ie/en/NavigationPages/CardPurchase.aspx)<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **DUD**<br>NZ-OTA<br>Otago | [**Bee**](https://beecard.co.nz/GetACard)<br>-<br>DESFire EV1 4k | - | `###`<br>- | -<br>-<br>- |
 | **ECN**<br>CY-01<br>Nicosia | [**motion**](https://motionbuscard.org.cy/ticket)<br>-<br>DESFire EV2 4k | - | -<br>- | -<br>-<br>- |
-| **EUG**<br>US-OR<br>Eugene | [**Cubic Umo**](https://umomobility.com)<br>-<br>DESFire EV2 2k | UPC A<br>128 | -<br>- | -<br>Yes<br>- |
+| **ELM**<br>US-NY<br>Almira | [**SmartTAP**](https://ridectran.com/fares/reloadable-disposable-smarttap-cards/)<br>-<br>DESFire EV1 4k | - | <br>- | -<br>-<br>- |
 | **EMA**<br>GB-LCE<br>Leicester | [**ITSO**](https://www.itso.org.uk)<br>[*Smartcard*](https://www.buytickets.eastmidlandsrailway.co.uk/smartcard)<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>Yes |
-| **EWR**<br>US-NJ<br>Jersey City | [**SmartLink**](https://www.pathsmartlinkcard.com)<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
+| **EUG**<br>US-OR<br>Eugene | [**Cubic Umo**](https://umomobility.com/)<br>-<br>DESFire EV2 2k | UPC A<br>128 | -<br>- | -<br>Yes<br>- |
+| **EWR**<br>US-NJ<br>Jersey City | [**SmartLink**](https://www.pathsmartlinkcard.com/)<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **EWR**<br>US-NJ<br>Jersey City | [**TAPP**](https://www.tappandride.com/purchase/new-tapp-card)<br>-<br>DESFire EV1 256b | - | -<br>- | -<br>-<br>- |
 | **EWR**<br>US-NJ<br>Newark | [**FARE-PAY**](https://www.njtransit.com/farepay)<br>-<br>DESFire EV3 4k | UPC A<br>128 | `###`<br>- | -<br>Yes<br>- |
 | **GEG**<br>US-WA<br>Spokane | [**Connect**](https://www.staconnectcard.com/buy-online)<br>-<br>DESFire EV3 2k | UPC A<br>128 | `###`<br>- | -<br>Yes<br>- |
@@ -201,7 +202,9 @@ A public GitHub repository containing information about public transport cards.
 | **PWM**<br>US-ME<br>Portland | [**Cubic Umo**](https://umomobility.com/)<br>[*DiriGo Pass*](https://dirigopass.org)<br>DESFire EV2 2k | UPC A<br>128 | -<br>- | -<br>Yes<br>- |
 | **RDU**<br>US-NC<br>Raleigh | [**Cubic Umo**](https://umomobility.com/)<br>[*GoPass*](https://www.paypal.com/ncp/payment/Z7TYYN966ZPG4)<br>DESFire EV1 2k | UPC A<br>128 | -<br>- | -<br>Yes<br>- |
 | **RSW**<br>US-FL<br>Fort Meyers | [**Genfare e-Fare**](https://genfare.com/products/e-fare)<br>[*TropiCard*](https://www.mytropicard.com/efare/store/loadProducts)<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
+| **SAN**<br>US-CA<br>San Diego | [**PRONTO**](https://www.ridepronto.com/get-a-card/)<br>-<br>DESFire EV1 256b | 128 | `###`<br>- | -<br>Yes<br>- |
 | **SCL**<br>CL-RM<br>Santiago | [**bip!**](https://www.red.cl/en/rates-and-top-ups/bip-card)<br>-<br>Classic EV1 1k | 128 | -<br>- | -<br>-<br>- |
+| **SDF**<br>US-KY<br>Louisville | [**MyTARC**](https://mytarc.ridetarc.org/efare/store/loadProducts)<br>-<br>DESFire EV1 4k | - | `###`<br>- | -<br>-<br>- |
 | **SEA**<br>US-WA<br>Seattle | [**ORCA**](https://www.myorca.com/buy-online)<br>-<br>DESFire EV3 2k | 128 | `###`<br>- | -<br>-<br>- |
 | **SFO**<br>US-CA<br>San Francisco | [**Clipper**](https://www.clippercard.com/checkout-get)<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **SLC**<br>US-UT<br>Salt Lake City | [**FAREPAY**](https://farepay.rideuta.com/cart/cart.html)<br>-<br>Ultralight C | UPC A<br>128 | -<br>- | -<br>Yes<br>- |
