@@ -137,7 +137,7 @@ A public GitHub repository containing information about public transport cards.
 | **BFS**<br>GB-NIR<br>Belfast | [**Belfast Visitor Pass**](https://www.translink.co.uk/tickets/travelcards/belfast-visitor-pass)<br>-<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
 | **BGO**<br>NO-46<br>Bergen | [**Skyss Kort**](https://www.skyss.no/en/tickets-and-prices/buying-tickets/order-skyss-travelcard)<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
 | **BKK**<br>TH-10<br>Bangkok | [**BEM SVC**](https://metro.bemplc.co.th/Ticket-Token?ty=3)<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
-| **BKK**<br>TH-10<br>Bangkok | [**Rabbit**](https://www.bts.co.th/eng/tickets/ticket-rabbit.html)<br>-<br>DESFire EV1 4k | - | -<br>- | -<br>-<br>- |
+| **BKK**<br>TH-10<br>Bangkok | [**Rabbit**](https://www.bts.co.th/eng/tickets/ticket-rabbit.html)<br>-<br>DESFire EV3 4k | - | -<br>- | -<br>-<br>- |
 | **BLI**<br>US-WA<br>Bellingham | [**Cubic Umo**](https://umomobility.com)<br>-<br>DESFire EV2 2k | 128 | -<br>- | -<br>Yes<br>- |
 | **BNE**<br>AU-QLD<br>Brisbane | [**go**](https://gocard.translink.com.au/webtix/tickets-and-fares/go-card/online/buy/step-one)<br>-<br>Classic EV1 1k | - | -<br>- | -<br>-<br>- |
 | **BOS**<br>US-MA<br>Boston | [**Charlie**](https://www.mbta.com/fares/charlie/the-new-charlie-card)<br>-<br>DESFire EV1 256b | - | -<br>- | -<br>-<br>- |
